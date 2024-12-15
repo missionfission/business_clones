@@ -1,139 +1,139 @@
-id,ranking,temp_ranking,previous_ranking,company_name,city,country,state,current_employees,last_employees,employee_growth,founded,total_funding,linkedin_url,url,Industry,Points,valuation,valuation_as_of,Contact Data
-376975,1,,2,"Anthropic","San Francisco","United States","CA",573,135,323.26,,"$4.51B","http://www.linkedin.com/company/anthropicresearch","anthropic.com","AI",3613,20000000000,"February 2023",
-976147,2,,,"Figure","Sunnyvale","USA","CA",692,48,1332.61,2022,"$435M","http://www.linkedin.com/company/figure-ai","figure.ai","Robotics",3195,2600000000,"March 2024",
-338364,3,,21,"CoreWeave","New York","United States","NY",782,282,177.3,2017,"$1.22B","http://www.linkedin.com/company/coreweave","coreweave.com","AI",2930,19000000000,"May 2024",
-315401,4,,4,"Hugging Face","New York","United States","NY",333,235,41.52,2016,"$400M","http://www.linkedin.com/company/huggingface","huggingface.co","AI",2579,4500000000,"August 2023",
-9967,5,5685,183,"Shield AI","San Diego","United States","CA",645,578,11.64,2015,"$930M","http://www.linkedin.com/company/shield-ai","shield.ai","AI",2394,2800000000,"November 2023",
-175085,6,,48,"Lendbuzz","Boston","United States","MA",265,201,31.94,2015,"$257M","http://www.linkedin.com/company/lendbuzz","lendbuzz.com","Fintech",2332,1100000000,"October 2023",
-884464,7,,10,"Character.AI","Palo Alto","United States","CA",100,32,216.67,2022,"$193M","http://www.linkedin.com/company/character-ai","character.ai","AI",2279,5000000000,"November 2023",
-375884,8,,23,"Writer","San Francisco","United States","CA",1226,322,280.75,2020,"$144M","http://www.linkedin.com/company/getwriter","writer.com","AI",2243,1900000000,"November 2024",
-372339,9,,6,"Runway ML","New York","United States","NY",181,98,84.69,2018,"$237M","http://www.linkedin.com/company/runwayml","runwayml.com","AI",2145,4000000000,"July 2024",
-981209,10,,,"BlueOval SK","Stanton","United States","TN",338,33,915.38,2022,,"http://www.linkedin.com/company/blueovalsk","blueovalsk.com","Automotive",2109,,,
-472233,11,,8,"LayerZero Labs","Vancouver","CAN","BC",123,71,72.55,2021,"$263M","http://www.linkedin.com/company/layerzerolabs","layerzero.network","Fintech",2104,3000000000,"April 2023",
-319889,12,,25,"Cohere","Toronto","CAN","ON",607,219,176.56,2019,"$435M","http://www.linkedin.com/company/cohere-ai","cohere.com","AI",2098,2100000000,"June 2023",
-7119,13,218,,"VAST data","New York","United States","NY",748,492,51.81,2016,"$341M","http://www.linkedin.com/company/vast-data","vastdata.com","Analytics",2042,9000000000,"December 2023",
-174917,14,,1515,"Lightmatter","Boston","United States","MA",191,131,45.8,2017,"$422M","http://www.linkedin.com/company/lightmatter","lightmatter.co","Hardware",2032,4400000000,"October 2024",
-319198,15,,858,"Applied Intuition","Mountain View","USA","CA",527,360,46.36,2017,"$602M","http://www.linkedin.com/company/applied-intuition-inc","appliedintuition.com","Analytics",2002,6000000000,"March 2024",
-364932,16,,343,"Electric Hydrogen","Natick","USA","MA",349,214,62.75,,"$603M","http://www.linkedin.com/company/electric-h2","eh2.com","Environmental",1987,1000000000,"October 2023",
-480484,17,,5,"Island","Dallas","United States","TX",489,334,46.41,2020,"$325M","http://www.linkedin.com/company/island-io","island.io","SaaS",1976,3000000000,"April 2024",
-966657,18,,3,"Typeface","San Francisco","United States","CA",111,37,202.86,2022,"$206M","http://www.linkedin.com/company/typefaceai","typeface.ai","AI",1961,1000000000,"June 2023",
-378110,19,,1178,"Bilt Rewards","New York","United States","NY",169,98,73.12,2021,"$413M","http://www.linkedin.com/company/biltrewards","biltrewards.com","Fintech",1942,3100000000,"January 2024",
-321344,20,,14,"Lyten","San Jose","United States","CA",300,252,18.87,2015,"$410M","http://www.linkedin.com/company/lyten-inc","lyten.com","Environmental",1907,1400000000,"September 2023",
-316351,21,,15,"Pinecone","New York","United States","NY",177,68,160,2019,"$138M","http://www.linkedin.com/company/pinecone-io","pinecone.io","AI",1905,750000000,"April 2023",
-45362,22,,86,"SageSure","Jersey City","United States","NJ",688,569,21.03,2006,"$250M","http://www.linkedin.com/company/sagesure","sagesure.com","Insurance",1895,1000000000,"May 2023",
-372035,23,,18,"Replit","San Francisco","United States","CA",186,132,40.48,2016,"$272M","http://www.linkedin.com/company/repl-it","replit.com","DevOps",1858,1200000000,"April 2023",
-884463,24,,13,"Presight.ai","Abu Dhabi","United Arab Emirates",,210,170,23.46,2020,,"http://www.linkedin.com/company/presight-ai","presight.ai","AI",1814,2000000000,"March 2023",
-483799,25,,34,"Ultium Cells","Warren","United States","OH",942,520,81.28,,"$5B","http://www.linkedin.com/company/ultium-cells","ultiumcell.com","Automotive",1808,20000000000,"July 2023",
-471018,26,,11,"Inworld AI","Mountain View","USA","CA",113,72,56.52,2021,"$117M","http://www.linkedin.com/company/inworld-ai","inworld.ai","AI",1801,500000000,"August 2023",
-88853,27,1606,,"BitGo","Palo Alto","United States","CA",433,210,106,2013,"$170M","http://www.linkedin.com/company/bitgo-inc","bitgo.com","Fintech",1794,1700000000,"August 2023",
-966676,28,,16,"Imbue","Mountain View","United States","CA",72,41,75.61,2019,"$232M","http://www.linkedin.com/company/imbue-ai","imbue.com","AI",1788,1000000000,"September 2023",
-977467,29,,,"Quantinuum","Broomfield","USA","CO",428,425,0.74,2021,"$625M","http://www.linkedin.com/company/quantinuumqc","quantinuum.com","Fintech",1787,5000000000,"January 2024",
-91037,30,,12,"Pryon","Raleigh","United States","NC",161,67,139.06,2017,"$141M","http://www.linkedin.com/company/pryon","pryon.com","AI",1761,500000000,"September 2023",
-385878,31,,20,"KoBold Metals","Berkeley","United States","CA",174,112,55.14,2018,"$392M","http://www.linkedin.com/company/koboldmetals","koboldmetals.com","Mining",1758,1000000000,"June 2023",
-977489,32,,,"Together AI","San Francisco","United States","CA",71,22,223.81,2022,"$228M","http://www.linkedin.com/company/togethercomputer","together.ai","AI",1754,1250000000,"March 2024",
-374115,33,,17,"Temporal Technologies","Bellevue","United States","WA",221,149,47.89,2019,"$204M","http://www.linkedin.com/company/temporal-technologies","temporal.io","DevOps",1748,1500000000,"February 2023",
-901103,34,,51,"Adept","San Francisco","United States","CA",79,42,87.5,,"$415M","http://www.linkedin.com/company/adeptai","adept.ai","AI",1745,1000000000,"March 2023",
-966653,35,,71,"ElevenLabs","New York","United States","NY",90,29,207.14,2022,"$101M","http://www.linkedin.com/company/elevenlabsio","elevenlabs.io","AI",1736,1100000000,"January 2024",
-19308,36,,85,"SkyWater Technology Foundry","Bloomington","United States","MN",491,444,10.71,2017,,"http://www.linkedin.com/company/skywater-technology-foundry","skywatertechnology.com","Semiconductors",1725,227000000,"November 2023",
-175485,37,,,"MaintainX","San Francisco","United States","CA",390,180,116.96,2018,"$104M","http://www.linkedin.com/company/getmaintainx","getmaintainx.com","Tech Services",1710,1000000000,"December 2023",
-342774,38,,325,"Glean","Palo Alto","United States","CA",567,283,100.35,2019,"$360M","http://www.linkedin.com/company/gleanwork","glean.com","HRTech",1696,4600000000,"August 2024",
-393341,39,,19,"Synthesia","London","UK",,353,177,98.82,2017,"$157M","http://www.linkedin.com/company/synthesia-technologies","synthesia.io","AI",1687,1000000000,"June 2023",
-977451,40,,,"Wormhole","George Town","Cayman Islands",,50,20,150,,"$225M","http://www.linkedin.com/company/wormhole-protocol","wormhole.com","Fintech",1686,2500000000,"November 2023",
-384998,41,,59,"Intenseye","New York","United States","NY",124,97,28.26,2018,"$94.4M","http://www.linkedin.com/company/intenseye","intenseye.com","Analytics",1640,300000000,"August 2023",
-396599,42,,27,"Zip","San Francisco","United States","CA",3780,3000,26,2020,"$181M","http://www.linkedin.com/company/theziphq","ziphq.com","Fintech",1639,2200000000,"October 2024",
-315529,43,,29,"Unlearn.AI","San Francisco","United States","CA",92,75,23.94,2017,"$135M","http://www.linkedin.com/company/unlearn-ai","unlearn.ai","AI",1633,265000000,"March 2023",
-7632,44,1865,,"Vestwell","New York","United States","NY",394,312,26.26,2016,"$289M","http://www.linkedin.com/company/vestwell","vestwell.com","Fintech",1626,1000000000,"December 2023",
-966675,45,,,"Upwind","Tel Aviv","Israel",,149,66,125.76,2022,"$80M","http://www.linkedin.com/company/upwindsecurity","upwind.io","IT Security",1601,900000000,"November 2024",
-7647,46,,117,"MadHive","New York","United States","NY",279,238,17.06,2016,"$307M","http://www.linkedin.com/company/madhive","madhive.com","Adtech",1585,1000000000,"June 2023",
-319735,47,,2819,"Lambda","San Francisco","United States","CA",332,219,51.2,2012,"$383M","http://www.linkedin.com/company/lambda-labs","lambdalabs.com","Hardware",1583,1500000000,"February 2024",
-12437,48,,,"EmployerDirect Healthcare","Dallas","United States","TX",306,222,37.91,,"$92M","http://www.linkedin.com/company/employer-direct-healthcare","edhc.com","Hospital/Healthcare",1565,1000000000,"December 2023",
-176924,49,,30,"Apkudo","Baltimore","United States","MD",211,172,22.56,2011,"$75M","http://www.linkedin.com/company/apkudo","apkudo.com","Wireless",1552,300000000,"February 2023",
-18395,50,2169,43,"Skydio","Redwood City","United States","CA",675,558,21.09,2014,"$570M","http://www.linkedin.com/company/skydio","skydio.com","Aviation",1538,2200000000,"January 2023",
-381997,51,,22,"EvenUp","San Francisco","United States","CA",385,235,63.83,2019,"$65M","http://www.linkedin.com/company/evenup","evenuplaw.com","LegalTech",1516,1000000000,"October 2024",
-328474,52,,,"Monument","London","UK",,99,89,10.59,,"$202M","http://www.linkedin.com/company/monumentbank","monument.co","Finance",1497,160000000,"November 2023",
-890549,53,,,"1KOMMA5°","Hamburg","Ger",,436,166,162.65,2021,"$689M","http://www.linkedin.com/company/1komma5grad","1komma5grad.com","Energy",1495,1000000000,"July 2023",
-371687,54,,,"QI Tech","Sao Paulo","Brazil",,142,80,77.63,2018,"$250M","http://www.linkedin.com/company/qi-tech","qitech.com.br","Finance",1489,1000000000,"October 2023",
-368732,55,,31,"Linear App","San Francisco","United States","CA",82,46,77.27,2019,"$52.2M","http://www.linkedin.com/company/linearapp","linear.app","DevOps",1471,400000000,"September 2023",
-7162,56,1733,33,"UVEye","Teaneck","United States","NJ",218,185,18.18,2014,"$200M","http://www.linkedin.com/company/uveye","uveye.com","IT Security",1467,800000000,"May 2023",
-87809,57,,74,"GrubMarket","San Francisco","United States","CA",149,137,9.23,2014,"$767M","http://www.linkedin.com/company/grubmarket-inc-","grubmarket.com","eCommerceTech",1453,1200000000,"September 2021",
-977435,58,,38,"MangoBoost","Bellevue","USA","WA",61,37,65.71,2022,"$65.5M","http://www.linkedin.com/company/mangoboost","mangoboost.io","DevOps",1453,300000000,"October 2023",
-395317,59,,40,"Volt","Amsterdam","Netherlands",,245,151,61.81,2019,"$2.31M","http://www.linkedin.com/company/voltio","volt.io","Fintech",1448,350000000,"June 2023",
-333580,60,,42,"AI 21","Tel Aviv","Israel","IL",280,191,46.7,2017,"$336M","http://www.linkedin.com/company/ai21","ai21.com","AI",1446,1400000000,"August 2023",
-175217,61,,197,"Liquid Death Mountain Water","Santa Monica","United States","CA",323,245,32.19,2017,"$264M","http://www.linkedin.com/company/liquid-death","liquiddeath.com","Food",1440,1400000000,"March 2024",
-752104,62,,,"Bending Spoons","Milan","USA","MI",466,405,15.03,2013,"$525M","http://www.linkedin.com/company/bendingspoons","bendingspoons.com","Tech Services",1433,2600000000,"February 2024",
-174734,63,,1138,"Enable","Toronto","CAN","ON",763,564,35.38,2000,"$274M","http://www.linkedin.com/company/enable-software","enable.com","Tech Services",1432,1120000000,"November 2023",
-884459,64,,37,"Tome","San Francisco","United States","CA",85,57,50,2020,"$81M","http://www.linkedin.com/company/magical-tome","beta.tome.app","AI",1430,300000000,"February 2023",
-367046,65,,52,"Helsing","Munich","Germany",,249,187,33.15,2021,"$450M","http://www.linkedin.com/company/helsing","helsing.ai","AI",1427,1600417500,"September 2023",
-966654,66,,72,"Captions","New York","United States","NY",74,51,42.86,,"$40M","http://www.linkedin.com/company/captionsapp","captions.ai","AI",1425,250000000,"June 2023",
-15100,67,3657,44,"Quantexa","London","UK",,738,648,13.94,2016,"$371M","http://www.linkedin.com/company/quantexa","quantexa.com","Fintech",1424,1800000000,"April 2023",
-98161,68,,7740,"Keyfactor","Cleveland","United States","OH",457,426,7.14,2001,"$218M","http://www.linkedin.com/company/wearekeyfactor","keyfactor.com","Tech Services",1423,1300000000,"October 2023",
-898982,69,,,"Monad Labs","New York","USA","NY",35,22,57.14,,"$225M","http://www.linkedin.com/company/monadlabs","monad.xyz","Software",1419,3000000000,"March 2024",
-901106,70,,62,"Raspberry Pi","Cambridge","UK",,137,101,35.42,,"$45M","http://www.linkedin.com/company/raspberrypi","raspberrypi.com","AI",1411,500000000,"April 2023",
-1012330,71,,,"SHIFTUP","Seocho","South Korea",,60,50,18.75,2012,"$26.4M","http://www.linkedin.com/company/shiftup-corporation","shiftup.co.kr","Gaming",1410,1500000000,"October 2023",
-1012329,72,,,"Castore","Manchester","UK",,445,357,24.71,2016,"$197M","http://www.linkedin.com/company/castore-sportswear/","castore.com","Apparel",1408,1200000000,"November 2023",
-376554,73,,,"Airspace Intelligence","Palo Alto","United States","CA",92,70,31.34,2018,"$34M","http://www.linkedin.com/company/airspace-intelligence","airspace-intelligence.com","Aviation",1405,300000000,"December 2023",
-884466,74,,41,"Axios HQ","Arlington","United States","TX",144,110,30.48,2022,"$20M","http://www.linkedin.com/company/axioshq","axioshq.com","AI",1404,100000000,"March 2023",
-884458,75,,45,"MNT-Halan","Giza","Egypt",,340,244,39.66,,"$510M","http://www.linkedin.com/company/mnt-halan","mnt-halan.com","Fintech",1392,1000000000,"February 2023",
-11016,76,177,1078,"ZUM","Redwood City","United States","CA",276,188,46.93,,"$350M","http://www.linkedin.com/company/ridezum","ridezum.com","Tech Services",1391,1300000000,"February 2024",
-3540,77,2260,,"BioCatch","Tel Aviv","Israel",,339,253,34.02,2011,"$253M","http://www.linkedin.com/company/biocatch","biocatch.com","IT Security",1385,1000000000,"November 2023",
-130150,78,,,"Wirepas","Tampere","FI",,87,78,12.16,2010,"$74.9M","http://www.linkedin.com/company/wirepas","wirepas.com","Wireless",1378,200000000,"November 2023",
-731283,79,,,"Climatebase","San Francisco","United States","CA",500,44,1045.24,2019,,"http://www.linkedin.com/company/climatebase","climatebase.org","Tech Services",1368,,,
-313791,80,,1875,"Zoom Drain","Philadelphia","United States","PA",133,105,26.44,1995,,"http://www.linkedin.com/company/zoomdrain","zoomdrain.com","Consumer",1358,,,
-376520,81,,32,"Airalo","Singapore","SGP",,195,118,66.07,2019,"$67.3M","http://www.linkedin.com/company/airalocom","airalo.com","Telecom",1352,250000000,"July 2023",
-371086,82,,404,"PhotoRoom","Paris","France",,277,79,252,2019,"$64M","http://www.linkedin.com/company/photoroom","photoroom.com","Tech Services",1351,500000000,"February 2024",
-175765,83,,,"Thunes","Singapore","SGP",,376,316,18.94,2016,"$212M","http://www.linkedin.com/company/thunespayments","thunes.com","Fintech",1345,900000000,"July 2023",
-901105,84,,39,"Sei","San Francisco","United States","CA",102,69,48.98,2022,"$35M","http://www.linkedin.com/company/sei-labs","seinetwork.io","Fintech",1328,800000000,"April 2023",
-885665,85,,558,"Watershed","San Francisco","United States","CA",431,276,55.89,2019,"$170M","http://www.linkedin.com/company/watershedclimate","watershed.com","Software",1301,1800000000,"February 2024",
-6131,86,,,"Gradiant Corporation","Woburn","United States","MA",342,330,3.82,2013,"$400M","http://www.linkedin.com/company/gradiant-corporation","gradiant.com","Environmental",1285,1000000000,"May 2023",
-110161,87,,,"MapBox","San Francisco","United States","CA",736,656,12.16,2011,"$507M","http://www.linkedin.com/company/mapbox","mapbox.com","Business Intelligence",1262,1300000000,"September 2023",
-172648,88,,2793,"Silverfort","Tel Aviv","Israel",,318,226,40.93,2016,"$222M","http://www.linkedin.com/company/silverfort","silverfort.com","IT Security",1258,1000000000,"January 2024",
-901108,89,,61,"Nomba","Lagos","Nigeria",,372,338,9.94,2017,"$42.7M","http://www.linkedin.com/company/nombahq","nomba.com","Fintech",1236,150000000,"May 2023",
-1012328,90,,,"TechMet Ltd","Dublin City","Ireland",,41,24,11.76,2017,"$371M","http://www.linkedin.com/company/techmet-ltd/","techmet.com","Energy",1216,1000000000,"November 2023",
-387408,91,,2065,"Meter","San Francisco","United States","CA",82,61,34.48,2015,"$145M","http://www.linkedin.com/company/meter-com","meter.com","Networking",1210,350000000,"February 2024",
-87735,92,736,1187,"Guesty","Hillsborough","United States","CA",621,561,10.67,2013,"$409M","http://www.linkedin.com/company/guesty","guesty.com","Real Estate Tech",1203,900000000,"April 2024",
-977485,93,,,"Mechanical Orchard","San Francisco","United States","CA",82,34,143.75,2022,"$24M","http://www.linkedin.com/company/mechanical-orchard","mechanical-orchard.com","AI",1199,95000000,"February 2024",
-6848,94,36,,"BigID","New York","United States","NY",614,564,8.94,2016,"$308M","http://www.linkedin.com/company/bigid","bigid.com","IT Security",1167,1000000000,"March 2024",
-173435,95,,26,"Kindbody","New York","United States","NY",675,627,7.71,2018,"$315M","http://www.linkedin.com/company/kindbody","kindbody.com","Digital Health",1165,1800000000,"March 2023",
-976986,96,,64,"Flashbots","Grand Cayman","Cayman Islands",,29,24,20.83,,,"http://www.linkedin.com/company/flashbots","flashbots.net","Computer and Network Security",1162,1000000000,"July 2023",
-466779,97,,67,"Credgenics","Noida","IND",,507,417,21.66,,"$78.7M","http://www.linkedin.com/company/credgenics","credgenics.com","Finance",1161,340000000,"August 2023",
-181243,98,,36,"Envisics","Milton Keynes","UK",,31,29,6.9,2018,"$150M","http://www.linkedin.com/company/envisics-limited","envisics.com","VR",1147,500000000,"March 2023",
-1012331,99,,,"Kin Insurance","Chicago","USA","IL",602,516,16.7,2016,"$458M","http://www.linkedin.com/company/kin-insurance/","kin.com","Fintech",1142,1000000000,"September 2023",
-366590,100,,4549,"Pigment","Paris","France",,420,242,73.91,2019,"$397M","http://www.linkedin.com/company/pigment","pigment.com","Tech Services",1137,1000000000,"April 2024",
-977478,101,,,"XREAL","Beijing","China",,143,129,10.85,2017,"$300M","http://www.linkedin.com/company/xreal-com","xreal.com","VR",1136,1000000000,"January 2024",
-977464,102,,,"HashKey Group","Connaught Place","Hong Kong",,174,165,5.08,2018,"$100M","http://www.linkedin.com/company/hashkey-digital-asset-group","hashkey.com","Fintech",1128,1200000000,"January 2024",
-977226,103,,,"Luma AI","San Francisco","United States","CA",44,17,162.5,2021,"$72.8M","http://www.linkedin.com/company/luma-ai","lumalabs.ai","Software",1126,300000000,"January 2024",
-176219,104,,49,"NEXTracker","Fremont","United States","CA",963,705,36.66,2013,"$42.6M","http://www.linkedin.com/company/nextracker-inc","nextracker.com","Environmental",1123,3400000000,"February 2023",
-980398,105,,,"Scout Motors","Detroit","United States","MI",387,50,674.36,2022,,"http://www.linkedin.com/company/scoutmotors","scoutmotors.com","Automotive",1109,,,
-96677,106,,94,"Form Energy","Somerville","United States","MA",627,459,36.61,2017,"$860M","http://www.linkedin.com/company/form-energy","formenergy.com","Environmental",1098,2100000000,"October 2022",
-3511,107,9423,57,"Cato Networks","Tel Aviv","Israel",,938,719,30.36,2015,"$773M","http://www.linkedin.com/company/cato-networks","catonetworks.com","IT Security",1094,3000000000,"September 2023",
-100767,108,,7,"Clear Street","New York","United States","NY",394,336,17.19,2018,"$593M","http://www.linkedin.com/company/clearstreet","clearstreet.io","Fintech",1090,2000000000,"April 2023",
-382425,109,,,"finmid","Berlin","Germany",,105,65,61.29,2021,"$37.2M","http://www.linkedin.com/company/finmid","finmid.com","Fintech",1087,107000000,"April 2024",
-13011,110,569,82,"HawkEye 360","Herndon","United States","VA",194,164,18.59,2015,"$387M","http://www.linkedin.com/company/hawkeye-360","he360.com","Analytics",1078,,,
-87710,111,922,103,"Recurrent Energy","Walnut Creek","United States","CA",581,276,110.27,,"$585M","http://www.linkedin.com/company/recurrentenergy","recurrentenergy.com","Environmental",1075,,,
-11114,112,,,"Dtex Systems","Saratoga","United States","CA",138,100,37.89,2002,"$138M","http://www.linkedin.com/company/dtex-systems","dtexsystems.com","Tech Services",1075,400000000,"March 2024",
-13058,113,6308,264,"Greenbrook TMS NeuroHealth Centers","McLean","United States","VA",377,356,6.02,2010,,"http://www.linkedin.com/company/tms-neurohealth-centers","greenbrooktms.com","Healthcare",1056,,,
-975505,114,,,"unstructured.io","San Francisco","United States","CA",55,20,173.68,2022,"$65M","http://www.linkedin.com/company/unstructuredio","unstructured.io","Software",1051,230000000,"March 2024",
-11795,115,,,"WORK Personnel Services","San Francisco","United States","CA",92,85,7.32,2015,,"http://www.linkedin.com/company/atworksf","atwork.com","HR",1026,,,
-319652,116,,35,"Mitiga","Tel Aviv","Israel",,87,75,16.9,2019,"$14.4M","http://www.linkedin.com/company/mitiga-io","mitiga.io","IT Security",1024,100000000,"March 2023",
-371890,117,,,"Rebellions","Seoul","South Korea",,121,65,94.29,2020,"$197M","http://www.linkedin.com/company/rebellions-ai","rebellions.ai","AI",1022,658000000,"January 2024",
-884457,118,,,"Nil Foundation","Limassol","Cyprus",,41,30,36.67,2018,"$22M","http://www.linkedin.com/company/nil-foundation","nil.foundation","Blockchain",1010,220000000,"January 2023",
-315841,119,,112,"ZeroAvia","Hollister","United States","CA",302,271,11.63,2018,"$322M","http://www.linkedin.com/company/zeroavia","zeroavia.com","Aviation",1005,,,
-97930,120,5622,356,"Wasabi Technologies","Boston","United States","MA",417,325,28.31,2017,"$384M","http://www.linkedin.com/company/wasabitechnologies","wasabi.com","Cloud",1004,1100000000,"September 2022",
-897931,121,,1571,"Hume AI","New York","USA","NY",36,25,44,2021,"$65.9M","http://www.linkedin.com/company/hume-ai","hume.ai","Research Services",1002,219000000,"March 2024",
-320585,122,,,"Cart.com","Austin","United States","TX",525,521,0.81,2020,"$383M","http://www.linkedin.com/company/cartdotcom","cart.com","eCommerceTech",991,1200000000,"June 2023",
-966656,123,,,"tinyeinstein","Toronto","CAN","ON",19,16,20,2022,,"http://www.linkedin.com/company/tinyemail","tinyeinstein.com","AI",990,96,"March 2023",
-966655,124,,,"tinyEmail","Toronto","CAN","ON",19,16,20,2022,,"http://www.linkedin.com/company/tinyemail","tinyemail.com","AI",990,96,"March 2023",
-884465,125,,,"OP3N","West Hollywood","United States","CA",36,33,9.68,2021,"$28M","http://www.linkedin.com/company/op3n","op3n.world","AI",980,100000000,"March 2023",
-350541,126,,9,"Our Next Energy","Detroit","United States","MI",314,310,1.36,2020,"$390M","http://www.linkedin.com/company/our-next-energy-inc","one.ai","Electronics",972,1200000000,"February 2023",
-890426,127,,,"Pennylane","Paris","Fra",,471,405,16.32,2020,"$155M","http://www.linkedin.com/company/pennylaneaccounting","pennylane.com/fr","Accounting",970,1077815000,"February 2024",
-6667,128,,,"ConsenSys","Brooklyn","United States","NY",60,59,2.38,2014,"$725M","http://www.linkedin.com/company/consensus-systems-consensys-","consensys.net","Fintech",965,7000000000,"March 2022",
-472242,129,,89,"Veza","San Francisco","United States","CA",202,159,27.15,2020,"$125M","http://www.linkedin.com/company/veza","veza.com","IT Security",959,500000000,"April 2022",
-977507,130,,,"Uzum","Tashkent","Uzbekistan",,652,369,76.92,,"$114M","http://www.linkedin.com/company/uzum-uz","uzum.com","AI",958,1160000000,"March 2024",
-315378,131,,63,"Group14 Technologies","Woodinville","United States","WA",204,109,87.16,2015,"$683M","http://www.linkedin.com/company/group14-technologies","group14.technology","Chemical Manufacturing",948,,,
-374209,132,,,"The Browser Company","New York","United States","NY",76,59,28.57,2019,,"http://www.linkedin.com/company/the-browser-company","thebrowser.company","Tech Services",942,500000000,"March 2024",
-100757,133,,87,"Distributed Solar Development","Schenectady","United States","NY",309,234,31.84,2019,"$1B","http://www.linkedin.com/company/dsdrenewables","dsdrenewables.com","Environmental",936,,,
-744546,134,,,"The Feinstein Institutes","Manhasset","USA","NY",388,375,3.46,1999,,"http://www.linkedin.com/company/the-feinstein-institutes-for-medical-research","feinstein.northwell.edu","Research",936,,,
-173370,135,,113,"Eastern Union","Howell","United States","NJ",222,214,3.43,2001,"$66.8M","http://www.linkedin.com/company/eastern-union","easternunion.com","Real Estate",926,,,
+id,ranking,temp_ranking,previous_ranking,company_name,city,country,state,current_employees,last_employees,employee_growth,founded,total_funding,linkedin_url,url,Industry,Points,valuation,valuation_as_of, Core Product/Service
+376975,1,,2,"Anthropic","San Francisco","United States","CA",573,135,323.26,,"$4.51B","http://www.linkedin.com/company/anthropicresearch","anthropic.com","AI",3613,20000000000,"February 2023","AI Research & Development"
+976147,2,,,"Figure","Sunnyvale","USA","CA",692,48,1332.61,2022,"$435M","http://www.linkedin.com/company/figure-ai","figure.ai","Robotics",3195,2600000000,"March 2024","Humanoid Robots"
+338364,3,,21,"CoreWeave","New York","United States","NY",782,282,177.3,2017,"$1.22B","http://www.linkedin.com/company/coreweave","coreweave.com","AI",2930,19000000000,"May 2024","Cloud Computing Infrastructure"
+315401,4,,4,"Hugging Face","New York","United States","NY",333,235,41.52,2016,"$400M","http://www.linkedin.com/company/huggingface","huggingface.co","AI",2579,4500000000,"August 2023","AI Development Platform"
+9967,5,5685,183,"Shield AI","San Diego","United States","CA",645,578,11.64,2015,"$930M","http://www.linkedin.com/company/shield-ai","shield.ai","AI",2394,2800000000,"November 2023","AI-Powered Defense Systems"
+175085,6,,48,"Lendbuzz","Boston","United States","MA",265,201,31.94,2015,"$257M","http://www.linkedin.com/company/lendbuzz","lendbuzz.com","Fintech",2332,1100000000,"October 2023","AI-Powered Auto Financing"
+884464,7,,10,"Character.AI","Palo Alto","United States","CA",100,32,216.67,2022,"$193M","http://www.linkedin.com/company/character-ai","character.ai","AI",2279,5000000000,"November 2023","AI Character Chat Platform"
+375884,8,,23,"Writer","San Francisco","United States","CA",1226,322,280.75,2020,"$144M","http://www.linkedin.com/company/getwriter","writer.com","AI",2243,1900000000,"November 2024","AI Writing & Content Platform"
+372339,9,,6,"Runway ML","New York","United States","NY",181,98,84.69,2018,"$237M","http://www.linkedin.com/company/runwayml","runwayml.com","AI",2145,4000000000,"July 2024","AI Video Generation Platform"
+981209,10,,,"BlueOval SK","Stanton","United States","TN",338,33,915.38,2022,,"http://www.linkedin.com/company/blueovalsk","blueovalsk.com","Automotive",2109,,,"EV Battery Manufacturing"
+472233,11,,8,"LayerZero Labs","Vancouver","CAN","BC",123,71,72.55,2021,"$263M","http://www.linkedin.com/company/layerzerolabs","layerzero.network","Fintech",2104,3000000000,"April 2023","Cross-Chain Interoperability Protocol"
+319889,12,,25,"Cohere","Toronto","CAN","ON",607,219,176.56,2019,"$435M","http://www.linkedin.com/company/cohere-ai","cohere.com","AI",2098,2100000000,"June 2023","Enterprise AI Language Models"
+7119,13,218,,"VAST data","New York","United States","NY",748,492,51.81,2016,"$341M","http://www.linkedin.com/company/vast-data","vastdata.com","Analytics",2042,9000000000,"December 2023","Data Storage Infrastructure"
+174917,14,,1515,"Lightmatter","Boston","United States","MA",191,131,45.8,2017,"$422M","http://www.linkedin.com/company/lightmatter","lightmatter.co","Hardware",2032,4400000000,"October 2024","Photonic Computing Hardware"
+319198,15,,858,"Applied Intuition","Mountain View","USA","CA",527,360,46.36,2017,"$602M","http://www.linkedin.com/company/applied-intuition-inc","appliedintuition.com","Analytics",2002,6000000000,"March 2024","Autonomous Vehicle Simulation"
+364932,16,,343,"Electric Hydrogen","Natick","USA","MA",349,214,62.75,,"$603M","http://www.linkedin.com/company/electric-h2","eh2.com","Environmental",1987,1000000000,"October 2023","Green Hydrogen Production"
+480484,17,,5,"Island","Dallas","United States","TX",489,334,46.41,2020,"$325M","http://www.linkedin.com/company/island-io","island.io","SaaS",1976,3000000000,"April 2024","Enterprise Browser Platform"
+966657,18,,3,"Typeface","San Francisco","United States","CA",111,37,202.86,2022,"$206M","http://www.linkedin.com/company/typefaceai","typeface.ai","AI",1961,1000000000,"June 2023","AI Content Generation Platform"
+378110,19,,1178,"Bilt Rewards","New York","United States","NY",169,98,73.12,2021,"$413M","http://www.linkedin.com/company/biltrewards","biltrewards.com","Fintech",1942,3100000000,"January 2024","Rent Payment Rewards Program"
+321344,20,,14,"Lyten","San Jose","United States","CA",300,252,18.87,2015,"$410M","http://www.linkedin.com/company/lyten-inc","lyten.com","Environmental",1907,1400000000,"September 2023","Advanced Materials Technology"
+316351,21,,15,"Pinecone","New York","United States","NY",177,68,160,2019,"$138M","http://www.linkedin.com/company/pinecone-io","pinecone.io","AI",1905,750000000,"April 2023","Vector Database for AI"
+45362,22,,86,"SageSure","Jersey City","United States","NJ",688,569,21.03,2006,"$250M","http://www.linkedin.com/company/sagesure","sagesure.com","Insurance",1895,1000000000,"May 2023","Insurance Technology Platform"
+372035,23,,18,"Replit","San Francisco","United States","CA",186,132,40.48,2016,"$272M","http://www.linkedin.com/company/repl-it","replit.com","DevOps",1858,1200000000,"April 2023","Collaborative Coding Platform"
+884463,24,,13,"Presight.ai","Abu Dhabi","United Arab Emirates",,210,170,23.46,2020,,"http://www.linkedin.com/company/presight-ai","presight.ai","AI",1814,2000000000,"March 2023","AI Analytics Solutions"
+483799,25,,34,"Ultium Cells","Warren","United States","OH",942,520,81.28,,"$5B","http://www.linkedin.com/company/ultium-cells","ultiumcell.com","Automotive",1808,20000000000,"July 2023","EV Battery Manufacturing"
+471018,26,,11,"Inworld AI","Mountain View","USA","CA",113,72,56.52,2021,"$117M","http://www.linkedin.com/company/inworld-ai","inworld.ai","AI",1801,500000000,"August 2023","AI Character Creation Platform"
+88853,27,1606,,"BitGo","Palo Alto","United States","CA",433,210,106,2013,"$170M","http://www.linkedin.com/company/bitgo-inc","bitgo.com","Fintech",1794,1700000000,"August 2023","Digital Asset Custody Platform"
+966676,28,,16,"Imbue","Mountain View","United States","CA",72,41,75.61,2019,"$232M","http://www.linkedin.com/company/imbue-ai","imbue.com","AI",1788,1000000000,"September 2023","AI Reasoning Systems"
+977467,29,,,"Quantinuum","Broomfield","USA","CO",428,425,0.74,2021,"$625M","http://www.linkedin.com/company/quantinuumqc","quantinuum.com","Fintech",1787,5000000000,"January 2024","Quantum Computing Solutions"
+91037,30,,12,"Pryon","Raleigh","United States","NC",161,67,139.06,2017,"$141M","http://www.linkedin.com/company/pryon","pryon.com","AI",1761,500000000,"September 2023","Enterprise AI Platform"
+385878,31,,20,"KoBold Metals","Berkeley","United States","CA",174,112,55.14,2018,"$392M","http://www.linkedin.com/company/koboldmetals","koboldmetals.com","Mining",1758,1000000000,"June 2023","AI-Powered Mineral Exploration"
+977489,32,,,"Together AI","San Francisco","United States","CA",71,22,223.81,2022,"$228M","http://www.linkedin.com/company/togethercomputer","together.ai","AI",1754,1250000000,"March 2024","AI Model Development Platform"
+374115,33,,17,"Temporal Technologies","Bellevue","United States","WA",221,149,47.89,2019,"$204M","http://www.linkedin.com/company/temporal-technologies","temporal.io","DevOps",1748,1500000000,"February 2023","Workflow Orchestration Platform"
+901103,34,,51,"Adept","San Francisco","United States","CA",79,42,87.5,,"$415M","http://www.linkedin.com/company/adeptai","adept.ai","AI",1745,1000000000,"March 2023","AI Assistant Technology"
+966653,35,,71,"ElevenLabs","New York","United States","NY",90,29,207.14,2022,"$101M","http://www.linkedin.com/company/elevenlabsio","elevenlabs.io","AI",1736,1100000000,"January 2024","AI Voice Generation Platform"
+19308,36,,85,"SkyWater Technology Foundry","Bloomington","United States","MN",491,444,10.71,2017,,"http://www.linkedin.com/company/skywater-technology-foundry","skywatertechnology.com","Semiconductors",1725,227000000,"November 2023","Semiconductor Manufacturing"
+175485,37,,,"MaintainX","San Francisco","United States","CA",390,180,116.96,2018,"$104M","http://www.linkedin.com/company/getmaintainx","getmaintainx.com","Tech Services",1710,1000000000,"December 2023","Maintenance Management Software"
+342774,38,,325,"Glean","Palo Alto","United States","CA",567,283,100.35,2019,"$360M","http://www.linkedin.com/company/gleanwork","glean.com","HRTech",1696,4600000000,"August 2024","Enterprise Search Platform"
+393341,39,,19,"Synthesia","London","UK",,353,177,98.82,2017,"$157M","http://www.linkedin.com/company/synthesia-technologies","synthesia.io","AI",1687,1000000000,"June 2023","AI Video Generation Platform"
+977451,40,,,"Wormhole","George Town","Cayman Islands",,50,20,150,,"$225M","http://www.linkedin.com/company/wormhole-protocol","wormhole.com","Fintech",1686,2500000000,"November 2023","Cross-Chain Bridge Protocol"
+384998,41,,59,"Intenseye","New York","United States","NY",124,97,28.26,2018,"$94.4M","http://www.linkedin.com/company/intenseye","intenseye.com","Analytics",1640,300000000,"August 2023","Workplace Safety Analytics"
+396599,42,,27,"Zip","San Francisco","United States","CA",3780,3000,26,2020,"$181M","http://www.linkedin.com/company/theziphq","ziphq.com","Fintech",1639,2200000000,"October 2024","Business Spend Management"
+315529,43,,29,"Unlearn.AI","San Francisco","United States","CA",92,75,23.94,2017,"$135M","http://www.linkedin.com/company/unlearn-ai","unlearn.ai","AI",1633,265000000,"March 2023","AI Clinical Trial Platform"
+7632,44,1865,,"Vestwell","New York","United States","NY",394,312,26.26,2016,"$289M","http://www.linkedin.com/company/vestwell","vestwell.com","Fintech",1626,1000000000,"December 2023","Digital Retirement Platform"
+966675,45,,,"Upwind","Tel Aviv","Israel",,149,66,125.76,2022,"$80M","http://www.linkedin.com/company/upwindsecurity","upwind.io","IT Security",1601,900000000,"November 2024","Cloud Security Platform"
+7647,46,,117,"MadHive","New York","United States","NY",279,238,17.06,2016,"$307M","http://www.linkedin.com/company/madhive","madhive.com","Adtech",1585,1000000000,"June 2023","Digital TV Advertising Platform"
+319735,47,,2819,"Lambda","San Francisco","United States","CA",332,219,51.2,2012,"$383M","http://www.linkedin.com/company/lambda-labs","lambdalabs.com","Hardware",1583,1500000000,"February 2024","AI Computing Infrastructure"
+12437,48,,,"EmployerDirect Healthcare","Dallas","United States","TX",306,222,37.91,,"$92M","http://www.linkedin.com/company/employer-direct-healthcare","edhc.com","Hospital/Healthcare",1565,1000000000,"December 2023","Healthcare Benefits Management"
+176924,49,,30,"Apkudo","Baltimore","United States","MD",211,172,22.56,2011,"$75M","http://www.linkedin.com/company/apkudo","apkudo.com","Wireless",1552,300000000,"February 2023","Connected Device Management"
+18395,50,2169,43,"Skydio","Redwood City","United States","CA",675,558,21.09,2014,"$570M","http://www.linkedin.com/company/skydio","skydio.com","Aviation",1538,2200000000,"January 2023","Autonomous Drones"
+381997,51,,22,"EvenUp","San Francisco","United States","CA",385,235,63.83,2019,"$65M","http://www.linkedin.com/company/evenup","evenuplaw.com","LegalTech",1516,1000000000,"October 2024","Legal Case Management Platform"
+328474,52,,,"Monument","London","UK",,99,89,10.59,,"$202M","http://www.linkedin.com/company/monumentbank","monument.co","Finance",1497,160000000,"November 2023","Digital Banking Services"
+890549,53,,,"1KOMMA5°","Hamburg","Ger",,436,166,162.65,2021,"$689M","http://www.linkedin.com/company/1komma5grad","1komma5grad.com","Energy",1495,1000000000,"July 2023","Clean Energy Solutions"
+371687,54,,,"QI Tech","Sao Paulo","Brazil",,142,80,77.63,2018,"$250M","http://www.linkedin.com/company/qi-tech","qitech.com.br","Finance",1489,1000000000,"October 2023","Banking Infrastructure Platform"
+368732,55,,31,"Linear App","San Francisco","United States","CA",82,46,77.27,2019,"$52.2M","http://www.linkedin.com/company/linearapp","linear.app","DevOps",1471,400000000,"September 2023","Project Management Software"
+7162,56,1733,33,"UVEye","Teaneck","United States","NJ",218,185,18.18,2014,"$200M","http://www.linkedin.com/company/uveye","uveye.com","IT Security",1467,800000000,"May 2023","Vehicle Inspection Technology"
+87809,57,,74,"GrubMarket","San Francisco","United States","CA",149,137,9.23,2014,"$767M","http://www.linkedin.com/company/grubmarket-inc-","grubmarket.com","eCommerceTech",1453,1200000000,"September 2021","Food Supply Chain Platform"
+977435,58,,38,"MangoBoost","Bellevue","USA","WA",61,37,65.71,2022,"$65.5M","http://www.linkedin.com/company/mangoboost","mangoboost.io","DevOps",1453,300000000,"October 2023","Developer Productivity Platform"
+395317,59,,40,"Volt","Amsterdam","Netherlands",,245,151,61.81,2019,"$2.31M","http://www.linkedin.com/company/voltio","volt.io","Fintech",1448,350000000,"June 2023","Payment Infrastructure"
+333580,60,,42,"AI 21","Tel Aviv","Israel","IL",280,191,46.7,2017,"$336M","http://www.linkedin.com/company/ai21","ai21.com","AI",1446,1400000000,"August 2023","AI Language Models"
+175217,61,,197,"Liquid Death Mountain Water","Santa Monica","United States","CA",323,245,32.19,2017,"$264M","http://www.linkedin.com/company/liquid-death","liquiddeath.com","Food",1440,1400000000,"March 2024","Canned Water Products"
+752104,62,,,"Bending Spoons","Milan","USA","MI",466,405,15.03,2013,"$525M","http://www.linkedin.com/company/bendingspoons","bendingspoons.com","Tech Services",1433,2600000000,"February 2024","Mobile App Development"
+174734,63,,1138,"Enable","Toronto","CAN","ON",763,564,35.38,2000,"$274M","http://www.linkedin.com/company/enable-software","enable.com","Tech Services",1432,1120000000,"November 2023","B2B Rebate Management"
+884459,64,,37,"Tome","San Francisco","United States","CA",85,57,50,2020,"$81M","http://www.linkedin.com/company/magical-tome","beta.tome.app","AI",1430,300000000,"February 2023","AI Presentation Platform"
+367046,65,,52,"Helsing","Munich","Germany",,249,187,33.15,2021,"$450M","http://www.linkedin.com/company/helsing","helsing.ai","AI",1427,1600417500,"September 2023","Defense AI Systems"
+966654,66,,72,"Captions","New York","United States","NY",74,51,42.86,,"$40M","http://www.linkedin.com/company/captionsapp","captions.ai","AI",1425,250000000,"June 2023","AI Video Captioning"
+15100,67,3657,44,"Quantexa","London","UK",,738,648,13.94,2016,"$371M","http://www.linkedin.com/company/quantexa","quantexa.com","Fintech",1424,1800000000,"April 2023","Decision Intelligence Platform"
+98161,68,,7740,"Keyfactor","Cleveland","United States","OH",457,426,7.14,2001,"$218M","http://www.linkedin.com/company/wearekeyfactor","keyfactor.com","Tech Services",1423,1300000000,"October 2023","Digital Security Management"
+898982,69,,,"Monad Labs","New York","USA","NY",35,22,57.14,,"$225M","http://www.linkedin.com/company/monadlabs","monad.xyz","Software",1419,3000000000,"March 2024","Blockchain Development Platform"
+901106,70,,62,"Raspberry Pi","Cambridge","UK",,137,101,35.42,,"$45M","http://www.linkedin.com/company/raspberrypi","raspberrypi.com","AI",1411,500000000,"April 2023","Computing Hardware"
+1012330,71,,,"SHIFTUP","Seocho","South Korea",,60,50,18.75,2012,"$26.4M","http://www.linkedin.com/company/shiftup-corporation","shiftup.co.kr","Gaming",1410,1500000000,"October 2023","Mobile Gaming Development"
+1012329,72,,,"Castore","Manchester","UK",,445,357,24.71,2016,"$197M","http://www.linkedin.com/company/castore-sportswear/","castore.com","Apparel",1408,1200000000,"November 2023","Premium Sportswear"
+376554,73,,,"Airspace Intelligence","Palo Alto","United States","CA",92,70,31.34,2018,"$34M","http://www.linkedin.com/company/airspace-intelligence","airspace-intelligence.com","Aviation",1405,300000000,"December 2023","Aviation AI Solutions"
+884466,74,,41,"Axios HQ","Arlington","United States","TX",144,110,30.48,2022,"$20M","http://www.linkedin.com/company/axioshq","axioshq.com","AI",1404,100000000,"March 2023","Smart Communications Platform"
+884458,75,,45,"MNT-Halan","Giza","Egypt",,340,244,39.66,,"$510M","http://www.linkedin.com/company/mnt-halan","mnt-halan.com","Fintech",1392,1000000000,"February 2023","Digital Banking Services"
+11016,76,177,1078,"ZUM","Redwood City","United States","CA",276,188,46.93,,"$350M","http://www.linkedin.com/company/ridezum","ridezum.com","Tech Services",1391,1300000000,"February 2024","Student Transportation Platform"
+3540,77,2260,,"BioCatch","Tel Aviv","Israel",,339,253,34.02,2011,"$253M","http://www.linkedin.com/company/biocatch","biocatch.com","IT Security",1385,1000000000,"November 2023","Behavioral Biometrics"
+130150,78,,,"Wirepas","Tampere","FI",,87,78,12.16,2010,"$74.9M","http://www.linkedin.com/company/wirepas","wirepas.com","Wireless",1378,200000000,"November 2023","IoT Connectivity Solutions"
+731283,79,,,"Climatebase","San Francisco","United States","CA",500,44,1045.24,2019,,"http://www.linkedin.com/company/climatebase","climatebase.org","Tech Services",1368,,,"Climate Job Platform"
+313791,80,,1875,"Zoom Drain","Philadelphia","United States","PA",133,105,26.44,1995,,"http://www.linkedin.com/company/zoomdrain","zoomdrain.com","Consumer",1358,,,"Plumbing Services"
+376520,81,,32,"Airalo","Singapore","SGP",,195,118,66.07,2019,"$67.3M","http://www.linkedin.com/company/airalocom","airalo.com","Telecom",1352,250000000,"July 2023","eSIM Marketplace"
+371086,82,,404,"PhotoRoom","Paris","France",,277,79,252,2019,"$64M","http://www.linkedin.com/company/photoroom","photoroom.com","Tech Services",1351,500000000,"February 2024","AI Photo Editing"
+175765,83,,,"Thunes","Singapore","SGP",,376,316,18.94,2016,"$212M","http://www.linkedin.com/company/thunespayments","thunes.com","Fintech",1345,900000000,"July 2023","Cross-Border Payments"
+901105,84,,39,"Sei","San Francisco","United States","CA",102,69,48.98,2022,"$35M","http://www.linkedin.com/company/sei-labs","seinetwork.io","Fintech",1328,800000000,"April 2023","Blockchain Infrastructure"
+885665,85,,558,"Watershed","San Francisco","United States","CA",431,276,55.89,2019,"$170M","http://www.linkedin.com/company/watershedclimate","watershed.com","Software",1301,1800000000,"February 2024","Carbon Management Platform"
+6131,86,,,"Gradiant Corporation","Woburn","United States","MA",342,330,3.82,2013,"$400M","http://www.linkedin.com/company/gradiant-corporation","gradiant.com","Environmental",1285,1000000000,"May 2023","Water Treatment Solutions"
+110161,87,,,"MapBox","San Francisco","United States","CA",736,656,12.16,2011,"$507M","http://www.linkedin.com/company/mapbox","mapbox.com","Business Intelligence",1262,1300000000,"September 2023","Mapping Platform"
+172648,88,,2793,"Silverfort","Tel Aviv","Israel",,318,226,40.93,2016,"$222M","http://www.linkedin.com/company/silverfort","silverfort.com","IT Security",1258,1000000000,"January 2024","Identity Protection Platform"
+901108,89,,61,"Nomba","Lagos","Nigeria",,372,338,9.94,2017,"$42.7M","http://www.linkedin.com/company/nombahq","nomba.com","Fintech",1236,150000000,"May 2023","Payment Infrastructure"
+1012328,90,,,"TechMet Ltd","Dublin City","Ireland",,41,24,11.76,2017,"$371M","http://www.linkedin.com/company/techmet-ltd/","techmet.com","Energy",1216,1000000000,"November 2023","Battery Metal Mining"
+387408,91,,2065,"Meter","San Francisco","United States","CA",82,61,34.48,2015,"$145M","http://www.linkedin.com/company/meter-com","meter.com","Networking",1210,350000000,"February 2024","Internet Infrastructure"
+87735,92,736,1187,"Guesty","Hillsborough","United States","CA",621,561,10.67,2013,"$409M","http://www.linkedin.com/company/guesty","guesty.com","Real Estate Tech",1203,900000000,"April 2024","Property Management Platform"
+977485,93,,,"Mechanical Orchard","San Francisco","United States","CA",82,34,143.75,2022,"$24M","http://www.linkedin.com/company/mechanical-orchard","mechanical-orchard.com","AI",1199,95000000,"February 2024","Legacy Code Modernization"
+6848,94,36,,"BigID","New York","United States","NY",614,564,8.94,2016,"$308M","http://www.linkedin.com/company/bigid","bigid.com","IT Security",1167,1000000000,"March 2024","Data Security Platform"
+173435,95,,26,"Kindbody","New York","United States","NY",675,627,7.71,2018,"$315M","http://www.linkedin.com/company/kindbody","kindbody.com","Digital Health",1165,1800000000,"March 2023","Fertility Healthcare Services"
+976986,96,,64,"Flashbots","Grand Cayman","Cayman Islands",,29,24,20.83,,,"http://www.linkedin.com/company/flashbots","flashbots.net","Computer and Network Security",1162,1000000000,"July 2023","MEV Infrastructure"
+466779,97,,67,"Credgenics","Noida","IND",,507,417,21.66,,"$78.7M","http://www.linkedin.com/company/credgenics","credgenics.com","Finance",1161,340000000,"August 2023","Debt Collection Platform"
+181243,98,,36,"Envisics","Milton Keynes","UK",,31,29,6.9,2018,"$150M","http://www.linkedin.com/company/envisics-limited","envisics.com","VR",1147,500000000,"March 2023","Holographic Display Technology"
+1012331,99,,,"Kin Insurance","Chicago","USA","IL",602,516,16.7,2016,"$458M","http://www.linkedin.com/company/kin-insurance/","kin.com","Fintech",1142,1000000000,"September 2023","Home Insurance Platform"
+366590,100,,4549,"Pigment","Paris","France",,420,242,73.91,2019,"$397M","http://www.linkedin.com/company/pigment","pigment.com","Tech Services",1137,1000000000,"April 2024","Business Planning Platform"
+977478,101,,,"XREAL","Beijing","China",,143,129,10.85,2017,"$300M","http://www.linkedin.com/company/xreal-com","xreal.com","VR",1136,1000000000,"January 2024","AR Smart Glasses"
+977464,102,,,"HashKey Group","Connaught Place","Hong Kong",,174,165,5.08,2018,"$100M","http://www.linkedin.com/company/hashkey-digital-asset-group","hashkey.com","Fintech",1128,1200000000,"January 2024","Digital Asset Services"
+977226,103,,,"Luma AI","San Francisco","United States","CA",44,17,162.5,2021,"$72.8M","http://www.linkedin.com/company/luma-ai","lumalabs.ai","Software",1126,300000000,"January 2024","3D Content Creation Platform"
+176219,104,,49,"NEXTracker","Fremont","United States","CA",963,705,36.66,2013,"$42.6M","http://www.linkedin.com/company/nextracker-inc","nextracker.com","Environmental",1123,3400000000,"February 2023","Solar Tracking Systems"
+980398,105,,,"Scout Motors","Detroit","United States","MI",387,50,674.36,2022,,"http://www.linkedin.com/company/scoutmotors","scoutmotors.com","Automotive",1109,,,"Electric Vehicle Manufacturing"
+96677,106,,94,"Form Energy","Somerville","United States","MA",627,459,36.61,2017,"$860M","http://www.linkedin.com/company/form-energy","formenergy.com","Environmental",1098,2100000000,"October 2022","Energy Storage Technology"
+3511,107,9423,57,"Cato Networks","Tel Aviv","Israel",,938,719,30.36,2015,"$773M","http://www.linkedin.com/company/cato-networks","catonetworks.com","IT Security",1094,3000000000,"September 2023","SASE Platform"
+100767,108,,7,"Clear Street","New York","United States","NY",394,336,17.19,2018,"$593M","http://www.linkedin.com/company/clearstreet","clearstreet.io","Fintech",1090,2000000000,"April 2023","Capital Markets Infrastructure"
+382425,109,,,"finmid","Berlin","Germany",,105,65,61.29,2021,"$37.2M","http://www.linkedin.com/company/finmid","finmid.com","Fintech",1087,107000000,"April 2024","B2B Payment Platform"
+13011,110,569,82,"HawkEye 360","Herndon","United States","VA",194,164,18.59,2015,"$387M","http://www.linkedin.com/company/hawkeye-360","he360.com","Analytics",1078,,,"RF Signal Intelligence"
+87710,111,922,103,"Recurrent Energy","Walnut Creek","United States","CA",581,276,110.27,,"$585M","http://www.linkedin.com/company/recurrentenergy","recurrentenergy.com","Environmental",1075,,,"Solar Project Development"
+11114,112,,,"Dtex Systems","Saratoga","United States","CA",138,100,37.89,2002,"$138M","http://www.linkedin.com/company/dtex-systems","dtexsystems.com","Tech Services",1075,400000000,"March 2024","Insider Risk Management"
+13058,113,6308,264,"Greenbrook TMS NeuroHealth Centers","McLean","United States","VA",377,356,6.02,2010,,"http://www.linkedin.com/company/tms-neurohealth-centers","greenbrooktms.com","Healthcare",1056,,,"Mental Health Treatment"
+975505,114,,,"unstructured.io","San Francisco","United States","CA",55,20,173.68,2022,"$65M","http://www.linkedin.com/company/unstructuredio","unstructured.io","Software",1051,230000000,"March 2024","Data Processing Platform"
+11795,115,,,"WORK Personnel Services","San Francisco","United States","CA",92,85,7.32,2015,,"http://www.linkedin.com/company/atworksf","atwork.com","HR",1026,,,"Staffing Services"
+319652,116,,35,"Mitiga","Tel Aviv","Israel",,87,75,16.9,2019,"$14.4M","http://www.linkedin.com/company/mitiga-io","mitiga.io","IT Security",1024,100000000,"March 2023","Cloud Security Platform"
+371890,117,,,"Rebellions","Seoul","South Korea",,121,65,94.29,2020,"$197M","http://www.linkedin.com/company/rebellions-ai","rebellions.ai","AI",1022,658000000,"January 2024","AI Chip Development"
+884457,118,,,"Nil Foundation","Limassol","Cyprus",,41,30,36.67,2018,"$22M","http://www.linkedin.com/company/nil-foundation","nil.foundation","Blockchain",1010,220000000,"January 2023","Cryptography Infrastructure"
+315841,119,,112,"ZeroAvia","Hollister","United States","CA",302,271,11.63,2018,"$322M","http://www.linkedin.com/company/zeroavia","zeroavia.com","Aviation",1005,,,"Hydrogen-Electric Aviation"
+97930,120,5622,356,"Wasabi Technologies","Boston","United States","MA",417,325,28.31,2017,"$384M","http://www.linkedin.com/company/wasabitechnologies","wasabi.com","Cloud",1004,1100000000,"September 2022","Cloud Storage Platform"
+897931,121,,1571,"Hume AI","New York","USA","NY",36,25,44,2021,"$65.9M","http://www.linkedin.com/company/hume-ai","hume.ai","Research Services",1002,219000000,"March 2024","Emotion AI Platform"
+320585,122,,,"Cart.com","Austin","United States","TX",525,521,0.81,2020,"$383M","http://www.linkedin.com/company/cartdotcom","cart.com","eCommerceTech",991,1200000000,"June 2023","E-commerce Infrastructure"
+966656,123,,,"tinyeinstein","Toronto","CAN","ON",19,16,20,2022,,"http://www.linkedin.com/company/tinyemail","tinyeinstein.com","AI",990,96,"March 2023","AI Education Platform"
+966655,124,,,"tinyEmail","Toronto","CAN","ON",19,16,20,2022,,"http://www.linkedin.com/company/tinyemail","tinyemail.com","AI",990,96,"March 2023","AI Email Platform"
+884465,125,,,"OP3N","West Hollywood","United States","CA",36,33,9.68,2021,"$28M","http://www.linkedin.com/company/op3n","op3n.world","AI",980,100000000,"March 2023","Web3 Social Platform"
+350541,126,,9,"Our Next Energy","Detroit","United States","MI",314,310,1.36,2020,"$390M","http://www.linkedin.com/company/our-next-energy-inc","one.ai","Electronics",972,1200000000,"February 2023","Battery Technology"
+890426,127,,,"Pennylane","Paris","Fra",,471,405,16.32,2020,"$155M","http://www.linkedin.com/company/pennylaneaccounting","pennylane.com/fr","Accounting",970,1077815000,"February 2024","Accounting Software"
+6667,128,,,"ConsenSys","Brooklyn","United States","NY",60,59,2.38,2014,"$725M","http://www.linkedin.com/company/consensus-systems-consensys-","consensys.net","Fintech",965,7000000000,"March 2022","Blockchain Development Platform"
+472242,129,,89,"Veza","San Francisco","United States","CA",202,159,27.15,2020,"$125M","http://www.linkedin.com/company/veza","veza.com","IT Security",959,500000000,"April 2022","Data Security Platform"
+977507,130,,,"Uzum","Tashkent","Uzbekistan",,652,369,76.92,,"$114M","http://www.linkedin.com/company/uzum-uz","uzum.com","AI",958,1160000000,"March 2024","E-commerce Platform"
+315378,131,,63,"Group14 Technologies","Woodinville","United States","WA",204,109,87.16,2015,"$683M","http://www.linkedin.com/company/group14-technologies","group14.technology","Chemical Manufacturing",948,,,"Battery Materials Technology"
+374209,132,,,"The Browser Company","New York","United States","NY",76,59,28.57,2019,,"http://www.linkedin.com/company/the-browser-company","thebrowser.company","Tech Services",942,500000000,"March 2024","Web Browser Development"
+100757,133,,87,"Distributed Solar Development","Schenectady","United States","NY",309,234,31.84,2019,"$1B","http://www.linkedin.com/company/dsdrenewables","dsdrenewables.com","Environmental",936,,,"Solar Energy Development"
+744546,134,,,"The Feinstein Institutes","Manhasset","USA","NY",388,375,3.46,1999,,"http://www.linkedin.com/company/the-feinstein-institutes-for-medical-research","feinstein.northwell.edu","Research",936,,,"Medical Research"
+173370,135,,113,"Eastern Union","Howell","United States","NJ",222,214,3.43,2001,"$66.8M","http://www.linkedin.com/company/eastern-union","easternunion.com","Real Estate",926,,,"Commercial Real Estate Finance"
 489787,136,,,"Anrok","San Francisco","United States","CA",55,35,57.58,,"$67.6M","http://www.linkedin.com/company/anrok","anrok.com","Software",924,250000000,"April 2024",
 315391,137,,138,"Crusoe Energy Systems","Denver","United States","CO",360,284,26.73,2018,"$747.5M","http://www.linkedin.com/company/crusoe","crusoeenergy.com","Energy/Oil",909,1750000000,"April 2022",
 93709,138,,75,"Puttshack","London","UK",,611,461,32.53,2017,"$256M","http://www.linkedin.com/company/puttshack","puttshack.com","Hospitality",906,,,
@@ -356,18 +356,18 @@ id,ranking,temp_ranking,previous_ranking,company_name,city,country,state,current
 390246,356,,901,"Battery Storage","Oakland","United States","CA",106,78,36.07,2019,,"http://www.linkedin.com/company/primergysolar","primergysolar.com","Fintech",491,,,
 366149,357,,869,"GameOn","Vancouver","CAN","BC",74,70,5.26,2018,,"http://www.linkedin.com/company/gameonfanapp","gameon.app","Entertainment",490,,,
 392320,358,,529,"Skyports","London","UK",,63,60,4.35,2017,,"http://www.linkedin.com/company/skyports","skyports.net","Aviation",489,,,
-383342,359,,2381,"Crisp Data Platform for the Food Industry","New York","United States","NY",163,122,33.63,2016,,"http://www.linkedin.com/company/gocrisp","gocrisp.com","Analytics",488,,,
-371626,360,,2273,"Pulley","San Francisco","United States","CA",81,78,4.05,2019,"$50.1M","http://www.linkedin.com/company/pulley-cap-table","pulley.com","Tech Services",487,200000000,"July 2022",
-321081,361,,,"Brightline","Palo Alto","United States","CA",273,261,4.42,2019,"$212M","http://www.linkedin.com/company/hellobrightline","hellobrightline.com","Babytech",487,705000000,"March 2022",
-319773,362,,989,"CrowdProperty","Birmingham","UK",,61,59,3.57,,"$6.42M","http://www.linkedin.com/company/crowdproperty","crowdproperty.com","Real Estate",487,,,
-385492,363,,,"Jurny","Los Angeles","United States","CA",62,60,4.17,2017,,"http://www.linkedin.com/company/jurny","jurny.com","Hospitality",487,,,
-325357,364,,403,"EnergyX","Austin","United States","TX",94,71,31.67,2018,,"http://www.linkedin.com/company/energyx","energyx.com","Environmental",487,,,
-315067,365,,248,"Observe","San Mateo","United States","CA",211,160,31.82,2017,,"http://www.linkedin.com/company/observe-inc","observeinc.com","Tech Services",485,,,
-386097,366,,380,"LanzaJet","Chicago","United States","IL",115,61,90.2,2020,,"http://www.linkedin.com/company/lanzajet","lanzajet.com","Environmental",485,,,
-894330,367,,,"Kamar Pelajar","Stockholm","SWE",,467,102,357.84,2017,,"http://www.linkedin.com/company/kamarpelajar","kamarpelajar.id","Travel Arrangements",485,,,
-319429,368,,4124,"FundGuard","New York","United States","NY",120,92,29.55,,"$156M","http://www.linkedin.com/company/fundguard","fundguard.com","Fintech",484,,,
-313698,369,,2403,"Patriot Growth Insurance Services","Fort Washington","United States","PA",193,166,16.46,2019,,"http://www.linkedin.com/company/patriot-growth-insurance-services","patriotgis.com","Insurance",483,,,
-364963,370,,318,"Electric Era","Seattle","United States","WA",49,24,104.76,2019,,"http://www.linkedin.com/company/electric-era","electriceratechnologies.com","Engineering",482,,,
+383342,359,,2381,"Crisp Data Platform for the Food Industry","New York","United States","NY",163,122,33.63,2016,,"http://www.linkedin.com/company/gocrisp","gocrisp.com","Analytics",488,,,"Food Industry Analytics Platform"
+371626,360,,2273,"Pulley","San Francisco","United States","CA",81,78,4.05,2019,"$50.1M","http://www.linkedin.com/company/pulley-cap-table","pulley.com","Tech Services",487,200000000,"July 2022","Cap Table Management Software"
+321081,361,,,"Brightline","Palo Alto","United States","CA",273,261,4.42,2019,"$212M","http://www.linkedin.com/company/hellobrightline","hellobrightline.com","Babytech",487,705000000,"March 2022","Virtual Behavioral Health for Kids"
+319773,362,,989,"CrowdProperty","Birmingham","UK",,61,59,3.57,,"$6.42M","http://www.linkedin.com/company/crowdproperty","crowdproperty.com","Real Estate",487,,,"Property Development Lending Platform"
+385492,363,,,"Jurny","Los Angeles","United States","CA",62,60,4.17,2017,,"http://www.linkedin.com/company/jurny","jurny.com","Hospitality",487,,,"Automated Hospitality Management"
+325357,364,,403,"EnergyX","Austin","United States","TX",94,71,31.67,2018,,"http://www.linkedin.com/company/energyx","energyx.com","Environmental",487,,,"Sustainable Energy Technology"
+315067,365,,248,"Observe","San Mateo","United States","CA",211,160,31.82,2017,,"http://www.linkedin.com/company/observe-inc","observeinc.com","Tech Services",485,,,"Cloud Observability Platform"
+386097,366,,380,"LanzaJet","Chicago","United States","IL",115,61,90.2,2020,,"http://www.linkedin.com/company/lanzajet","lanzajet.com","Environmental",485,,,"Sustainable Aviation Fuel Technology"
+894330,367,,,"Kamar Pelajar","Stockholm","SWE",,467,102,357.84,2017,,"http://www.linkedin.com/company/kamarpelajar","kamarpelajar.id","Travel Arrangements",485,,,"Online Education Platform"
+319429,368,,4124,"FundGuard","New York","United States","NY",120,92,29.55,,"$156M","http://www.linkedin.com/company/fundguard","fundguard.com","Fintech",484,,,"Investment Management Software"
+313698,369,,2403,"Patriot Growth Insurance Services","Fort Washington","United States","PA",193,166,16.46,2019,,"http://www.linkedin.com/company/patriot-growth-insurance-services","patriotgis.com","Insurance",483,,,"Insurance Brokerage Services"
+364963,370,,318,"HealthSnap","Miami","United States","FL",126,53,138.78,2015,,"http://www.linkedin.com/company/healthsnap-io","healthsnap.io","Analytics",302,,,
 653629,371,,,"Elitch Gardens Theme and Water Park","Denver","United States","CO",358,322,11.07,1890,,"http://www.linkedin.com/company/elitch-gardens","elitchgardens.com","Entertainment",481,,,
 39413,372,,216,"Snowden Lane Partners","New York","United States","NY",162,143,13.45,2011,,"http://www.linkedin.com/company/snowden-lane-partners","snowdenlane.com","Finance",479,,,
 315476,373,,2859,"Lilac Solutions","Oakland","United States","CA",261,205,27.69,,"$318M","http://www.linkedin.com/company/lilac-solutions-inc.","lilacsolutions.com","Mining",479,,,
