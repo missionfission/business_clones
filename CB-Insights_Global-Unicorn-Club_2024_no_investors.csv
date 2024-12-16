@@ -1,0 +1,1251 @@
+,Company,Valuation ($B),Date Joined,Country,City,Industry,Core Products/Services
+,ByteDance,225.0,2017-04-07 00:00:00,China,Beijing,Media & Entertainment,Social media platforms (TikTok)
+,SpaceX,200.0,2012-12-01 00:00:00,United States,Hawthorne,Industrials,Rockets and spacecraft
+,OpenAI,157.0,2019-07-22 00:00:00,United States,San Francisco,Enterprise Tech,AI research and development
+,Stripe,70.0,2014-01-23 00:00:00,United States,San Francisco,Financial Services,Online payment processing
+,SHEIN,66.0,2018-07-03 00:00:00,Singapore,,Consumer & Retail,Fast fashion e-commerce
+,Databricks,55.0,2019-02-05 00:00:00,United States,San Francisco,Enterprise Tech,Data analytics platform
+,xAI,50.0,2024-05-26 00:00:00,United States,Burlingame,Enterprise Tech,AI research and development
+,Revolut,45.0,2018-04-26 00:00:00,United Kingdom,London,Financial Services,Digital banking and payments
+,Canva,32.0,2018-01-08 00:00:00,Australia,Surry Hills,Enterprise Tech,Graphic design platform
+,Fanatics,31.0,2012-06-06 00:00:00,United States,Jacksonville,Consumer & Retail,Sports merchandise e-commerce
+,Epic Games,22.5,2018-10-26 00:00:00,United States,Cary,Media & Entertainment,Video games and game engine
+,Chime,25.0,2019-03-05 00:00:00,United States,San Francisco,Financial Services,Digital banking
+,CoreWeave,23.0,2023-04-20 00:00:00,United States,Roseland,Enterprise Tech,Cloud computing infrastructure
+,Miro,17.5,2022-01-05 00:00:00,United States,San Francisco,Enterprise Tech,Online whiteboard platform
+,Xiaohongshu,17.0,2016-03-31 00:00:00,China,Shanghai,Media & Entertainment,Social commerce platform
+,Anthropic,16.05,2023-02-03 00:00:00,United States,San Francisco,Enterprise Tech,AI safety research
+,Yuanfudao,15.5,2017-05-31 00:00:00,China,Beijing,Consumer & Retail,Online education platform
+,DJI Innovations,15.0,2015-01-23 00:00:00,China,Shenzhen,Industrials,Consumer drones
+,Discord,15.0,2018-04-20 00:00:00,United States,San Francisco,Media & Entertainment,Chat and communication platform
+,Gopuff,15.0,2020-10-08 00:00:00,United States,Philadelphia,Consumer & Retail,Instant delivery service
+,Yuanqi Senlin,15.0,2020-03-01 00:00:00,China,Beijing,Consumer & Retail,Beverage manufacturing
+,Ripple,15.0,2019-12-20 00:00:00,United States,San Francisco,Financial Services,Blockchain payment network
+,Klarna,14.5,2011-12-12 00:00:00,Sweden,Stockholm,Financial Services,Buy now pay later services
+,Anduril,14.0,2019-09-11 00:00:00,United States,Irvine,Industrials,Defense technology systems
+,Scale,13.8,2019-08-05 00:00:00,United States,San Francisco,Enterprise Tech,AI data labeling platform
+,Plaid,13.5,2018-12-11 00:00:00,United States,San Francisco,Financial Services,Financial data connectivity
+,Rippling,13.5,2020-08-04 00:00:00,United States,San Francisco,Enterprise Tech,Employee management platform
+,OpenSea,13.3,2021-07-20 00:00:00,United States,New York,Media & Entertainment,NFT marketplace
+,Celonis,13.0,2018-06-26 00:00:00,Germany,Munich,Enterprise Tech,Process mining software
+,Grammarly,13.0,2019-10-10 00:00:00,United States,San Francisco,Media & Entertainment,Writing assistance software
+,Devoted Health,12.9,2018-10-16 00:00:00,United States,Waltham,Healthcare & Life Sciences,Medicare Advantage plans
+,Faire,12.59,2019-10-30 00:00:00,United States,San Francisco,Consumer & Retail,Wholesale marketplace
+,Brex,12.3,2018-10-05 00:00:00,United States,San Francisco,Enterprise Tech,Corporate credit cards
+,JUUL Labs,12.0,2017-12-20 00:00:00,United States,San Francisco,Consumer & Retail,E-cigarettes
+,Wiz,12.0,2021-03-17 00:00:00,Israel,Tel Aviv,Enterprise Tech,Cloud security platform
+,Bitmain Technologies,12.0,2018-07-06 00:00:00,China,Beijing,Enterprise Tech,Cryptocurrency mining hardware
+,GoodLeap,12.0,2021-10-13 00:00:00,United States,Roseville,Financial Services,Sustainable home improvement financing
+,Xingsheng Selected,12.0,2020-07-22 00:00:00,China,Changsha,Consumer & Retail,Community group buying platform
+,Deel,12.0,2021-04-21 00:00:00,United States,San Francisco,Enterprise Tech,Global payroll platform
+,Airtable,11.7,2018-11-15 00:00:00,United States,San Francisco,Enterprise Tech,Collaborative database platform
+,BYJU's,11.5,2017-07-25 00:00:00,India,Bengaluru,Consumer & Retail,Online learning platform
+,ZongMu Technology,11.4,2021-06-03 00:00:00,China,Shanghai,Industrials,Autonomous driving technology
+,Global Switch,11.1,2016-12-22 00:00:00,United Kingdom,London,Enterprise Tech,Data center infrastructure
+,Checkout.com,11.0,2019-05-02 00:00:00,United Kingdom,London,Financial Services,Payment processing platform
+,Bolt,11.0,2021-10-08 00:00:00,United States,San Francisco,Financial Services,One-click checkout platform
+,Alchemy,10.2,2021-10-28 00:00:00,United States,San Francisco,Enterprise Tech,Blockchain development platform
+,Huolala,10.0,2019-02-21 00:00:00,China,Guangzhou,Industrials,On-demand logistics platform
+,Gusto,10.0,2015-12-18 00:00:00,United States,San Francisco,Financial Services,Payroll and HR software
+,Chehaoduo,10.0,2016-03-12 00:00:00,China,Beijing,Consumer & Retail,Used car marketplace
+,Talkdesk,10.0,2018-10-03 00:00:00,United States,San Francisco,Enterprise Tech,Cloud contact center software
+,Notion,10.0,2020-04-01 00:00:00,United States,San Francisco,Enterprise Tech,Productivity software
+,Digital Currency Group,10.0,2021-11-01 00:00:00,United States,New York,Financial Services,Cryptocurrency investment firm
+,KuCoin,10.0,2022-05-10 00:00:00,Seychelles,Victoria,Financial Services,Cryptocurrency exchange
+,ServiceTitan,9.5,2018-11-14 00:00:00,United States,Glendale,Industrials,Field service management software
+,HEYTEA,9.28,2019-07-01 00:00:00,China,Shenzhen,Consumer & Retail,Bubble tea chain
+,N26,9.23,2019-01-10 00:00:00,Germany,Berlin,Financial Services,Digital banking
+,Navan,9.2,2018-11-08 00:00:00,United States,Palo Alto,Enterprise Tech,Travel and expense management
+,VAST Data,9.1,2020-04-16 00:00:00,United States,New York,Enterprise Tech,Data storage solutions
+,Northvolt,9.08,2019-06-12 00:00:00,Sweden,Stockholm,Industrials,Electric vehicle batteries
+,Tanium,9.0,2015-03-31 00:00:00,United States,Kirkland,Enterprise Tech,Endpoint management platform
+,Niantic,9.0,2017-11-24 00:00:00,United States,San Francisco,Media & Entertainment,AR mobile games
+,OYO Rooms,9.0,2018-09-25 00:00:00,India,Gurugram,Consumer & Retail,Hotel booking platform
+,Rapyd,8.75,2019-12-03 00:00:00,United Kingdom,London,Financial Services,Fintech-as-a-service platform
+,Kavak,8.7,2020-10-01 00:00:00,Mexico,Lerma de Villada,Industrials,Used car marketplace
+,Nuro,8.6,2019-02-11 00:00:00,United States,Mountain View,Industrials,Autonomous delivery vehicles
+,Chainalysis,8.6,2020-11-23 00:00:00,United States,New York,Financial Services,Blockchain analytics platform
+,Personio,8.5,2021-01-19 00:00:00,Germany,Munich,Enterprise Tech,HR management software
+,SumUp,8.5,2019-07-16 00:00:00,United Kingdom,London,Financial Services,Mobile payment solutions
+,Bolt,8.4,2018-05-29 00:00:00,Estonia,Tallinn,Industrials,Ride-hailing platform
+,Tipalti,8.3,2020-10-06 00:00:00,United States,San Mateo,Enterprise Tech,Payment automation software
+,Dream11,8.0,2019-04-09 00:00:00,India,Mumbai,Media & Entertainment,Fantasy sports platform
+,Fireblocks,8.0,2021-07-27 00:00:00,United States,New York,Financial Services,Digital asset security platform
+,Flexport,8.0,2018-04-30 00:00:00,United States,San Francisco,Industrials,Freight forwarding platform
+,FalconX,8.0,2021-08-10 00:00:00,United States,San Mateo,Financial Services,Cryptocurrency trading platform
+,Caris,7.83,2021-05-12 00:00:00,United States,Irving,Healthcare & Life Sciences,Molecular profiling services
+,Ramp,7.65,2021-03-29 00:00:00,United States,New York,Enterprise Tech,Corporate card and expense management
+,Dapper Labs,7.6,2021-03-30 00:00:00,Canada,Vancouver,Media & Entertainment,Blockchain gaming platform
+,Netskope,7.5,2018-11-13 00:00:00,United States,Santa Clara,Enterprise Tech,Cloud security platform
+,Razorpay,7.5,2020-10-11 00:00:00,India,Bengaluru,Financial Services,Payment gateway platform
+,Automattic,7.5,2013-05-27 00:00:00,United States,San Francisco,Media & Entertainment,Web publishing platform
+,Carta,7.4,2019-05-06 00:00:00,United States,San Francisco,Financial Services,Equity management platform
+,Snyk,7.4,2020-01-21 00:00:00,United States,Boston,Enterprise Tech,Security scanning platform
+,Gong,7.25,2020-08-12 00:00:00,United States,Palo Alto,Enterprise Tech,Revenue intelligence platform
+,Gemini,7.1,2021-11-19 00:00:00,United States,New York,Financial Services,Cryptocurrency exchange
+,Blockchain.com,7.0,2021-02-17 00:00:00,United Kingdom,London,Financial Services,Cryptocurrency wallet and exchange
+,Toss,7.0,2018-12-09 00:00:00,South Korea,Seoul,Financial Services,Mobile financial services
+,We Doctor,7.0,2015-09-22 00:00:00,China,Hangzhou,Healthcare & Life Sciences,Online healthcare platform
+,Ro,7.0,2020-07-27 00:00:00,United States,New York,Healthcare & Life Sciences,Digital health platform
+,ConsenSys,7.0,2021-11-17 00:00:00,United States,New York,Enterprise Tech,Blockchain software development
+,Automation Anywhere,6.8,2018-07-02 00:00:00,United States,San Jose,Enterprise Tech,Robotic process automation
+,1Password,6.8,2021-07-08 00:00:00,Canada,Toronto,Enterprise Tech,Password management software
+,Ziroom,6.6,2018-01-17 00:00:00,China,Beijing,Consumer & Retail,Apartment rental platform
+,SVOLT,6.51,2020-06-08 00:00:00,China,Changzhou,Industrials,Electric vehicle batteries
+,National Stock Exchange of India,6.5,2020-07-01 00:00:00,India,Mumbai,Financial Services,Stock exchange
+,Mollie,6.5,2020-09-08 00:00:00,Netherlands,Amsterdam,Financial Services,Payment service provider
+,Doctolib,6.4,2019-03-19 00:00:00,France,Paris,Healthcare & Life Sciences,Healthcare appointment platform
+,CRED,6.4,2021-04-06 00:00:00,India,Bengaluru,Financial Services,Credit card payment rewards
+,DataRobot,6.3,2019-07-29 00:00:00,United States,Boston,Enterprise Tech,Automated machine learning platform
+,Upgrade,6.28,2018-02-12 00:00:00,United States,San Francisco,Financial Services,Consumer credit platform
+,Mistral AI,6.22,2023-12-10 00:00:00,France,Paris,Enterprise Tech,AI language models
+,Hinge Health,6.2,2021-01-06 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Digital physical therapy
+,Black Unicorn Factory,6.1,2021-05-20 00:00:00,United States,Los Angeles,Enterprise Tech,Technology investment firm
+,Benchling,6.1,2021-04-14 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Life sciences R&D software
+,Grafana Labs,6.0,2021-03-25 00:00:00,United States,New York,Enterprise Tech,Observability platform
+,Applied Intuition,6.0,2020-10-22 00:00:00,United States,Sunnyvale,Industrials,Autonomous vehicle simulation
+,Commure,6.0,2021-09-16 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Healthcare software platform
+,Royole Corporation,6.0,2015-08-18 00:00:00,China,Shenzhen,Industrials,Flexible displays
+,iCapital Network,6.0,2021-07-27 00:00:00,United States,New York,Financial Services,Alternative investment platform
+,6Sense,5.2,2021-03-30 00:00:00,United States,San Francisco,Enterprise Tech,Account engagement platform
+,Attentive,5.99,2020-09-23 00:00:00,United States,Hoboken,Enterprise Tech,Mobile messaging platform
+,Easyhome,5.78,2018-02-12 00:00:00,China,Beijing,Consumer & Retail,Home improvement retail
+,Lianjia,5.77,2016-04-07 00:00:00,China,Beijing,Financial Services,Real estate platform
+,Workato,5.7,2021-01-12 00:00:00,United States,Mountain View,Enterprise Tech,Integration automation platform
+,Vuori,5.5,2021-10-13 00:00:00,United States,Carlsbad,Consumer & Retail,Athletic apparel
+,Back Market,5.7,2021-05-18 00:00:00,France,Paris,Consumer & Retail,Refurbished electronics marketplace
+,RELEX,5.7,2022-02-17 00:00:00,Finland,Helsinki,Consumer & Retail,Supply chain optimization
+,The Boring Company,5.7,2022-04-20 00:00:00,United States,Pflugerville,Industrials,Tunnel construction technology
+,Postman,5.6,2020-06-11 00:00:00,United States,San Francisco,Enterprise Tech,API development platform
+,FiveTran,5.6,2020-06-30 00:00:00,United States,Oakland,Enterprise Tech,Data integration platform
+,ContentSquare,5.6,2021-05-25 00:00:00,France,Paris,Enterprise Tech,Digital experience analytics
+,Helsing,5.37,2023-09-14 00:00:00,Germany,Munchen,Enterprise Tech,AI-powered defense systems
+,Trade Republic,5.36,2021-05-20 00:00:00,Germany,Berlin,Financial Services,Mobile trading platform
+,Odoo,5.3,2021-07-29 00:00:00,Belgium,Louvain-la-Neuve,Enterprise Tech,Business management software
+,Rappi,5.25,2018-08-31 00:00:00,Colombia,Bogota,Consumer & Retail,On-demand delivery platform
+,Collibra,5.25,2019-01-29 00:00:00,Belgium,Brussels,Enterprise Tech,Data governance platform
+,Sierra,4.5,2024-10-28 00:00:00,United States,San Francisco,Enterprise Tech,AI development platform
+,OneTrust,4.5,2019-07-11 00:00:00,United States,Atlanta,Enterprise Tech,Privacy management software
+,QuintoAndar,5.1,2019-09-09 00:00:00,Brazil,Campinas,Financial Services,Real estate platform
+,Monzo,5.9,2018-10-31 00:00:00,United Kingdom,London,Financial Services,Digital banking
+,C6 Bank,5.05,2020-12-02 00:00:00,Brazil,Sao Paulo,Financial Services,Digital banking
+,Safe Superintelligence,5.0,2024-09-04 00:00:00,United States,San Francisco,Enterprise Tech,AI safety research
+,Redwood Materials,5.0,2021-07-28 00:00:00,United States,Carson City,Industrials,Battery recycling technology
+,Abnormal Security,5.1,2022-05-10 00:00:00,United States,San Francisco,Enterprise Tech,Email security platform
+,Hello TransTech,5.0,2018-06-01 00:00:00,China,Shanghai,Industrials,Bike-sharing platform
+,Airwallex,5.5,2019-03-25 00:00:00,Australia,Melbourne,Financial Services,Cross-border payments platform
+,Mambu,5.5,2021-01-06 00:00:00,Netherlands,Amsterdam,Financial Services,Banking platform
+,Oura,5.0,2022-04-05 00:00:00,Finland,Oulu,Healthcare & Life Sciences,Smart ring health tracker
+,Howden Group Holdings,5.0,2020-09-29 00:00:00,United Kingdom,London,Insurance,Insurance services
+,SambaNova Systems,5.0,2021-04-13 00:00:00,United States,Palo Alto,Enterprise Tech,AI computing platform
+,ZEPZ,5.0,2021-08-23 00:00:00,United Kingdom,London,Financial Services,Digital money transfer
+,OakNorth Bank,5.0,2017-10-12 00:00:00,United Kingdom,London,Financial Services,Business banking
+,Moon Active,5.0,2020-01-26 00:00:00,Israel,Tel Aviv,Media & Entertainment,Mobile gaming
+,OfBusiness,5.0,2021-07-31 00:00:00,India,Gurgaon,Industrials,B2B commerce platform
+,Cockroach Labs,5.0,2021-01-12 00:00:00,United States,New York,Enterprise Tech,Distributed SQL database
+,Pine Labs,5.0,2020-01-24 00:00:00,India,Noida,Financial Services,Payment solutions
+,Qonto,5.0,2022-01-11 00:00:00,France,Paris,Enterprise Tech,Business banking platform
+,Icertis,5.0,2019-07-17 00:00:00,United States,Bellevue,Enterprise Tech,Contract management software
+,Hopper,5.0,2021-03-24 00:00:00,Canada,Montreal,Consumer & Retail,Travel booking platform
+,VerSe Innovation,5.0,2020-12-22 00:00:00,India,Bengaluru,Media & Entertainment,Digital content platform
+,Lenskart,5.0,2019-12-20 00:00:00,India,Faridabad,Consumer & Retail,Eyewear retail
+,ShareChat,5.0,2021-04-08 00:00:00,India,Bengaluru,Media & Entertainment,Social media platform
+,Coalition,5.0,2021-03-17 00:00:00,United States,San Francisco,Insurance,Cyber insurance provider
+,Zepto,5.0,2023-08-25 00:00:00,India,Mumbai,Consumer & Retail,Quick commerce platform
+,Meesho,3.5,2021-04-05 00:00:00,India,Bengaluru,Consumer & Retail,Social commerce platform
+,Cerebral,4.8,2021-06-10 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Mental health platform
+,Reify Health,4.8,2021-08-10 00:00:00,United States,Boston,Healthcare & Life Sciences,Clinical trial software
+,Chipone,4.73,2021-12-16 00:00:00,China,Beijing,Industrials,Semiconductor design
+,BetterUp,4.7,2021-02-25 00:00:00,United States,San Francisco,Enterprise Tech,Professional coaching platform
+,Pleo,4.7,2021-07-06 00:00:00,Denmark,Copenhagen,Enterprise Tech,Business spending platform
+,SonarSource,4.7,2022-04-26 00:00:00,Switzerland,Geneva,Enterprise Tech,Code quality platform
+,Lyra Health,5.85,2020-08-25 00:00:00,United States,Burlingame,Healthcare & Life Sciences,Mental health benefits
+,Checkr,4.6,2019-09-19 00:00:00,United States,San Francisco,Enterprise Tech,Background check platform
+,Glean,4.6,2022-05-18 00:00:00,United States,Palo Alto,Enterprise Tech,Workplace search platform
+,Skims,4.0,2021-04-09 00:00:00,United States,Los Angeles,Consumer & Retail,Shapewear and loungewear
+,Color,4.6,2021-01-04 00:00:00,United States,Burlingame,Healthcare & Life Sciences,Healthcare technology platform
+,Lendable,4.58,2021-03-31 00:00:00,United Kingdom,London,Financial Services,Consumer lending platform
+,Vinted,5.4,2019-11-27 00:00:00,Lithuania,Vilnius,Consumer & Retail,Second-hand fashion marketplace
+,VIPKid,4.5,2016-08-04 00:00:00,China,Beijing,Consumer & Retail,Online English teaching
+,Socure,4.5,2021-03-16 00:00:00,United States,New York,Financial Services,Digital identity verification
+,wefox,4.5,2019-03-05 00:00:00,Germany,Berlin,Insurance,Digital insurance platform
+,Hugging Face,4.5,2022-05-09 00:00:00,United States,New York,Enterprise Tech,AI model platform
+,Outreach,4.4,2019-04-16 00:00:00,United States,Seattle,Enterprise Tech,Sales engagement platform
+,Lightmatter,4.4,2023-12-19 00:00:00,United States,Mountain View,Enterprise Tech,Photonic computing
+,Alan,4.46,2021-04-19 00:00:00,France,Paris,Healthcare & Life Sciences,Digital health insurance
+,Guild Education,4.4,2019-11-13 00:00:00,United States,Denver,Enterprise Tech,Education benefits platform
+,Arctic Wolf Networks,4.3,2020-10-22 00:00:00,United States,Eden Prairie,Enterprise Tech,Security operations platform
+,OutSystems,4.3,2018-06-05 00:00:00,United States,Boston,Enterprise Tech,Low-code development platform
+,Sorare,4.3,2021-09-21 00:00:00,France,Paris,Media & Entertainment,Fantasy sports NFT platform
+,Zipline,4.2,2019-05-20 00:00:00,United States,South San Francisco,Industrials,Drone delivery service
+,Relativity,4.2,2020-11-23 00:00:00,United States,Inglewood,Industrials,Space launch vehicles
+,Miaoshou Doctor,4.25,2019-06-27 00:00:00,China,Beijing,Healthcare & Life Sciences,Online healthcare platform
+,ThoughtSpot,4.2,2018-05-08 00:00:00,United States,Sunnyvale,Enterprise Tech,Business intelligence platform
+,Globalization Partners,4.2,2022-01-24 00:00:00,United States,Boston,Enterprise Tech,Global employment platform
+,dbt Labs,4.2,2021-06-30 00:00:00,United States,Philadelphia,Enterprise Tech,Data transformation tool
+,SSENSE,4.15,2021-06-08 00:00:00,Canada,Montreal,Consumer & Retail,Luxury fashion retail
+,Dataminr,4.1,2018-06-04 00:00:00,United States,New York,Enterprise Tech,Real-time information discovery
+,BitPanda,4.11,2021-03-16 00:00:00,Austria,Vienna,Financial Services,Digital investment platform
+,Weee!,4.1,2021-03-16 00:00:00,United States,Fremont,Consumer & Retail,Asian grocery delivery
+,AlphaSense,4.0,2022-06-15 00:00:00,United States,New York,Enterprise Tech,Market intelligence platform
+,Skydance Media,4.0,2020-02-11 00:00:00,United States,Santa Monica,Media & Entertainment,Film and television production
+,The Brandtech Group,4.0,2019-11-19 00:00:00,United States,New York,Enterprise Tech,Digital marketing technology
+,Houzz,4.0,2014-09-30 00:00:00,United States,Palo Alto,Consumer & Retail,Home design platform
+,Yello Mobile,4.0,2014-11-11 00:00:00,South Korea,Seoul,Consumer & Retail,Mobile services platform
+,Inflection AI,4.0,2022-05-13 00:00:00,United States,Palo Alto,Enterprise Tech,AI development platform
+,MEGVII,4.0,2017-10-31 00:00:00,China,Beijing,Enterprise Tech,Computer vision technology
+,Greensill,4.0,2018-07-16 00:00:00,United Kingdom,London,Financial Services,Supply chain finance
+,Impossible Foods,4.0,2019-05-13 00:00:00,United States,Redwood City,Consumer & Retail,Plant-based meat products
+,Radiology Partners,4.0,2018-02-26 00:00:00,United States,El Segundo,Healthcare & Life Sciences,Radiology services
+,Next Insurance,4.0,2019-10-07 00:00:00,United States,Palo Alto,Insurance,Small business insurance
+,PointClickCare,4.0,2021-01-07 00:00:00,Canada,Mississauga,Healthcare & Life Sciences,Healthcare software
+,Zapier,4.0,2021-01-14 00:00:00,United States,Sunnyvale,Enterprise Tech,Workflow automation platform
+,Clubhouse,4.0,2021-01-24 00:00:00,United States,San Francisco,Media & Entertainment,Audio chat platform
+,BrowserStack,4.0,2021-06-16 00:00:00,Ireland,Dublin,Enterprise Tech,Software testing platform
+,ClickUp,4.0,2020-12-15 00:00:00,United States,San Diego,Enterprise Tech,Project management platform
+,Cerebras Systems,4.0,2018-11-14 00:00:00,United States,Los Altos,Enterprise Tech,AI hardware
+,Farmers Business Network,4.0,2020-08-03 00:00:00,United States,San Carlos,Industrials,Agricultural technology platform
+,Branch,4.0,2018-09-10 00:00:00,United States,Redwood City,Enterprise Tech,Mobile linking platform
+,Aurora Solar,4.0,2021-05-24 00:00:00,United States,San Francisco,Industrials,Solar design software
+,Webflow,4.0,2021-01-13 00:00:00,United States,San Francisco,Enterprise Tech,Website building platform
+,Yuga Labs,4.0,2022-03-22 00:00:00,United States,Miami,Media & Entertainment,NFT and metaverse platform
+,Medlinker,3.92,2018-07-31 00:00:00,China,Chengdu,Healthcare & Life Sciences,Healthcare social network
+,StockX,3.8,2019-06-26 00:00:00,United States,Detroit,Consumer & Retail,Sneaker and streetwear marketplace
+,MessageBird,3.8,2020-10-08 00:00:00,Netherlands,Amsterdam,Enterprise Tech,Cloud communications platform
+,Articulate,3.75,2021-07-01 00:00:00,United States,New York,Enterprise Tech,E-learning software
+,Dutchie,3.75,2021-03-16 00:00:00,United States,Bend,Consumer & Retail,Cannabis e-commerce platform
+,Cohesity,3.7,2018-06-11 00:00:00,United States,San Jose,Enterprise Tech,Data management platform
+,Abba Platforms,3.7,2024-10-10 00:00:00,United States,New York,Financial Services,Trading platform technology
+,Dataiku,3.7,2019-12-04 00:00:00,United States,New York,Enterprise Tech,Data science platform
+,GOAT,3.7,2020-09-23 00:00:00,United States,Culver City,Consumer & Retail,Sneaker and streetwear marketplace
+,Noom,3.7,2021-05-24 00:00:00,United States,New York,Healthcare & Life Sciences,Weight loss and wellness app
+,Papaya Global,3.7,2021-03-04 00:00:00,United States,New York,Enterprise Tech,Global payroll and payments platform
+,Abogen,3.7,2021-11-29 00:00:00,China,Suzhou,Healthcare & Life Sciences,mRNA therapeutics development
+,Harness,3.7,2021-01-14 00:00:00,United States,San Francisco,Enterprise Tech,Software delivery platform
+,Whatnot,3.7,2021-09-16 00:00:00,United States,Marina del Rey,Consumer & Retail,Live shopping marketplace
+,o9 Solutions,3.7,2020-04-28 00:00:00,United States,Dallas,Enterprise Tech,Supply chain planning platform
+,Autograph,3.66,2022-01-20 00:00:00,United States,Santa Monica,Media & Entertainment,Digital collectibles platform
+,Relativity,3.6,2021-03-18 00:00:00,United States,Chicago,Enterprise Tech,Legal software platform
+,Whoop,3.6,2020-10-28 00:00:00,United States,Boston,Healthcare & Life Sciences,Fitness wearable technology
+,Course Hero,3.6,2020-02-12 00:00:00,United States,Redwood City,Consumer & Retail,Online learning platform
+,SpotOn,3.6,2021-05-26 00:00:00,United States,San Francisco,Financial Services,Payment and business management software
+,Otto Bock HealthCare,3.52,2017-06-24 00:00:00,Germany,Duderstadt,Healthcare & Life Sciences,Prosthetics and orthotics
+,Cribl,3.5,2021-08-25 00:00:00,United States,San Francisco,Enterprise Tech,Data pipeline management
+,Indigo Ag,3.5,2017-09-26 00:00:00,United States,Boston,Industrials,Agricultural technology
+,eToro,3.5,2023-03-21 00:00:00,United Kingdom,London,Financial Services,Social trading platform
+,HyalRoute,3.5,2020-05-26 00:00:00,Singapore,,Industrials,Fiber optic infrastructure
+,Rec Room,3.5,2021-03-23 00:00:00,United States,Seattle,Media & Entertainment,Virtual reality social platform
+,Mirakl,3.5,2020-09-22 00:00:00,France,Paris,Consumer & Retail,Marketplace software platform
+,Tekion,4.0,2020-10-21 00:00:00,United States,San Ramon,Industrials,Automotive retail software
+,GoStudent,3.5,2021-06-22 00:00:00,Austria,Vienna,Consumer & Retail,Online tutoring platform
+,Highspot,3.5,2021-02-22 00:00:00,United States,Seattle,Enterprise Tech,Sales enablement platform
+,Handshake,3.5,2021-05-12 00:00:00,United States,San Francisco,Enterprise Tech,Career networking platform
+,ChargeBee Technologies,3.5,2021-04-20 00:00:00,United States,San Francisco,Financial Services,Subscription billing platform
+,Flock Safety,3.5,2021-07-13 00:00:00,United States,Atlanta,Consumer & Retail,Public safety technology
+,Helion Energy,3.5,2021-11-05 00:00:00,United States,Redmond,Industrials,Fusion energy technology
+,Unacademy,3.44,2020-09-02 00:00:00,India,Bengaluru,Consumer & Retail,Online education platform
+,MoonPay,3.4,2021-11-22 00:00:00,United States,Miami,Financial Services,Cryptocurrency payment infrastructure
+,Upstox,3.4,2021-11-29 00:00:00,India,Mumbai,Financial Services,Online trading platform
+,Improbable,3.36,2017-05-11 00:00:00,United Kingdom,London,Media & Entertainment,Virtual world technology
+,Youxia Motors,3.35,2018-04-02 00:00:00,China,Shanghai,Industrials,Electric vehicles
+,Starburst,3.35,2021-01-06 00:00:00,United States,Boston,Enterprise Tech,Data analytics platform
+,Moonshot AI,3.3,2024-02-19 00:00:00,China,Beijing,Consumer & Retail,AI-powered consumer products
+,Sila,3.3,2019-04-16 00:00:00,United States,Alameda,Industrials,Battery technology
+,Komodo Health,3.3,2020-05-22 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Healthcare data analytics
+,Kurly,3.3,2021-07-09 00:00:00,South Korea,Seoul,Consumer & Retail,Online grocery delivery
+,Cars24,3.3,2020-11-24 00:00:00,India,Gurgaon,Industrials,Used car marketplace
+,Spring Health,3.3,2021-09-16 00:00:00,United States,New York,Healthcare & Life Sciences,Mental health platform
+,BlockDaemon,3.25,2021-09-21 00:00:00,United States,Los Angeles,Financial Services,Blockchain infrastructure
+,Bilt Rewards,3.25,2022-10-25 00:00:00,United States,New York,Financial Services,Rent payment rewards platform
+,Vercel,3.25,2021-06-23 00:00:00,United States,San Francisco,Enterprise Tech,Web development platform
+,Dadi Cinema,3.24,2016-05-11 00:00:00,China,Shenzhen,Media & Entertainment,Movie theater chain
+,Aiven,3.21,2021-10-18 00:00:00,Finland,Helsinki,Enterprise Tech,Cloud data infrastructure
+,Thumbtack,3.2,2015-09-29 00:00:00,United States,San Francisco,Consumer & Retail,Local services marketplace
+,Cedar,3.2,2021-03-09 00:00:00,United States,New York,Healthcare & Life Sciences,Healthcare financial platform
+,Eruditus Executive Education,3.1,2021-08-12 00:00:00,India,Mumbai,Enterprise Tech,Online education programs
+,Blockstream,3.2,2021-08-24 00:00:00,Canada,Vancouver,Financial Services,Blockchain technology
+,Innovaccer,3.2,2021-02-19 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Healthcare data platform
+,Ironclad,3.2,2022-01-18 00:00:00,United States,Sacramento,Enterprise Tech,Contract management platform
+,Eikon Therapeutics,3.2,2022-01-06 00:00:00,United States,Hayward,Healthcare & Life Sciences,Drug discovery platform
+,Retool,3.2,2021-12-22 00:00:00,United States,San Francisco,Enterprise Tech,Internal tools platform
+,Verkada,3.2,2020-01-29 00:00:00,United States,San Mateo,Industrials,Security camera systems
+,PsiQuantum,3.15,2021-07-27 00:00:00,United States,Palo Alto,Enterprise Tech,Quantum computing technology
+,HighRadius,3.1,2020-01-07 00:00:00,United States,Houston,Financial Services,Order-to-cash software
+,Nuvemshop,3.1,2021-08-17 00:00:00,Brazil,Sao Paulo,Consumer & Retail,E-commerce platform
+,LayerZero Labs,3.0,2022-03-30 00:00:00,United States,New York,Enterprise Tech,Blockchain interoperability protocol
+,Poolside,3.0,2024-10-02 00:00:00,France,Paris,Enterprise Tech,Cloud computing platform
+,Cyera,3.0,2024-04-09 00:00:00,United States,New York,Enterprise Tech,Data security platform
+,Crusoe,3.0,2022-04-21 00:00:00,United States,Denver,Industrials,Digital flare mitigation
+,Clio,3.0,2021-04-27 00:00:00,Canada,Burnaby,Enterprise Tech,Legal practice management software
+,Zhipu AI,3.0,2023-09-20 00:00:00,China,Beijing,Enterprise Tech,AI development platform
+,Island,3.0,2022-03-23 00:00:00,United States,Dallas,Enterprise Tech,Enterprise browser platform
+,Nord Security,3.0,2022-04-07 00:00:00,Lithuania,Vilnius,Enterprise Tech,Cybersecurity solutions
+,Yixia,3.0,2015-11-24 00:00:00,China,Beijing,Media & Entertainment,Mobile video platform
+,Traveloka,3.0,2017-01-01 00:00:00,Indonesia,Jakarta,Consumer & Retail,Travel booking platform
+,Monad Labs,3.0,2024-04-09 00:00:00,United States,New York,Financial Services,Blockchain development platform
+,SouChe Holdings,3.0,2017-11-01 00:00:00,China,Hangzhou,Industrials,Automotive retail platform
+,BGL Group,3.0,2017-11-24 00:00:00,United Kingdom,Peterborough,Insurance,Insurance comparison platform
+,Circle,3.0,2018-05-15 00:00:00,United States,Boston,Financial Services,Cryptocurrency payments
+,Zuoyebang,3.0,2018-07-18 00:00:00,China,Beijing,Consumer & Retail,Online education platform
+,FlixMobility,3.0,2019-07-18 00:00:00,Germany,Munich,Industrials,Bus and train travel platform
+,Wildlife Studios,3.0,2019-12-05 00:00:00,Brazil,Sao Paulo,Media & Entertainment,Mobile game development
+,ApplyBoard,3.2,2020-05-05 00:00:00,Canada,Kitchener,Consumer & Retail,International student recruitment
+,Forter,3.0,2020-11-19 00:00:00,United States,New York,Enterprise Tech,Fraud prevention platform
+,Calendly,3.0,2021-01-26 00:00:00,United States,Atlanta,Enterprise Tech,Scheduling automation platform
+,BlockFi,3.0,2021-03-11 00:00:00,United States,Jersey City,Financial Services,Crypto lending platform
+,ActiveCampaign,3.0,2021-04-21 00:00:00,United States,Chicago,Enterprise Tech,Marketing automation platform
+,CMR Surgical,3.0,2019-09-17 00:00:00,United Kingdom,Cambridge,Healthcare & Life Sciences,Surgical robotics
+,Lucid Software,3.0,2021-06-29 00:00:00,United States,South Jordan,Enterprise Tech,Visual collaboration software
+,Age of Learning,3.0,2016-05-03 00:00:00,United States,Glendale,Consumer & Retail,Educational technology
+,Carbon Health,3.0,2021-07-21 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Primary care clinics
+,Contentful,3.0,2021-07-28 00:00:00,Germany,Berlin,Enterprise Tech,Content management platform
+,LaunchDarkly,3.0,2021-08-10 00:00:00,United States,Oakland,Enterprise Tech,Feature management platform
+,Seismic,3.0,2018-12-18 00:00:00,United States,San Diego,Enterprise Tech,Sales enablement software
+,Sky Mavis,3.0,2021-10-04 00:00:00,Vietnam,Ho Chi Minh City,Media & Entertainment,Blockchain gaming platform
+,Outschool,3.0,2021-04-14 00:00:00,United States,San Francisco,Consumer & Retail,Online learning marketplace
+,TradingView,3.0,2021-10-14 00:00:00,United States,Westerville,Financial Services,Financial charting platform
+,Groww,3.0,2021-04-07 00:00:00,India,Bengaluru,Financial Services,Investment platform
+,Podium,3.0,2020-04-07 00:00:00,United States,Lehi,Consumer & Retail,Customer messaging platform
+,Via,3.5,2020-03-30 00:00:00,United States,New York,Industrials,Transit technology platform
+,Anchorage Digital,3.0,2021-12-15 00:00:00,United States,San Francisco,Financial Services,Digital asset custody
+,Inxeption,3.0,2022-01-13 00:00:00,United States,San Francisco,Industrials,B2B e-commerce platform
+,Lattice,3.0,2021-03-23 00:00:00,United States,San Francisco,Enterprise Tech,Performance management platform
+,Flutterwave,3.0,2021-03-09 00:00:00,United States,San Francisco,Financial Services,Payment processing platform
+,Cross River Bank,3.0,2022-02-11 00:00:00,United States,Fort Lee,Financial Services,Banking-as-a-service platform
+,Remote,3.0,2021-07-13 00:00:00,United States,San Francisco,Enterprise Tech,Global employment platform
+,Sentry,3.0,2021-02-18 00:00:00,United States,San Francisco,Enterprise Tech,Application monitoring platform
+,TERMINUS Technology,2.96,2018-10-25 00:00:00,China,Beijing,Industrials,Smart city solutions
+,Kraken,2.92,2019-06-25 00:00:00,United States,San Francisco,Financial Services,Cryptocurrency exchange
+,Workrise,2.9,2019-09-30 00:00:00,United States,Austin,Industrials,Workforce management platform
+,BharatPe,2.85,2021-07-30 00:00:00,India,New Delhi,Financial Services,Payment solutions for merchants
+,Gokin Solar,2.88,2022-04-13 00:00:00,China,Zhuhai,Industrials,Solar energy technology
+,DriveWealth,2.85,2021-08-20 00:00:00,United States,Chatham,Financial Services,Investment infrastructure
+,Meicai,2.8,2016-06-22 00:00:00,China,Beijing,Consumer & Retail,B2B food supply platform
+,Physical Intelligence,2.8,2024-11-04 00:00:00,United States,San Francisco,Enterprise Tech,AI robotics platform
+,Nutrabolt,2.79,2022-12-08 00:00:00,United States,Austin,Consumer & Retail,Sports nutrition products
+,Baichuan AI,2.77,2023-10-17 00:00:00,China,Haidian,Enterprise Tech,AI language models
+,Illumio,2.75,2015-04-14 00:00:00,United States,Sunnyvale,Enterprise Tech,Zero trust security platform
+,MasterClass,2.75,2021-05-13 00:00:00,United States,San Francisco,Media & Entertainment,Online education courses
+,Dream Games,2.75,2021-06-30 00:00:00,Turkey,Istanbul,Media & Entertainment,Mobile game development
+,Transmit Security,2.74,2021-06-22 00:00:00,Israel,Tel Aviv,Enterprise Tech,Identity security platform
+,Hozon Auto,3.95,2022-02-22 00:00:00,China,Shanghai,Industrials,Electric vehicles
+,Tradeshift,2.7,2018-05-30 00:00:00,United States,San Francisco,Enterprise Tech,Supply chain payments platform
+,Nextiva,2.7,2021-09-14 00:00:00,United States,Scottsdale,Enterprise Tech,Business communications platform
+,Tridge,2.7,2022-08-24 00:00:00,South Korea,Seoul,Industrials,Agricultural trading platform
+,Thought Machine,2.7,2021-11-29 00:00:00,United Kingdom,London,Financial Services,Core banking platform
+,Starling Bank,2.69,2021-03-08 00:00:00,United Kingdom,London,Financial Services,Digital banking services
+,Figure,2.68,2024-02-23 00:00:00,United States,Sunnyvale,Industrials,Robotics and AI technology
+,BackBase,2.66,2022-06-09 00:00:00,Netherlands,Amsterdam,Financial Services,Digital banking platform
+,ManoMano,2.6,2021-07-05 00:00:00,France,Paris,Consumer & Retail,Home improvement marketplace
+,Sourcegraph,2.62,2021-07-13 00:00:00,United States,San Francisco,Enterprise Tech,Code intelligence platform
+,Pendo,2.6,2019-10-17 00:00:00,United States,Raleigh,Enterprise Tech,Product analytics platform
+,Plume,2.6,2021-02-23 00:00:00,United States,Palo Alto,Industrials,Smart home WiFi platform
+,Moglix,2.6,2021-05-17 00:00:00,Singapore,,Industrials,B2B e-commerce platform
+,Axonius,2.6,2021-03-01 00:00:00,United States,New York,Enterprise Tech,Cybersecurity asset management
+,Xinchao Media,2.0,2018-04-09 00:00:00,China,Chengdu,Media & Entertainment,Advertising network
+,JumpCloud,2.62,2021-09-13 00:00:00,United States,Louisville,Enterprise Tech,Directory platform
+,Unico,2.6,2021-08-03 00:00:00,Brazil,Sao Paulo,Enterprise Tech,Digital identity platform
+,Bending Spoons,2.55,2024-02-15 00:00:00,Italy,Milan,Consumer & Retail,Mobile app development
+,JUST Egg,2.59,2017-11-30 00:00:00,United States,San Francisco,Consumer & Retail,Plant-based egg products
+,Groq,2.5,2021-04-14 00:00:00,United States,Mountain View,Enterprise Tech,AI chip technology
+,Jetti Resources,2.5,2022-10-24 00:00:00,United States,Boulder,Industrials,Mining technology
+,Claroty,2.5,2021-06-17 00:00:00,United States,New York,Enterprise Tech,Industrial cybersecurity
+,Vista Global,2.5,2017-08-23 00:00:00,United Arab Emirates,Dubai,Industrials,Private aviation services
+,BYTON,2.5,2018-04-20 00:00:00,China,Nanjing,Industrials,Electric vehicles
+,Side,2.5,2021-03-22 00:00:00,United States,San Francisco,Financial Services,Real estate brokerage platform
+,Infra.Market,2.5,2021-02-25 00:00:00,India,Thane,Industrials,Construction materials marketplace
+,Varo Bank,2.5,2021-09-09 00:00:00,United States,San Francisco,Financial Services,Digital banking services
+,Cato Networks,3.0,2020-11-17 00:00:00,Israel,Tel Aviv,Enterprise Tech,Cloud network security
+,Sword Health,3.0,2021-11-22 00:00:00,United States,New York,Healthcare & Life Sciences,Digital physical therapy
+,Aura,2.5,2021-06-09 00:00:00,United States,Burlington,Consumer & Retail,Digital security platform
+,TensTorrent,2.6,2021-05-05 00:00:00,Canada,Toronto,Enterprise Tech,AI chip technology
+,Sysdig,2.5,2021-04-28 00:00:00,United States,San Francisco,Enterprise Tech,Cloud security platform
+,Zetwerk,2.8,2021-08-20 00:00:00,India,Bengaluru,Industrials,Manufacturing marketplace
+,Uniphore,2.5,2022-02-16 00:00:00,United States,Palo Alto,Enterprise Tech,Conversational AI platform
+,Somatus,2.5,2022-02-23 00:00:00,United States,McLean,Healthcare & Life Sciences,Kidney care services
+,Immutable,2.5,2022-03-07 00:00:00,Australia,Sydney,Media & Entertainment,Blockchain gaming platform
+,SiFive,2.5,2022-03-16 00:00:00,United States,San Mateo,Enterprise Tech,RISC-V processor technology
+,Games24x7,2.5,2022-03-30 00:00:00,India,Mumbai,Media & Entertainment,Online gaming platform
+,Fetch,2.5,2021-03-31 00:00:00,United States,Madison,Consumer & Retail,Shopping rewards app
+,Coda Payments,2.5,2022-04-15 00:00:00,Singapore,,Financial Services,Digital payments platform
+,DriveNets,2.5,2021-01-27 00:00:00,Israel,Ra'anana,Enterprise Tech,Network cloud software
+,Hibob,2.45,2021-10-12 00:00:00,Israel,Tel Aviv,Enterprise Tech,HR management platform
+,Vanta,2.45,2022-06-07 00:00:00,United States,San Francisco,Enterprise Tech,Security compliance platform
+,Mobile Premier League,2.45,2021-09-15 00:00:00,India,Bengaluru,Media & Entertainment,Mobile gaming platform
+,insitro,2.44,2021-03-15 00:00:00,United States,South San Francisco,Healthcare & Life Sciences,Drug discovery platform
+,Cgtz,2.41,2017-02-21 00:00:00,China,Hangzhou,Financial Services,Investment management platform
+,Star Charge,2.41,2021-05-19 00:00:00,China,Changzhou,Industrials,EV charging stations
+,Carbon,2.4,2015-08-20 00:00:00,United States,Redwood City,Industrials,3D printing technology
+,Rokt,2.4,2021-12-16 00:00:00,United States,New York,Consumer & Retail,E-commerce optimization platform
+,Paxos,2.4,2021-04-29 00:00:00,United States,New York,Financial Services,Blockchain infrastructure
+,BitSight Technologies,2.4,2021-09-13 00:00:00,United States,Boston,Enterprise Tech,Security ratings platform
+,Trumid,2.4,2020-07-15 00:00:00,United States,New York,Financial Services,Electronic bond trading platform
+,ABL Space Systems,2.4,2021-03-25 00:00:00,United States,El Segundo,Industrials,Rocket launch vehicles
+,HoneyBook,2.4,2021-05-04 00:00:00,United States,San Francisco,Enterprise Tech,Business management software
+,Beta Technologies,2.4,2022-04-19 00:00:00,United States,South Burlington,Industrials,Electric aircraft
+,Project44,2.62,2021-06-01 00:00:00,United States,Chicago,Enterprise Tech,Supply chain visibility platform
+,Freenome,2.62,2020-08-26 00:00:00,United States,South San Francisco,Healthcare & Life Sciences,Cancer screening technology
+,ManyPets,2.35,2021-06-01 00:00:00,United Kingdom,London,Insurance,Pet insurance services
+,Jobandtalent,2.35,2021-12-01 00:00:00,Spain,Madrid,Enterprise Tech,Digital staffing platform
+,WEMAKEPRICE,2.34,2015-09-09 00:00:00,South Korea,Seoul,Consumer & Retail,E-commerce marketplace
+,Biren Technology,2.32,2020-08-18 00:00:00,China,Shanghai,Enterprise Tech,AI chip development
+,Transcarent,2.2,2022-01-11 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Healthcare platform
+,Voodoo,2.31,2020-08-17 00:00:00,France,Paris,Media & Entertainment,Mobile game development
+,Shield AI,2.8,2021-08-24 00:00:00,United States,San Diego,Industrials,Military drone systems
+,PhysicsWallah,2.8,2022-06-07 00:00:00,India,Uttar Pradesh,Consumer & Retail,Online education platform
+,Uptake,2.3,2015-10-27 00:00:00,United States,Chicago,Industrials,Industrial analytics platform
+,Motive,2.85,2019-04-23 00:00:00,United States,San Francisco,Industrials,Fleet management technology
+,Greenlight,2.3,2020-09-24 00:00:00,United States,Atlanta,Financial Services,Family banking app
+,MoMo,2.27,2021-12-10 00:00:00,Vietnam,Ho Chi Minh City,Financial Services,Digital wallet platform
+,Story Protocol,2.25,2024-08-21 00:00:00,United States,Bellevue,Media & Entertainment,IP rights management platform
+,Algolia,2.25,2021-07-28 00:00:00,United States,San Francisco,Enterprise Tech,Search API platform
+,Pattern,2.25,2021-10-06 00:00:00,United States,Lehi,Consumer & Retail,E-commerce acceleration platform
+,Newfront Insurance,2.2,2022-04-12 00:00:00,United States,San Francisco,Insurance,Insurance brokerage platform
+,NuCom Group,2.2,2018-02-22 00:00:00,Germany,Unterfoehring,Consumer & Retail,Digital commerce portfolio
+,Skydio,2.2,2021-02-25 00:00:00,United States,Redwood City,Industrials,Autonomous drones
+,MUSINSA,2.76,2019-11-11 00:00:00,South Korea,Seoul,Consumer & Retail,Fashion e-commerce platform
+,Uala,2.75,2021-08-13 00:00:00,Argentina,Buenos Aires,Financial Services,Digital banking platform
+,Current,2.2,2021-04-27 00:00:00,United States,New York,Financial Services,Mobile banking platform
+,Bitso,2.2,2021-05-05 00:00:00,Mexico,Mexico City,Financial Services,Cryptocurrency exchange
+,Gympass,2.4,2019-06-12 00:00:00,United States,New York,Healthcare & Life Sciences,Corporate wellness platform
+,Dialpad,2.2,2020-10-06 00:00:00,United States,San Francisco,Enterprise Tech,Cloud communications platform
+,G7 Networks,2.2,2022-02-15 00:00:00,China,Beijing,Industrials,IoT fleet management
+,BloomReach,2.2,2022-02-23 00:00:00,United States,Mountain View,Consumer & Retail,Digital experience platform
+,Motif FoodWorks,2.2,2021-06-16 00:00:00,United States,Boston,Industrials,Plant-based food technology
+,Accelerant,2.4,2022-01-12 00:00:00,United Kingdom,Colchester,Insurance,Insurance platform
+,YITU Technology,2.17,2018-03-08 00:00:00,China,Shanghai,Enterprise Tech,AI and facial recognition
+,Addepar,2.17,2021-06-15 00:00:00,United States,Mountain View,Financial Services,Investment management software
+,Qualia,2.17,2020-12-21 00:00:00,United States,San Francisco,Financial Services,Real estate closing platform
+,Neo4j,2.0,2021-06-17 00:00:00,United States,San Mateo,Enterprise Tech,Graph database platform
+,CloudWalk,2.15,2021-09-08 00:00:00,Brazil,Sao Paulo,Financial Services,Payment processing platform
+,Xaira Therapeutics,2.15,2024-04-23 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Drug development platform
+,CoinDCX,2.15,2021-08-10 00:00:00,India,Maharashtra,Financial Services,Cryptocurrency exchange
+,Eightfold,2.1,2020-10-27 00:00:00,United States,Santa Clara,Enterprise Tech,Talent intelligence platform
+,Urban Company,2.1,2021-04-27 00:00:00,India,Gurgaon,Consumer & Retail,Home services marketplace
+,Moveworks,2.1,2021-06-30 00:00:00,United States,Mountain View,Enterprise Tech,AI IT support platform
+,Medable,2.1,2021-10-26 00:00:00,United States,Palo Alto,Healthcare & Life Sciences,Clinical trial platform
+,GoCardless,2.1,2022-02-08 00:00:00,United Kingdom,London,Financial Services,Payment processing platform
+,Aledade,3.5,2021-01-19 00:00:00,United States,Bethesda,Healthcare & Life Sciences,Healthcare analytics platform
+,A24 Films,3.5,2022-03-09 00:00:00,United States,New York,Media & Entertainment,Film production studio
+,Forto,2.1,2021-06-21 00:00:00,Germany,Berlin,Industrials,Digital freight forwarding
+,Synthesia,2.1,2023-06-13 00:00:00,United Kingdom,London,Enterprise Tech,AI video generation platform
+,Jeeves,2.1,2022-03-14 00:00:00,United States,Orlando,Enterprise Tech,Expense management platform
+,Viva Wallet,2.05,2022-12-17 00:00:00,Greece,Athens,Financial Services,Payment services platform
+,DeepL,2.0,2023-01-11 00:00:00,Germany,Cologne,Enterprise Tech,AI translation platform
+,Melio,2.0,2021-01-25 00:00:00,United States,New York,Financial Services,B2B payments platform
+,Firefly Aerospace,2.0,2024-05-04 00:00:00,United States,Cedar Park,Industrials,Space launch vehicles
+,Cognition AI,2.0,2024-04-24 00:00:00,United States,San Francisco,Enterprise Tech,AI development platform
+,Babel Finance,2.0,2022-05-25 00:00:00,Hong Kong,Hong Kong,Financial Services,Crypto financial services
+,Trendy Group International,2.0,2012-02-13 00:00:00,Hong Kong,Kowloon,Consumer & Retail,Fashion retail group
+,GrubMarket,2.0,2021-09-14 00:00:00,United States,San Francisco,Consumer & Retail,Food supply chain platform
+,BeZero,2.0,2022-11-14 00:00:00,United Kingdom,London,Enterprise Tech,Carbon credit ratings
+,Cohere,2.0,2023-05-02 00:00:00,Canada,Toronto,Enterprise Tech,AI language models
+,GO1,2.0,2021-07-19 00:00:00,Australia,Brisbane,Enterprise Tech,Corporate learning platform
+,Clear Street,2.0,2022-04-29 00:00:00,United States,New York,Financial Services,Capital markets platform
+,Drata,2.0,2021-11-08 00:00:00,United States,San Diego,Enterprise Tech,Security compliance platform
+,Mysten Labs,2.0,2022-09-08 00:00:00,United States,San Francisco,Enterprise Tech,Web3 infrastructure
+,Avant,2.0,2012-12-17 00:00:00,United States,Chicago,Financial Services,Digital lending platform
+,Tubatu.com,2.0,2015-03-09 00:00:00,China,Shenzhen,Consumer & Retail,Home improvement platform
+,BlaBlaCar,2.0,2015-09-16 00:00:00,France,Paris,Consumer & Retail,Carpooling platform
+,HuiMin,2.0,2016-09-05 00:00:00,China,Beijing,Consumer & Retail,Group buying platform
+,Preferred Networks,2.0,2018-05-17 00:00:00,Japan,Tokyo,Industrials,Deep learning technology
+,Formlabs,2.0,2018-08-01 00:00:00,United States,Somerville,Industrials,3D printing technology
+,Calm,2.0,2019-02-06 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Meditation app
+,Kaseya,2.0,2019-03-27 00:00:00,United States,Miami,Enterprise Tech,IT management software
+,Mafengwo,2.0,2019-05-23 00:00:00,China,Beijing,Consumer & Retail,Travel platform
+,Druva,2.0,2019-06-20 00:00:00,United States,Sunnyvale,Enterprise Tech,Cloud data protection
+,Kujiale,2.0,2019-10-25 00:00:00,China,Hangzhou,Consumer & Retail,Home design platform
+,AppsFlyer,2.0,2020-01-21 00:00:00,United States,San Francisco,Enterprise Tech,Mobile analytics platform
+,Redis,2.0,2020-08-25 00:00:00,United States,Mountain View,Enterprise Tech,Database platform
+,Xingyun Group,2.0,2020-09-24 00:00:00,China,Shenzhen,Consumer & Retail,Cross-border e-commerce
+,Unqork,2.0,2020-10-06 00:00:00,United States,New York,Insurance,No-code platform
+,Virta Health,2.0,2020-12-02 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Diabetes treatment platform
+,ISN,2.0,2020-12-17 00:00:00,United States,Dallas,Industrials,Contractor management platform
+,Earnix,2.0,2021-02-21 00:00:00,Israel,Giv'atayim,Insurance,Insurance pricing platform
+,Clearco,2.0,2021-04-20 00:00:00,Canada,Toronto,Financial Services,Revenue-based financing
+,Hive,2.0,2021-04-21 00:00:00,United States,San Francisco,Enterprise Tech,Project management platform
+,Kry,2.0,2021-04-27 00:00:00,Sweden,Stockholm,Healthcare & Life Sciences,Telemedicine platform
+,Kajabi,2.0,2021-05-04 00:00:00,United States,Irvine,Media & Entertainment,Knowledge commerce platform
+,Ethos,2.7,2021-05-11 00:00:00,United States,San Francisco,Insurance,Life insurance platform
+,PayFit,2.1,2022-01-06 00:00:00,United Kingdom,London,Enterprise Tech,Payroll management platform
+,Beisen,2.0,2021-05-11 00:00:00,China,Beijing,Enterprise Tech,HR software platform
+,Pipe,2.0,2021-05-19 00:00:00,United States,Miami,Financial Services,Revenue trading platform
+,Iterable,2.0,2021-06-15 00:00:00,United States,San Francisco,Enterprise Tech,Marketing automation platform
+,Astronergy,1.82,2023-07-25 00:00:00,China,Haining,Industrials,Solar panel manufacturing
+,Bunq,1.8,2021-06-18 00:00:00,Netherlands,Amsterdam,Financial Services,Digital banking platform
+,Quest Global,1.8,2023-08-08 00:00:00,,Singapore,Industrials,Engineering services
+,Clip,2.0,2021-06-10 00:00:00,Mexico,Mexico City,Financial Services,Payment processing platform
+,Loggi,2.0,2019-06-05 00:00:00,Brazil,Sao Paulo,Industrials,Logistics platform
+,MURAL,2.0,2021-07-20 00:00:00,United States,San Francisco,Enterprise Tech,Digital workspace platform
+,OCSiAl,2.0,2019-03-04 00:00:00,Luxembourg,Leudelange,Industrials,Graphene nanotube production
+,Divvy Homes,2.0,2021-08-13 00:00:00,United States,San Francisco,Financial Services,Rent-to-own platform
+,Apeel Sciences,2.0,2020-05-26 00:00:00,United States,Goleta,Consumer & Retail,Food preservation technology
+,Opay,2.0,2021-08-23 00:00:00,Nigeria,Lagos,Financial Services,Mobile payments platform
+,Aviatrix,2.0,2021-09-08 00:00:00,United States,Santa Clara,Enterprise Tech,Cloud networking platform
+,SmartNews,2.0,2019-08-05 00:00:00,Japan,Tokyo,Media & Entertainment,News aggregation app
+,Misfits Market,2.0,2021-04-21 00:00:00,United States,Pennsauken,Consumer & Retail,Grocery delivery service
+,Advance Intelligence Group,2.0,2021-09-23 00:00:00,Singapore,,Financial Services,AI-powered fintech solutions
+,Modern Treasury,2.0,2021-10-06 00:00:00,United States,San Francisco,Financial Services,Payment operations platform
+,Magic Leap,2.0,2014-10-21 00:00:00,United States,Plantation,Enterprise Tech,AR hardware and software
+,ClickHouse,2.0,2021-10-28 00:00:00,United States,Portola Valley,Enterprise Tech,Database management system
+,Everlaw,2.0,2020-03-10 00:00:00,United States,Oakland,Enterprise Tech,Legal technology platform
+,Zilch,2.0,2021-11-10 00:00:00,United Kingdom,London,Financial Services,BNPL platform
+,VerbIT,2.0,2021-06-08 00:00:00,United States,New York,Enterprise Tech,AI transcription platform
+,StarkWare,8.0,2021-11-17 00:00:00,Israel,Netanya,Enterprise Tech,Blockchain scaling solution
+,Netlify,2.0,2021-11-17 00:00:00,United States,San Francisco,Enterprise Tech,Web development platform
+,LTK,2.0,2021-11-22 00:00:00,United States,Dallas,Media & Entertainment,Creator commerce platform
+,Trax,2.0,2019-07-22 00:00:00,Singapore,,Consumer & Retail,Retail computer vision platform
+,Exotec,2.0,2022-01-17 00:00:00,France,Croix,Industrials,Warehouse robotics systems
+,Dremio,2.0,2021-01-06 00:00:00,United States,Santa Clara,Enterprise Tech,Data lake platform
+,Akulaku,2.0,2022-02-15 00:00:00,Indonesia,Jakarta,Financial Services,Digital financial services
+,Cloudinary,2.0,2022-02-15 00:00:00,United States,Santa Clara,Media & Entertainment,Media management platform
+,Lunar,2.0,2021-07-12 00:00:00,Denmark,Aarhus,Financial Services,Digital banking platform
+,UpGrad,2.25,2021-08-09 00:00:00,India,Mumbai,Consumer & Retail,Online education platform
+,Salsify,2.0,2022-04-13 00:00:00,United States,Boston,Consumer & Retail,Commerce experience platform
+,CertiK,2.0,2022-03-31 00:00:00,United States,New York,Enterprise Tech,Blockchain security platform
+,ROX Motor,2.0,2022-04-29 00:00:00,China,Shanghai,Industrials,Electric vehicle manufacturing
+,Devo Technology,2.0,2021-10-26 00:00:00,United States,Cambridge,Enterprise Tech,Security analytics platform
+,ShiftKey,2.0,2023-01-11 00:00:00,United States,Dallas,Healthcare & Life Sciences,Healthcare staffing platform
+,Rimac Automobili,2.0,2022-06-01 00:00:00,Croatia,Sveta Nedelja,Industrials,Electric sports cars
+,Geek+,2.0,2018-11-21 00:00:00,China,Beijing,Industrials,Warehouse robotics
+,21.co,2.0,2022-09-06 00:00:00,United States,New York,Financial Services,Crypto investment products
+,Solugen,2.0,2021-09-10 00:00:00,United States,Houston,Industrials,Green chemical manufacturing
+,ZigBang,1.93,2022-06-07 00:00:00,South Korea,Seoul,Financial Services,Real estate platform
+,SemiDrive,1.93,2024-07-14 00:00:00,China,Nanjing,Industrials,Automotive semiconductors
+,Ankorstore,1.98,2022-01-10 00:00:00,France,Paris,Consumer & Retail,B2B marketplace
+,InVision,1.9,2017-11-01 00:00:00,United States,New York,Enterprise Tech,Design collaboration platform
+,Writer,1.9,2024-11-12 00:00:00,United States,San Francisco,Enterprise Tech,AI writing assistant
+,eDaili,1.9,2019-02-01 00:00:00,China,Shanghai,Financial Services,Supply chain financing
+,commercetools,1.9,2021-09-13 00:00:00,Germany,Munich,Enterprise Tech,E-commerce software
+,NinjaOne,1.9,2024-02-06 00:00:00,United States,Austin,Enterprise Tech,IT management platform
+,MX,1.9,2021-01-13 00:00:00,United States,Lehi,Financial Services,Financial data platform
+,CoinSwitch,1.9,2021-10-06 00:00:00,India,Bangalore,Financial Services,Cryptocurrency exchange
+,Acorns,1.9,2022-03-09 00:00:00,United States,Irvine,Financial Services,Investment app
+,Fever,1.96,2022-01-26 00:00:00,United States,New York,Media & Entertainment,Event discovery platform
+,Roofstock,1.94,2022-03-10 00:00:00,United States,Oakland,Financial Services,Real estate investment platform
+,thatgamecompany,1.94,2022-03-03 00:00:00,United States,Los Angeles,Media & Entertainment,Video game development
+,ConcertAI,1.9,2022-03-29 00:00:00,United States,Boston,Healthcare & Life Sciences,Healthcare AI platform
+,Material Bank,1.9,2022-05-06 00:00:00,United States,Boca Raton,Industrials,Materials marketplace
+,Volocopter,1.87,2022-03-04 00:00:00,Germany,Bruchsal,Industrials,Electric air taxis
+,ENOVATE,1.85,2019-04-15 00:00:00,China,Shanghai,Industrials,Electric vehicles
+,MEGAZONE,1.83,2022-08-16 00:00:00,South Korea,Seoul,Enterprise Tech,Cloud services
+,CFGI,1.85,2021-09-15 00:00:00,United States,Boston,Financial Services,Financial consulting
+,ZocDoc,1.8,2015-08-20 00:00:00,United States,New York,Healthcare & Life Sciences,Healthcare booking platform
+,ID.me,1.8,2021-03-19 00:00:00,United States,McLean,Consumer & Retail,Digital identity verification
+,Scroll,1.8,2023-03-14 00:00:00,Seychelles,,Financial Services,Blockchain infrastructure
+,Diamond Foundry,1.8,2021-03-29 00:00:00,United States,San Francisco,Industrials,Lab-grown diamonds
+,Quantexa,1.8,2023-04-03 00:00:00,United Kingdom,London,Enterprise Tech,Decision intelligence platform
+,FullStory,1.8,2021-08-04 00:00:00,United States,Atlanta,Enterprise Tech,Digital experience analytics
+,Lightricks,1.8,2019-07-31 00:00:00,Israel,Jerusalem,Media & Entertainment,Photo and video editing apps
+,Opentrons,1.8,2021-09-23 00:00:00,United States,New York,Healthcare & Life Sciences,Lab automation robots
+,Kindbody,1.8,2023-03-02 00:00:00,United States,Kindbody,Healthcare & Life Sciences,Fertility services
+,Slice,1.8,2021-11-28 00:00:00,India,Bengaluru,Financial Services,Payments platform
+,Cambrian BioPharma,1.79,2021-10-26 00:00:00,United States,Brooklyn,Healthcare & Life Sciences,Drug development
+,Trulioo,1.75,2021-06-07 00:00:00,Canada,Vancouver,Financial Services,Identity verification
+,Creditas,1.75,2020-12-18 00:00:00,Brazil,Sao Paulo,Financial Services,Secured lending platform
+,BitGo,1.75,2023-08-16 00:00:00,United States,Palo Alto,Financial Services,Digital asset custody
+,Spinny,1.75,2021-11-24 00:00:00,India,Gurugram,Industrials,Used car marketplace
+,Orca Security,1.8,2021-03-23 00:00:00,United States,Portland,Enterprise Tech,Cloud security platform
+,Apus Group,1.73,2015-01-16 00:00:00,China,Beijing,Consumer & Retail,Mobile apps
+,Razor,1.7,2021-11-08 00:00:00,Germany,Berlin,Consumer & Retail,E-commerce platform
+,Micro Connect,1.7,2023-08-02 00:00:00,,Hong Kong,Financial Services,SME financing platform
+,DailyPay,1.7,2021-05-18 00:00:00,United States,New York,Financial Services,On-demand pay platform
+,Udaan,1.3,2018-09-04 00:00:00,India,Bengaluru,Consumer & Retail,B2B marketplace
+,Harry's,1.7,2018-02-16 00:00:00,United States,New York,Consumer & Retail,Shaving products
+,PAX,1.7,2018-10-22 00:00:00,United States,San Francisco,Consumer & Retail,Vaporizer devices
+,DispatchHealth,1.7,2021-03-03 00:00:00,United States,Denver,Healthcare & Life Sciences,Mobile healthcare services
+,Pax8,1.7,2022-04-11 00:00:00,United States,Greenwood Village,Enterprise Tech,Cloud marketplace
+,Multiverse,1.7,2022-06-08 00:00:00,United Kingdom,London,Enterprise Tech,Apprenticeship platform
+,Front,1.7,2022-06-28 00:00:00,United States,San Francisco,Enterprise Tech,Customer communication platform
+,Redesign Health,1.7,2022-09-13 00:00:00,United States,New York,Healthcare & Life Sciences,Healthcare company builder
+,Tessera Therapeutics,1.69,2022-04-19 00:00:00,United States,Cambridge,Healthcare & Life Sciences,Gene writing platform
+,SafetyCulture,1.67,2021-05-03 00:00:00,Australia,Sydney,Industrials,Workplace safety platform
+,Ascend Elements,1.67,2023-09-06 00:00:00,United States,Westborough,Industrials,Battery recycling technology
+,Uniswap,1.66,2022-10-13 00:00:00,United States,New York,Financial Services,Cryptocurrency exchange
+,Kredivo Holdings,1.66,2022-08-15 00:00:00,Singapore,,Financial Services,Digital credit platform
+,Unite Us,1.6,2021-03-16 00:00:00,United States,New York,Healthcare & Life Sciences,Care coordination platform
+,CircleCI,1.7,2021-05-11 00:00:00,United States,San Francisco,Enterprise Tech,CI/CD platform
+,Wave,1.7,2021-09-07 00:00:00,Senegal,Dakar,Financial Services,Mobile money services
+,Dragos,1.7,2021-10-28 00:00:00,United States,Hanover,Industrials,Industrial cybersecurity
+,Reltio,1.7,2021-11-04 00:00:00,United States,Redwood City,Enterprise Tech,Data management platform
+,H2O.ai,1.7,2021-11-07 00:00:00,United States,Mountain View,Enterprise Tech,AI platform
+,ZenBusiness,1.7,2021-11-09 00:00:00,United States,Austin,Enterprise Tech,Business formation platform
+,Carsome,1.7,2021-07-12 00:00:00,Malaysia,Selangor,Industrials,Used car marketplace
+,Productboard,1.73,2022-02-02 00:00:00,United States,San Francisco,Enterprise Tech,Product management platform
+,Spotter,1.7,2022-02-16 00:00:00,United States,Los Angeles,Financial Services,Creator financing platform
+,Optimism,1.65,2022-03-17 00:00:00,United States,San Francisco,Enterprise Tech,Blockchain scaling solution
+,Incredible Health,1.65,2022-08-17 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Healthcare staffing platform
+,Jusfoun Big Data,1.62,2018-07-09 00:00:00,China,Beijing,Enterprise Tech,Big data analytics
+,FloQast,1.6,2021-07-21 00:00:00,United States,Los Angeles,Financial Services,Accounting software
+,Weka,1.6,2024-05-15 00:00:00,United States,Campbell,Enterprise Tech,Data platform
+,DealShare,1.7,2022-01-27 00:00:00,India,Bengaluru,Consumer & Retail,Social e-commerce platform
+,Zhubajie,1.61,2015-06-16 00:00:00,China,Chongqing,Enterprise Tech,Freelance marketplace
+,Solaris,1.6,2021-07-13 00:00:00,Germany,Berlin,Financial Services,Banking-as-a-service
+,Apollo,1.6,2023-08-29 00:00:00,United States,Covina,Enterprise Tech,GraphQL platform
+,DataStax,1.6,2021-05-26 00:00:00,United States,Santa Clara,Enterprise Tech,Database software
+,Infinidat,1.6,2015-04-29 00:00:00,United States,Waltham,Enterprise Tech,Data storage solutions
+,Afiniti,1.6,2017-04-14 00:00:00,Bermuda,Hamilton,Enterprise Tech,AI matching technology
+,Cao Cao Mobility,1.6,2018-01-17 00:00:00,China,Hangzhou,Industrials,Ride-hailing service
+,Clari,2.6,2021-03-03 00:00:00,United States,Sunnyvale,Enterprise Tech,Revenue operations platform
+,Monte Carlo,1.6,2022-05-24 00:00:00,United States,San Francisco,Enterprise Tech,Data reliability platform
+,Cresta,1.6,2022-03-17 00:00:00,United States,San Francisco,Enterprise Tech,AI for customer service
+,Extend,1.36,2021-05-18 00:00:00,United States,San Francisco,Insurance,Extended warranty platform
+,Employment Hero,1.37,2023-10-18 00:00:00,Australia,Sydney,Enterprise Tech,HR platform
+,Generate Biomedicines,1.36,2021-11-18 00:00:00,United States,Cambridge,Healthcare & Life Sciences,AI drug discovery
+,Lambda Labs,1.5,2023-10-05 00:00:00,United States,San Francisco,Enterprise Tech,AI infrastructure
+,Cognite,1.5,2021-05-19 00:00:00,Norway,Lysaker,Industrials,Industrial data platform
+,Altruist,1.5,2024-04-16 00:00:00,United States,Culver City,Financial Services,Digital investment platform
+,ASAPP,1.6,2021-05-19 00:00:00,United States,New York,Enterprise Tech,Customer experience AI
+,SmartHR,1.6,2021-06-08 00:00:00,Japan,Tokyo,Enterprise Tech,HR management software
+,Mercury,1.6,2021-07-03 00:00:00,United States,San Francisco,Financial Services,Banking for startups
+,HomeLight,1.7,2021-09-02 00:00:00,United States,San Francisco,Financial Services,Real estate platform
+,ezCater,1.6,2019-04-02 00:00:00,United States,Boston,Consumer & Retail,Corporate catering platform
+,Wayflyer,1.6,2022-02-01 00:00:00,Ireland,Dublin,Financial Services,E-commerce financing
+,Capitolis,1.6,2022-03-22 00:00:00,United States,New York,Financial Services,Capital markets software
+,Magic Eden,1.6,2022-06-21 00:00:00,United States,San Francisco,Media & Entertainment,NFT marketplace
+,Pave,1.6,2022-06-28 00:00:00,United States,San Francisco,Enterprise Tech,Compensation platform
+,Astranis,1.6,2021-04-14 00:00:00,United States,San Francisco,Industrials,Satellite communications
+,Promasidor Holdings,1.59,2016-11-08 00:00:00,South Africa,Bryanston,Consumer & Retail,Food products
+,GalaxySpace,1.58,2020-11-17 00:00:00,China,Beijing,Industrials,Satellite technology
+,Icon,1.57,2022-02-18 00:00:00,United States,Austin,Industrials,3D-printed construction
+,Fresh Life Style Supply Chain Management,1.57,2022-03-11 00:00:00,China,Chengdu,Consumer & Retail,Supply chain solutions
+,Alloy,1.55,2021-09-30 00:00:00,United States,New York,Financial Services,Identity decisioning platform
+,Huntress,1.55,2024-06-18 00:00:00,United States,Ellicott City,Enterprise Tech,Cybersecurity platform
+,Baiwang,1.55,2019-03-25 00:00:00,China,Beijing,Enterprise Tech,Tax software
+,Iluvatar CoreX,1.55,2021-03-01 00:00:00,China,Shanghai,Enterprise Tech,AI chips
+,Wenheyou,1.55,2021-04-17 00:00:00,China,Hunan,Consumer & Retail,Restaurant chain
+,Kitopi,1.55,2021-07-01 00:00:00,United Arab Emirates,Dubai,Consumer & Retail,Cloud kitchen platform
+,Ximalaya FM,1.52,2017-09-22 00:00:00,China,Shanghai,Media & Entertainment,Audio content platform
+,Carzone,1.52,2019-03-01 00:00:00,China,Jiangsu,Industrials,Auto parts manufacturing
+,Tabby,1.5,2023-11-01 00:00:00,United Arab Emirates,Dubai,Financial Services,BNPL platform
+,Runway,1.5,2023-05-04 00:00:00,United States,New York,Media & Entertainment,AI video creation platform
+,Skild AI,1.5,2024-07-09 00:00:00,United States,Pittsburgh,Industrials,Industrial robotics
+,Sigma Computing,1.5,2024-05-16 00:00:00,United States,San Francisco,Enterprise Tech,Data analytics platform
+,Harvey,1.5,2024-07-23 00:00:00,United States,San Francisco,Enterprise Tech,Legal AI platform
+,OpenWeb,1.5,2021-11-09 00:00:00,United States,New York,Media & Entertainment,Community engagement platform
+,bolttech,1.5,2021-07-01 00:00:00,Singapore,,Insurance,Insurance exchange platform
+,First Mode,1.5,2022-12-07 00:00:00,United States,Seattle,Industrials,Clean energy solutions
+,Mu Sigma,1.5,2013-02-07 00:00:00,United States,Northbrook,Enterprise Tech,Data analytics services
+,Kushki,1.5,2022-06-07 00:00:00,Ecuador,Quito,Financial Services,Payment infrastructure
+,Jasper,1.5,2022-10-17 00:00:00,United States,Austin,Enterprise Tech,AI content platform
+,Orna Therapeutics,1.5,2022-08-16 00:00:00,United States,Cambridge,Healthcare & Life Sciences,RNA therapeutics
+,TuJia,1.5,2015-06-17 00:00:00,China,Beijing,Consumer & Retail,Vacation rental platform
+,Mofang Living,1.5,2016-04-13 00:00:00,China,Shanghai,Consumer & Retail,Apartment rental service
+,DT Dream,1.5,2017-06-08 00:00:00,China,Hangzhou,Enterprise Tech,Cloud computing platform
+,Changingedu,1.5,2017-10-30 00:00:00,China,Shanghai,Consumer & Retail,Online education
+,XiaoZhu,1.5,2017-11-01 00:00:00,China,Beijing,Consumer & Retail,Vacation rental platform
+,JOLLY Information Technology,1.5,2018-05-29 00:00:00,China,Hangzhou,Consumer & Retail,E-commerce platform
+,Yijiupi,1.5,2018-09-20 00:00:00,China,Beijing,Consumer & Retail,B2B beverage platform
+,Cambridge Mobile Telematics,1.5,2018-12-19 00:00:00,United States,Cambridge,Insurance,Telematics platform
+,Collective Health,1.5,2019-06-17 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Employee healthcare platform
+,Strava,1.5,2020-11-16 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Fitness tracking platform
+,Zenoti,1.5,2020-12-15 00:00:00,United States,Bellevue,Consumer & Retail,Spa management software
+,K Health,1.5,2021-01-19 00:00:00,United States,New York,Healthcare & Life Sciences,AI healthcare platform
+,Uplight,1.5,2021-03-03 00:00:00,United States,Boulder,Industrials,Energy software platform
+,Snapdocs,1.5,2021-05-25 00:00:00,United States,San Francisco,Financial Services,Digital mortgage platform
+,Chipper Cash,2.0,2021-05-31 00:00:00,United States,San Francisco,Financial Services,Money transfer app
+,Ledger,1.47,2021-06-10 00:00:00,France,Paris,Financial Services,Cryptocurrency hardware wallets
+,Next Silicon,1.5,2021-06-14 00:00:00,Israel,Tel Aviv,Enterprise Tech,Semiconductor technology
+,YQNlink,1.5,2021-06-29 00:00:00,China,Shanghai,Industrials,Logistics platform
+,impact.com,1.5,2021-07-13 00:00:00,United States,Santa Barbara,Enterprise Tech,Partnership management platform
+,SmartRecruiters,1.5,2021-07-20 00:00:00,United States,San Francisco,Enterprise Tech,Recruitment platform
+,NotCo,1.5,2021-07-26 00:00:00,Chile,Santiago,Consumer & Retail,Plant-based food technology
+,Culture Amp,1.5,2021-07-29 00:00:00,Australia,Richmond,Enterprise Tech,Employee feedback platform
+,TaxBit,1.5,2021-08-04 00:00:00,United States,Draper,Financial Services,Crypto tax software
+,Pacaso,1.5,2021-03-24 00:00:00,United States,Cincinnati,Financial Services,Second home co-ownership
+,1047 Games,1.5,2021-09-14 00:00:00,United States,Zephyr Cove,Media & Entertainment,Video game development
+,Matillion,1.5,2021-09-15 00:00:00,United Kingdom,Altrincham,Enterprise Tech,Data integration platform
+,Persona,1.5,2021-09-15 00:00:00,United States,San Francisco,Enterprise Tech,Identity verification platform
+,Ascend Money,1.5,2021-09-27 00:00:00,Thailand,Bangkok,Financial Services,Digital wallet platform
+,Andela,1.5,2021-09-29 00:00:00,United States,New York,Enterprise Tech,Tech talent network
+,Built,1.5,2021-09-30 00:00:00,United States,Nashville,Financial Services,Construction finance platform
+,CoinList,1.5,2021-10-15 00:00:00,United States,San Francisco,Financial Services,Token sale platform
+,Lusha,1.5,2021-11-10 00:00:00,United States,New York,Enterprise Tech,Sales intelligence platform
+,cult.fit,1.5,2021-11-10 00:00:00,India,Bengaluru,Healthcare & Life Sciences,Fitness platform
+,Olist,1.5,2021-12-15 00:00:00,Brazil,Curitiba,Consumer & Retail,E-commerce marketplace
+,Paradox,1.5,2021-12-27 00:00:00,United States,Scottsdale,Enterprise Tech,Recruitment automation
+,Airbyte,1.5,2021-12-17 00:00:00,United States,San Francisco,Enterprise Tech,Data integration platform
+,StoreDot,1.5,2022-01-04 00:00:00,Israel,Herzliya,Industrials,Fast-charging batteries
+,Spendesk,1.5,2022-01-18 00:00:00,France,Paris,Enterprise Tech,Spend management platform
+,Veriff,1.5,2022-01-26 00:00:00,Estonia,Tallinn,Enterprise Tech,Identity verification platform
+,ElasticRun,1.5,2022-02-07 00:00:00,India,Pune,Industrials,Rural commerce platform
+,Veho,1.5,2021-12-21 00:00:00,United States,Boulder,Consumer & Retail,Last-mile delivery platform
+,Temporal,1.5,2022-02-16 00:00:00,United States,Bellevue,Enterprise Tech,Workflow platform
+,Fabric,1.5,2022-02-24 00:00:00,United States,Bellevue,Consumer & Retail,E-commerce platform
+,Zeta,1.5,2021-05-24 00:00:00,United States,San Francisco,Financial Services,Banking technology platform
+,Boba,1.5,2022-04-05 00:00:00,United States,San Francisco,Enterprise Tech,Blockchain scaling solution
+,Upside,1.5,2022-04-26 00:00:00,United States,DC,Consumer & Retail,Retail technology platform
+,Mashgin,1.5,2022-05-09 00:00:00,United States,Palo Alto,Consumer & Retail,Self-checkout kiosks
+,Dock,1.5,2022-05-12 00:00:00,Brazil,Sao Paulo,Financial Services,Banking infrastructure
+,Prometheus,1.5,2021-09-23 00:00:00,United States,Santa Cruz,Industrials,Fusion energy technology
+,5ire,1.5,2022-07-15 00:00:00,United Kingdom,London,Enterprise Tech,Blockchain platform
+,Yipin Shengxian,1.49,2019-03-11 00:00:00,China,Hefei,Consumer & Retail,Fresh food retail
+,Bordrin Motors,1.48,2019-06-03 00:00:00,China,Shanghai,Industrials,Electric vehicles
+,Arcadia,1.48,2022-05-10 00:00:00,United States,DC,Enterprise Tech,Climate technology platform
+,VTS,1.47,2019-05-07 00:00:00,United States,New York,Financial Services,Commercial real estate platform
+,Shukun Technology,1.46,2021-08-16 00:00:00,China,Beijing,Healthcare & Life Sciences,Medical imaging AI
+,Huasun,1.46,2023-01-19 00:00:00,China,Xuancheng,Industrials,Solar cell manufacturing
+,Loft,1.46,2020-01-03 00:00:00,Brazil,Sao Paulo,Financial Services,Real estate platform
+,Coocaa,1.45,2018-03-16 00:00:00,China,Shenzhen,Media & Entertainment,Smart TV platform
+,Placer.ai,1.45,2022-01-12 00:00:00,United States,Los Altos,Consumer & Retail,Foot traffic analytics
+,Juma Peisong,1.45,2018-11-26 00:00:00,China,Chengdu,Industrials,Logistics services
+,Ouyeel,1.45,2019-06-27 00:00:00,China,Shanghai,Industrials,Steel trading platform
+,Gymshark,1.45,2020-08-14 00:00:00,United Kingdom,Solihull,Consumer & Retail,Fitness apparel
+,M1,1.45,2021-07-14 00:00:00,United States,Chicago,Financial Services,Investment platform
+,Aleo,1.45,2022-02-07 00:00:00,United States,San Francisco,Enterprise Tech,Privacy computing platform
+,Einride,1.44,2021-12-31 00:00:00,Sweden,Stockholm,Industrials,Electric transport
+,Justworks,1.43,2020-01-28 00:00:00,United States,New York,Enterprise Tech,HR platform
+,Valgen Medtech,1.43,2021-05-06 00:00:00,China,Hangzhou,Healthcare & Life Sciences,Medical devices
+,SonderMind,1.42,2021-07-28 00:00:00,United States,Denver,Healthcare & Life Sciences,Mental health platform
+,EON,1.4,2024-11-26 00:00:00,United States,New York,Enterprise Tech,Digital product platform
+,Route,1.4,2022-01-21 00:00:00,United States,Lehi,Enterprise Tech,Package tracking platform
+,NIUM,1.4,2021-07-13 00:00:00,Singapore,,Financial Services,Global payments platform
+,Fox Ess,1.4,2023-05-26 00:00:00,China,Wenzhou,Industrials,Energy storage solutions
+,Amagi,1.4,2022-03-16 00:00:00,India,Bengaluru,Media & Entertainment,Cloud broadcast platform
+,Liquid Death,1.4,2024-03-11 00:00:00,United States,Santa Monica,Consumer & Retail,Canned water brand
+,Papa,1.4,2021-11-04 00:00:00,United States,Miami,Healthcare & Life Sciences,Elder care services
+,Xpressbees,1.4,2022-02-09 00:00:00,India,Pune,Consumer & Retail,E-commerce logistics
+,Figment,1.4,2021-12-20 00:00:00,Canada,Toronto,Financial Services,Blockchain infrastructure platform
+,Envoy,1.4,2022-01-11 00:00:00,United States,San Francisco,Enterprise Tech,Workplace visitor management
+,Deliverect,1.4,2022-01-24 00:00:00,Belgium,Ghent,Consumer & Retail,Restaurant order management
+,SparkCognition,1.4,2022-01-25 00:00:00,United States,Austin,Enterprise Tech,AI solutions platform
+,Liquidity,1.4,2023-02-20 00:00:00,Israel,Tel Aviv,Financial Services,Digital payments platform
+,Firebolt,1.4,2022-01-26 00:00:00,Israel,Tel Aviv,Enterprise Tech,Cloud data warehouse
+,AI21 Labs,1.4,2023-08-30 00:00:00,Israel,Tel Aviv,Enterprise Tech,AI language models
+,Koudai,1.4,2014-10-23 00:00:00,China,Beijing,Consumer & Retail,E-commerce marketplace
+,Symphony,1.4,2017-05-16 00:00:00,United States,New York,Financial Services,Secure messaging platform
+,Yidian Zixun,1.4,2017-10-17 00:00:00,China,Beijing,Media & Entertainment,News aggregation app
+,Cabify,1.4,2018-01-22 00:00:00,Spain,Madrid,Industrials,Ride-hailing service
+,Hive Box,1.4,2018-01-23 00:00:00,China,Shenzhen,Consumer & Retail,Smart locker network
+,Away,1.4,2019-05-15 00:00:00,United States,New York,Consumer & Retail,Smart luggage brand
+,Kong,2.0,2020-12-31 00:00:00,United States,San Francisco,Enterprise Tech,API management platform
+,Epidemic Sound,1.4,2021-03-11 00:00:00,Sweden,Stockholm,Media & Entertainment,Royalty-free music platform
+,Yotpo,1.4,2021-03-18 00:00:00,United States,New York,Consumer & Retail,E-commerce marketing platform
+,Rebel Foods,1.4,2021-10-07 00:00:00,India,Pune,Consumer & Retail,Cloud kitchen network
+,Coda,1.4,2021-07-08 00:00:00,United States,Mountain View,Enterprise Tech,Document collaboration platform
+,Stash,1.4,2021-02-03 00:00:00,United States,New York,Financial Services,Investment and banking app
+,Rad Power Bikes,1.4,2021-10-28 00:00:00,United States,Seattle,Industrials,Electric bike manufacturer
+,Clarify Health,1.4,2022-04-05 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Healthcare analytics platform
+,Bucketplace,1.4,2022-05-09 00:00:00,South Korea,Seoul,Consumer & Retail,Home interior platform
+,Paddle,1.4,2022-05-09 00:00:00,United Kingdom,London,Enterprise Tech,Payment infrastructure platform
+,OneCard,1.4,2022-07-13 00:00:00,India,Pune,Financial Services,Mobile-first credit card
+,boAT,1.4,2022-10-28 00:00:00,India,Mumbai,Consumer & Retail,Audio accessories brand
+,Phenom People,1.4,2021-04-07 00:00:00,United States,Ambler,Enterprise Tech,Talent experience platform
+,GupShup,1.4,2021-04-08 00:00:00,United States,San Francisco,Enterprise Tech,Conversational messaging platform
+,Degreed,1.4,2021-04-13 00:00:00,United States,Pleasanton,Enterprise Tech,Skills development platform
+,Scalable Capital,1.4,2021-06-08 00:00:00,Germany,Munich,Financial Services,Digital investment platform
+,VideoAmp,1.4,2021-10-21 00:00:00,United States,Los Angeles,Enterprise Tech,TV measurement platform
+,Panther Labs,1.4,2021-12-02 00:00:00,United States,San Francisco,Enterprise Tech,Security monitoring platform
+,Salt Security,1.4,2022-02-10 00:00:00,United States,Palo Alto,Enterprise Tech,API security platform
+,Tripledot,1.4,2022-02-14 00:00:00,United Kingdom,London,Media & Entertainment,Mobile game developer
+,Nimble Rx,1.4,2022-06-14 00:00:00,United States,Redwood City,Healthcare & Life Sciences,Digital pharmacy platform
+,Veepee,1.38,2007-07-02 00:00:00,France,La Plaine Saint-Denis,Consumer & Retail,Online flash sales platform
+,Neon,1.38,2022-02-14 00:00:00,Brazil,Sao Paulo,Financial Services,Digital banking platform
+,Movable Ink,1.36,2022-04-28 00:00:00,United States,New York,Enterprise Tech,Content personalization platform
+,Patreon,1.35,2020-09-02 00:00:00,United States,San Francisco,Media & Entertainment,Creator subscription platform
+,DeepBlue Technology,1.35,2018-04-16 00:00:00,China,Shanghai,Consumer & Retail,AI retail solutions
+,Klook,1.35,2018-08-07 00:00:00,Hong Kong,Central,Consumer & Retail,Travel booking platform
+,Epirus,1.35,2022-02-14 00:00:00,United States,Hawthorne,Industrials,Directed energy systems
+,Signifyd,1.34,2021-04-15 00:00:00,United States,San Jose,Consumer & Retail,Fraud protection platform
+,Jaguar Microsystems,1.34,2022-06-23 00:00:00,China,Shenzhen,Industrials,Semiconductor solutions
+,Motorway,1.33,2021-11-29 00:00:00,United Kingdom,London,Industrials,Used car marketplace
+,Human Interest,1.33,2021-08-04 00:00:00,United States,San Francisco,Financial Services,401(k) platform
+,RIDI,1.33,2022-01-24 00:00:00,South Korea,Seoul,Media & Entertainment,Digital book platform
+,Lyten,1.33,2023-09-12 00:00:00,United States,San Jose,Industrials,Advanced materials technology
+,Flipboard,1.32,2015-07-22 00:00:00,United States,Palo Alto,Media & Entertainment,News aggregation app
+,GPclub,1.32,2018-10-22 00:00:00,South Korea,Seoul,Consumer & Retail,Beauty product platform
+,Tongdun Technology,1.32,2019-04-25 00:00:00,China,Hangzhou,Enterprise Tech,Risk management platform
+,Athletic Greens,1.32,2022-01-25 00:00:00,United States,New York,Healthcare & Life Sciences,Nutritional supplements
+,Unisound,1.31,2018-07-19 00:00:00,China,Beijing,Enterprise Tech,Voice recognition technology
+,Alzheon,1.31,2020-09-30 00:00:00,United States,Framingham,Healthcare & Life Sciences,Alzheimer's therapeutics
+,MasterControl,1.3,2022-12-15 00:00:00,United States,Salt Lake City,Healthcare & Life Sciences,Quality management software
+,24M Technology,1.3,2024-09-05 00:00:00,United States,Cambridge,Industrials,Battery technology
+,eFishery,1.4,2023-05-25 00:00:00,Indonesia,Bandung,Industrials,Smart fish farming technology
+,Purplle,1.3,2022-06-09 00:00:00,India,Mumbai,Consumer & Retail,Beauty e-commerce platform
+,Ather Energy,1.3,2024-08-13 00:00:00,India,Bangalore,Industrials,Electric scooters and charging network
+,Zum,1.3,2024-01-31 00:00:00,United States,Redwood City,Industrials,Student transportation platform
+,HeartFlow,1.3,2017-12-04 00:00:00,United States,Redwood City,Healthcare & Life Sciences,Cardiac diagnostic software
+,Shiprocket,1.23,2022-08-16 00:00:00,India,New Delhi,Consumer & Retail,E-commerce shipping platform
+,HashKeyHashKey,1.3,2024-01-16 00:00:00,Hong Kong,,Financial Services,Digital asset trading platform
+,Everly Health,1.3,2020-12-03 00:00:00,United States,Austin,Healthcare & Life Sciences,At-home health testing
+,Manner,1.3,2020-12-24 00:00:00,China,Shanghai,Consumer & Retail,Coffee shop chain
+,DistroKid,1.3,2021-08-16 00:00:00,United States,New York,Media & Entertainment,Music distribution platform
+,Konfio,1.3,2021-09-29 00:00:00,Mexico,Mexico City,Financial Services,SME lending platform
+,Betterment,1.3,2021-09-29 00:00:00,United States,New York,Financial Services,Digital investment platform
+,Flock Freight,1.3,2021-10-20 00:00:00,United States,Encinitas,Industrials,Shared truckload shipping
+,YugaByte,1.3,2021-10-28 00:00:00,United States,Sunnyvale,Enterprise Tech,Distributed SQL database
+,Lukka,1.3,2022-01-14 00:00:00,United States,New York,Financial Services,Crypto tax software
+,TravelPerk,1.3,2022-01-12 00:00:00,Spain,Barcelona,Enterprise Tech,Business travel management platform
+,iTrustCapital,1.3,2022-01-11 00:00:00,United States,Long Beach,Financial Services,Crypto IRA platform
+,Domestika,1.3,2022-01-27 00:00:00,United States,Berkeley,Media & Entertainment,Creative learning platform
+,CoinTracker,1.3,2022-01-27 00:00:00,United States,San Francisco,Financial Services,Crypto portfolio tracking
+,Loadsmart,1.3,2022-02-01 00:00:00,United States,New York,Industrials,Digital freight platform
+,TUNGEE,1.3,2021-12-15 00:00:00,China,Guangzhou,Enterprise Tech,B2B sales intelligence platform
+,Yubi,1.5,2022-03-07 00:00:00,India,Chennai,Financial Services,Lending marketplace platform
+,LinkTree,1.3,2022-03-16 00:00:00,Australia,Melbourne,Media & Entertainment,Link-in-bio platform
+,Clipboard Health,1.3,2022-02-01 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Healthcare staffing platform
+,Biofourmis,1.3,2022-04-26 00:00:00,United States,Boston,Healthcare & Life Sciences,Digital therapeutics platform
+,STORD,1.3,2021-09-13 00:00:00,United States,Atlanta,Industrials,Cloud supply chain platform
+,Optibus,1.3,2022-05-16 00:00:00,Israel,Tel Aviv,Industrials,Public transportation optimization
+,Keyfactor,1.3,2023-10-24 00:00:00,United States,Independence,Enterprise Tech,Crypto-agility platform
+,Equashield,1.3,2022-10-06 00:00:00,United States,Port Washington,Healthcare & Life Sciences,Hazardous drug handling systems
+,Intercom,1.28,2018-03-27 00:00:00,United States,San Francisco,Enterprise Tech,Customer messaging platform
+,OVO Energy,1.28,2019-02-14 00:00:00,United Kingdom,Bristol,Industrials,Renewable energy provider
+,Huisuanzhang,1.28,2021-05-24 00:00:00,China,Beijing,Financial Services,Cloud accounting software
+,WTOIP,1.27,2018-04-08 00:00:00,China,Guangzhou,Enterprise Tech,IP management platform
+,PeopleCert,1.27,2021-06-23 00:00:00,Greece,Athens,Enterprise Tech,Professional certification platform
+,Greater Bay Technology,1.26,2022-04-02 00:00:00,China,Guangzhou,Industrials,Electric vehicle batteries
+,JMGO,1.26,2022-03-15 00:00:00,China,Shenzhen,Industrials,Smart projectors
+,Codeium,1.25,2024-08-29 00:00:00,United States,Sacramento,Enterprise Tech,AI code completion platform
+,BigID,1.25,2020-12-16 00:00:00,United States,New York,Enterprise Tech,Data privacy platform
+,Polyhedra Network,1.25,2024-03-14 00:00:00,United States,San Francisco,Enterprise Tech,Privacy-preserving computation
+,Kuaikan Manhua,1.25,2017-12-01 00:00:00,China,Beijing,Media & Entertainment,Digital comics platform
+,Marshmallow,1.25,2021-09-08 00:00:00,United Kingdom,London,Insurance,Digital car insurance
+,Honor Technology,1.25,2021-10-05 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Home care platform
+,Together AI,1.25,2024-03-13 00:00:00,United States,San Francisco,Enterprise Tech,AI model training platform
+,QI Tech,1.0,2023-10-31 00:00:00,Brazil,Sao Paulo,Financial Services,Banking-as-a-service platform
+,Mythical Games,1.0,2021-11-04 00:00:00,United States,Sherman Oaks,Media & Entertainment,Blockchain gaming platform
+,Incode Technologies,1.25,2021-12-07 00:00:00,United States,San Francisco,Enterprise Tech,Identity verification platform
+,Tackle.io,1.25,2021-12-21 00:00:00,United States,Boise,Enterprise Tech,Cloud marketplace platform
+,Flipdish,1.25,2022-01-13 00:00:00,Ireland,Dublin,Consumer & Retail,Restaurant ordering platform
+,CaptivateIQ,1.25,2022-01-26 00:00:00,United States,San Francisco,Enterprise Tech,Sales commission software
+,Talos,1.25,2022-05-10 00:00:00,United States,New York,Financial Services,Crypto trading infrastructure
+,airSlate,1.25,2022-06-16 00:00:00,United States,Brookline,Enterprise Tech,Document workflow automation
+,ClassDojo,1.25,2022-07-21 00:00:00,United States,San Francisco,Consumer & Retail,Education communication platform
+,BrewDog,1.24,2017-04-10 00:00:00,United Kingdom,Aberdeen,Consumer & Retail,Craft beer brewery
+,Enflame,1.24,2021-01-05 00:00:00,China,Shanghai,Enterprise Tech,AI chips
+,Shulan Health,1.24,2021-03-01 00:00:00,China,Hangzhou,Healthcare & Life Sciences,Healthcare services platform
+,SeatGeek,1.24,2022-08-31 00:00:00,United States,New York,Media & Entertainment,Event ticketing platform
+,InDrive,1.23,2021-02-01 00:00:00,United States,Mountain View,Industrials,Ride-hailing platform
+,Spiber,1.22,2021-09-08 00:00:00,Japan,Tsuruoka,Industrials,Synthetic protein materials
+,Insider,2.0,2022-02-28 00:00:00,Turkey,Istanbul,Enterprise Tech,Marketing automation platform
+,Kallyope,1.22,2022-02-15 00:00:00,United States,New York,Healthcare & Life Sciences,Gut-brain axis therapeutics
+,Zip,2.2,2022-05-25 00:00:00,United States,San Francisco,Enterprise Tech,API deployment platform
+,Cart.com,1.2,2023-06-27 00:00:00,United States,Austin,Consumer & Retail,E-commerce operations platform
+,MiniMax AI,1.2,2023-06-01 00:00:00,China,Shanghai,Enterprise Tech,AI model development platform
+,Hailo,1.2,2021-10-12 00:00:00,Israel,Tel Aviv,Enterprise Tech,AI processors
+,Replit,1.05,2023-04-25 00:00:00,United States,San Francisco,Enterprise Tech,Browser-based coding platform
+,Perplexity AI,1.05,2024-04-23 00:00:00,United States,San Francisco,Enterprise Tech,AI search engine
+,MoneyView,1.2,2024-09-12 00:00:00,India,Bengaluru,Financial Services,Personal loan platform
+,Mews,1.2,2024-03-04 00:00:00,Netherlands,Amsterdam,Enterprise Tech,Hotel management software
+,Creatio,1.2,2024-06-25 00:00:00,United States,Boston,Enterprise Tech,Low-code CRM platform
+,Our Next Energy,1.2,2023-02-01 00:00:00,United States,Novi,Industrials,EV battery technology
+,Castore,1.2,2023-11-29 00:00:00,United Kingdom,Manchester,Consumer & Retail,Premium sportswear brand
+,Oyster,1.2,2022-04-20 00:00:00,United States,Wilmington,Enterprise Tech,Global employment platform
+,Yiguo,1.2,2016-11-09 00:00:00,China,Shanghai,Consumer & Retail,Fresh food e-commerce
+,Glossier,1.65,2019-03-19 00:00:00,United States,New York,Consumer & Retail,Direct-to-consumer beauty brand
+,Workhuman,1.2,2020-06-23 00:00:00,Ireland,Dublin,Enterprise Tech,Employee recognition platform
+,Qumulo,1.2,2020-07-16 00:00:00,United States,Seattle,Enterprise Tech,File data platform
+,Tealium,1.2,2021-02-03 00:00:00,United States,San Diego,Enterprise Tech,Customer data platform
+,Public,1.2,2021-02-17 00:00:00,United States,New York,Financial Services,Stock trading app
+,Pipa Coding,1.2,2021-03-25 00:00:00,China,Beijing,Consumer & Retail,Kids coding education
+,Pilot,1.2,2021-03-26 00:00:00,United States,San Francisco,Financial Services,Bookkeeping services
+,Aibee,1.2,2021-04-13 00:00:00,China,Beijing,Enterprise Tech,Computer vision platform
+,Vectra Networks,1.2,2021-04-29 00:00:00,United States,San Jose,Enterprise Tech,Network threat detection
+,Ada,1.2,2021-05-07 00:00:00,Canada,Toronto,Enterprise Tech,Customer service automation
+,SmartMore,1.2,2021-06-24 00:00:00,China,Shenzhen,Industrials,Industrial AI solutions
+,Rohlik Group,1.2,2021-07-01 00:00:00,Czech Republic,Prague,Consumer & Retail,Online grocery delivery
+,MindTickle,1.2,2021-08-03 00:00:00,United States,San Francisco,Enterprise Tech,Sales readiness platform
+,Offchain Labs,1.2,2021-08-31 00:00:00,United States,Princeton,Enterprise Tech,Blockchain scaling solutions
+,Copado,1.2,2021-09-13 00:00:00,United States,Chicago,Enterprise Tech,DevOps platform
+,Gem,1.2,2021-09-28 00:00:00,United States,San Francisco,Enterprise Tech,Recruiting platform
+,EGYM,1.2,2024-09-24 00:00:00,Germany,Munich,Healthcare & Life Sciences,Smart fitness equipment
+,CarDekho,1.2,2021-10-13 00:00:00,India,Jaipur,Industrials,Auto marketplace platform
+,The Good Glamm Group,1.2,2021-11-10 00:00:00,India,Mumbai,Consumer & Retail,Beauty and personal care brands
+,AgentSync,1.2,2021-12-07 00:00:00,United States,Denver,Insurance,Insurance compliance platform
+,Pristyn Care,1.4,2021-12-07 00:00:00,India,Gurugram,Healthcare & Life Sciences,Secondary care surgery provider
+,Merama,1.2,2021-12-09 00:00:00,Mexico,Mexico City,Consumer & Retail,E-commerce brand accelerator
+,SeekOut,1.2,2022-01-12 00:00:00,United States,Bellevue,Enterprise Tech,Talent search platform
+,BigPanda,1.2,2022-01-12 00:00:00,United States,Mountain View,Enterprise Tech,IT incident management
+,Phantom,1.2,2022-01-31 00:00:00,United States,San Francisco,Financial Services,Crypto trading platform
+,LivSpace,1.2,2022-02-08 00:00:00,India,Bengaluru,Consumer & Retail,Home interior platform
+,Nova Labs,1.2,2022-02-22 00:00:00,United States,San Francisco,Enterprise Tech,Decentralized wireless network
+,Choco,1.2,2022-04-12 00:00:00,Germany,Berlin,Consumer & Retail,Restaurant supply ordering
+,Viz.ai,1.2,2022-04-07 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Medical imaging AI
+,Unit,1.2,2022-05-17 00:00:00,United States,New York,Financial Services,Banking-as-a-service
+,stori,1.2,2022-07-15 00:00:00,Mexico,Juarez,Financial Services,Credit card provider
+,Spectrum Medical,1.2,2022-07-18 00:00:00,United Kingdom,Gloucester,Healthcare & Life Sciences,Medical device manufacturer
+,Swiftly,1.2,2022-09-19 00:00:00,United States,Seattle,Consumer & Retail,Retail technology platform
+,CloudBees,1.15,2021-12-09 00:00:00,United States,San Jose,Enterprise Tech,Software delivery platform
+,DevRev,1.15,2024-07-25 00:00:00,United States,Palo Alto,Enterprise Tech,Product development platform
+,Flink,1.07,2021-12-01 00:00:00,Germany,Berlin,Consumer & Retail,Grocery delivery service
+,Colossal,1.19,2023-01-31 00:00:00,United States,Austin,Healthcare & Life Sciences,De-extinction biotechnology
+,L&P Cosmetic,1.19,2016-01-01 00:00:00,South Korea,Seoul,Consumer & Retail,Skincare products
+,Mininglamp Technology,1.19,2019-03-27 00:00:00,China,Beijing,Enterprise Tech,Big data analytics platform
+,Vestiaire Collective,1.18,2021-03-01 00:00:00,France,Paris,Consumer & Retail,Luxury resale platform
+,Luoji Siwei,1.18,2017-07-20 00:00:00,China,Beijing,Media & Entertainment,Online education content
+,Yimidida,1.17,2019-01-14 00:00:00,China,Shanghai,Industrials,Express delivery service
+,Modern Health,1.17,2021-02-11 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Mental health platform
+,IRL,1.17,2021-06-15 00:00:00,United States,San Francisco,Media & Entertainment,Social event planning app
+,Younited,1.16,2022-12-08 00:00:00,France,Paris,Financial Services,Consumer lending platform
+,Uzum,1.16,2024-03-26 00:00:00,Uzbekistan,Tashkent,Financial Services,Digital payments platform
+,SOURCE Global,1.16,2022-04-29 00:00:00,United States,Scottsdale,Industrials,Renewable drinking water tech
+,LifeMiles,1.15,2015-07-13 00:00:00,Colombia,Bogota,Consumer & Retail,Airline loyalty program
+,Guideline,1.15,2021-06-16 00:00:00,United States,San Mateo,Financial Services,401(k) platform
+,Rebellion Defense,1.15,2021-09-16 00:00:00,United States,Washington DC,Industrials,Defense software
+,Elemy,1.15,2021-10-06 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Pediatric behavioral health
+,TELD,1.12,2019-12-16 00:00:00,China,Qingdao,Industrials,EV charging network
+,Chainguard,1.12,2024-07-25 00:00:00,United States,Kirkland,Enterprise Tech,Software supply chain security
+,Enable,1.12,2023-11-07 00:00:00,United States,San Francisco,Enterprise Tech,Rebate management platform
+,DANA,1.13,2022-08-10 00:00:00,Indonesia,Jakarta,Financial Services,Digital wallet
+,At-Bay,1.12,2021-07-27 00:00:00,United States,Mountain View,Insurance,Cyber insurance provider
+,Visby Medical,1.12,2022-03-01 00:00:00,United States,San Jose,Healthcare & Life Sciences,Diagnostic testing devices
+,Invoca,1.1,2022-06-14 00:00:00,United States,Santa Barbara,Enterprise Tech,Conversation intelligence platform
+,TalkingData,1.1,2021-01-06 00:00:00,China,Beijing,Enterprise Tech,Mobile analytics platform
+,Rapido,1.1,2024-07-29 00:00:00,India,Madhapur,Industrials,Bike taxi platform
+,ElevenLabs,1.1,2024-01-22 00:00:00,United States,New York,Enterprise Tech,AI voice synthesis
+,Wasabi,1.1,2022-09-27 00:00:00,United States,Boston,Enterprise Tech,Cloud storage platform
+,Halan,1.0,2023-02-01 00:00:00,Egypt,Cairo,Financial Services,Super app platform
+,Rokid,1.0,2023-11-20 00:00:00,United States,Redwood City,Media & Entertainment,AR glasses manufacturer
+,Krutrim,1.0,2024-01-26 00:00:00,India,Bengaluru,Enterprise Tech,Large language models
+,Headway,1.0,2023-10-05 00:00:00,United States,Orlando,Healthcare & Life Sciences,Mental healthcare platform
+,TangoMe,1.1,2014-03-20 00:00:00,United States,Mountain View,Media & Entertainment,Live streaming platform
+,AppDirect,1.1,2015-10-07 00:00:00,United States,San Francisco,Enterprise Tech,Subscription commerce platform
+,Juanpi,1.1,2016-04-14 00:00:00,China,Wuhan,Consumer & Retail,Fashion e-commerce platform
+,OVH,1.1,2016-08-15 00:00:00,France,Roubaix,Enterprise Tech,Cloud hosting provider
+,GetYourGuide,2.0,2019-05-16 00:00:00,Germany,Berlin,Consumer & Retail,Travel experiences platform
+,Ivalua,1.1,2019-05-21 00:00:00,United States,Redwood City,Enterprise Tech,Procurement software
+,Sisense,1.1,2020-01-09 00:00:00,United States,New York,Enterprise Tech,Business analytics platform
+,Pharmapacks,1.1,2020-11-12 00:00:00,United States,Islandia,Consumer & Retail,E-commerce marketplace seller
+,Sennder,1.1,2021-01-14 00:00:00,Germany,Berlin,Industrials,Digital freight forwarding
+,Nexthink,1.1,2021-02-08 00:00:00,Switzerland,Prilly,Enterprise Tech,Digital employee experience
+,Zego,1.1,2021-03-09 00:00:00,United Kingdom,London,Insurance,Commercial motor insurance
+,Rightway,1.1,2021-03-30 00:00:00,United States,New York,Healthcare & Life Sciences,Healthcare navigation platform
+,Sunbit,1.1,2021-05-20 00:00:00,United States,Los Angeles,Financial Services,Point-of-sale lending
+,Qingting FM,1.1,2021-06-02 00:00:00,China,Shanghai,Media & Entertainment,Podcast platform
+,G2,1.1,2021-06-22 00:00:00,United States,Chicago,Enterprise Tech,Software review platform
+,Caribou,1.1,2022-05-23 00:00:00,United States,Denver,Insurance,Auto loan refinancing
+,Nowports,1.1,2022-05-24 00:00:00,Mexico,Monterrey,Industrials,Digital freight platform
+,People.ai,1.1,2021-08-11 00:00:00,United States,San Francisco,Enterprise Tech,Revenue intelligence platform
+,Carousell,1.1,2021-09-15 00:00:00,Singapore,,Consumer & Retail,Classifieds marketplace
+,apna,1.1,2021-09-15 00:00:00,India,Bengaluru,Enterprise Tech,Professional networking platform
+,Karat,1.1,2021-10-13 00:00:00,United States,Seattle,Enterprise Tech,Technical interviewing platform
+,Enpal,1.1,2021-10-18 00:00:00,Germany,Berlin,Industrials,Solar energy provider
+,Acko General Insurance,1.1,2021-10-28 00:00:00,India,Bengaluru,Insurance,Digital insurance provider
+,Daily Harvest,1.1,2021-11-16 00:00:00,United States,New York,Consumer & Retail,Frozen meal delivery
+,The Bank of London,1.1,2021-11-30 00:00:00,United Kingdom,London,Financial Services,Clearing bank
+,Fundbox,1.1,2021-11-30 00:00:00,United States,San Francisco,Financial Services,Small business lending
+,Turing,1.1,2021-12-20 00:00:00,United States,Palo Alto,Enterprise Tech,Remote developer platform
+,GlobalBees,1.1,2021-12-28 00:00:00,India,New Delhi,Consumer & Retail,E-commerce roll-up platform
+,LEAD,1.1,2022-01-13 00:00:00,India,Andheri,Consumer & Retail,School edtech platform
+,eSentire,1.1,2022-02-22 00:00:00,Canada,Waterloo,Enterprise Tech,Cybersecurity services
+,Beyond Identity,1.1,2022-02-22 00:00:00,United States,New York,Enterprise Tech,Passwordless authentication
+,Staffbase,1.1,2022-03-15 00:00:00,Germany,Chemnitz,Enterprise Tech,Employee communications platform
+,Chief,1.1,2022-03-31 00:00:00,United States,New York,Consumer & Retail,Women's executive network
+,IntelyCare,1.1,2022-04-06 00:00:00,United States,Quincy,Healthcare & Life Sciences,Healthcare staffing platform
+,Teleport,1.1,2022-05-03 00:00:00,United States,Oakland,Enterprise Tech,Infrastructure access platform
+,Imply Data,1.1,2022-05-17 00:00:00,United States,Burlingame,Enterprise Tech,Real-time analytics database
+,Material Security,1.1,2022-05-11 00:00:00,United States,Redwood City,Enterprise Tech,Email security platform
+,Recover,1.1,2022-06-09 00:00:00,Spain,Banyeres de Mariola,Industrials,Recycled cotton fiber
+,CAIS,1.1,2022-01-11 00:00:00,United States,New York,Financial Services,Alternative investment platform
+,Nxin,1.08,2018-09-18 00:00:00,China,Beijing,Industrials,Agricultural supply chain platform
+,UISEE Technology,1.08,2021-01-25 00:00:00,China,Beijing,Industrials,Autonomous driving solutions
+,56PINGTAI,1.08,2021-01-25 00:00:00,China,Shanghai,Industrials,Logistics and transportation platform
+,Cirkul,1.07,2022-06-13 00:00:00,United States,Sarasota,Consumer & Retail,Flavor cartridge water bottles
+,Radius Payment Solutions,1.07,2017-11-27 00:00:00,United Kingdom,Crewe,Industrials,Fleet payment and management solutions
+,InCred,1.05,2023-11-09 00:00:00,India,Mumbai,Financial Services,Digital lending platform
+,0x,1.05,2022-04-26 00:00:00,United States,San Francisco,Financial Services,Decentralized exchange infrastructure
+,Jiuxian,1.05,2015-07-30 00:00:00,China,Beijing,Consumer & Retail,Online alcohol retailer
+,Instabase,2.0,2019-10-21 00:00:00,United States,San Francisco,Enterprise Tech,Business process automation platform
+,Sendbird,1.05,2021-04-06 00:00:00,United States,San Mateo,Enterprise Tech,In-app messaging platform
+,Density,1.05,2021-11-10 00:00:00,United States,San Francisco,Enterprise Tech,Occupancy analytics platform
+,Mixpanel,1.05,2021-11-15 00:00:00,United States,San Francisco,Enterprise Tech,Product analytics platform
+,Branch,1.05,2022-03-01 00:00:00,United States,Columbus,Insurance,Bundled home and auto insurance
+,OrCam Technologies,1.03,2018-02-20 00:00:00,Israel,Jerusalem,Healthcare & Life Sciences,AI-powered assistive devices
+,B&C Chemical,1.02,2023-04-19 00:00:00,China,Pizhou,Industrials,Chemical manufacturing
+,Ample,1.02,2021-11-11 00:00:00,United States,San Francisco,Industrials,Electric vehicle battery swapping
+,Wheel,1.01,2022-01-19 00:00:00,United States,Austin,Healthcare & Life Sciences,Virtual healthcare platform
+,EvenUp,1.0,2024-10-08 00:00:00,United States,San Francisco,Enterprise Tech,Legal practice management software
+,Kiteworks,1.0,2024-08-14 00:00:00,United States,Palo Alto,Enterprise Tech,Content security platform
+,Rentberry,1.0,2024-09-06 00:00:00,United States,San Francisco,Financial Services,Rental payment platform
+,Vestwell,1.0,2023-12-21 00:00:00,United States,New York,Financial Services,Digital retirement platform
+,Lighthouse,1.0,2024-11-24 00:00:00,United Kingdom,London,Enterprise Tech,AI-powered security cameras
+,Moniepoint,1.0,2024-10-29 00:00:00,Nigeria,Lagos,Financial Services,Business banking platform
+,Flo Health,1.0,2024-07-30 00:00:00,United Kingdom,London,Healthcare & Life Sciences,Women's health tracking app
+,Nimble,1.0,2024-10-23 00:00:00,United States,San Francisco,Industrials,Robotic manufacturing solutions
+,Halcyon,1.0,2024-11-25 00:00:00,United States,Austin,Enterprise Tech,Cloud security platform
+,VectorBuilder,1.0,2022-10-10 00:00:00,China,Guangzhou,Healthcare & Life Sciences,Gene delivery tools
+,EliseAI,1.0,2024-08-14 00:00:00,United States,New York,Enterprise Tech,Conversational AI platform
+,The Row,1.0,2024-09-12 00:00:00,United States,New York,Consumer & Retail,Luxury fashion marketplace
+,Cosm,1.0,2024-07-31 00:00:00,United States,Los Angeles,Media & Entertainment,Immersive entertainment venues
+,The Sandbox,1.0,2024-06-06 00:00:00,Malta,St. Julians,Media & Entertainment,Blockchain gaming platform
+,Minute Media,1.0,2024-01-30 00:00:00,United States,New York,Media & Entertainment,Digital publishing platform
+,World Labs,1.0,2024-07-17 00:00:00,United States,Stanford,Enterprise Tech,AI research platform
+,Merkle Manufactory,1.0,2024-03-30 00:00:00,United States,Los Angeles,Media & Entertainment,Web3 infrastructure
+,Perfios,1.0,2024-03-13 00:00:00,India,Mumbai,Financial Services,Financial analytics platform
+,Saronic Technologies,1.0,2024-07-19 00:00:00,United States,Austin,Industrials,Industrial automation solutions
+,Sakana AI,1.0,2024-06-26 00:00:00,Japan,Tokyo,Enterprise Tech,AI model development platform
+,Tamara,1.0,2023-12-18 00:00:00,Saudi Arabia,Riyadh,Financial Services,Buy now pay later platform
+,Aven,1.0,2024-07-17 00:00:00,United States,San Fransisco,Financial Services,Business banking platform
+,Semperis,1.0,2024-06-20 00:00:00,United States,Hoboken,Enterprise Tech,Identity security platform
+,Xreal,1.0,2024-01-29 00:00:00,China,Beijing,Media & Entertainment,AR glasses manufacturer
+,Silverfort,1.0,2024-01-23 00:00:00,Israel,Tel Aviv,Enterprise Tech,Identity protection platform
+,Pigment,1.0,2024-04-03 00:00:00,France,Paris,Enterprise Tech,Business planning platform
+,Huma,1.0,2024-07-16 00:00:00,United Kingdom,London,Healthcare & Life Sciences,Digital health platform
+,IntraBio,1.0,2024-03-23 00:00:00,United Kingdom,Oxfordshire,Healthcare & Life Sciences,Drug development platform
+,Andalusia Labs,1.0,2023-12-13 00:00:00,United Arab Emirates,Abu Dhabi,Enterprise Tech,AI research lab
+,EmployerDirect Healthcare,1.0,2023-12-19 00:00:00,United States,Dallas,Healthcare & Life Sciences,Healthcare benefits platform
+,Electric Hydrogen,1.0,2023-10-03 00:00:00,United States,Natick,Industrials,Green hydrogen production
+,TechMet,1.0,2023-12-07 00:00:00,Ireland,Dublin,Industrials,Battery metals investment
+,Altana AI,1.0,2024-07-29 00:00:00,United States,New York,Enterprise Tech,Supply chain intelligence platform
+,MaintainX,1.0,2023-12-06 00:00:00,United States,San Fransisco,Enterprise Tech,Maintenance management software
+,01.AI,1.0,2023-11-05 00:00:00,China,Beijing,Enterprise Tech,AI model development platform
+,MindMaze,1.0,2022-02-17 00:00:00,Switzerland,Lausanne,Healthcare & Life Sciences,Digital neurotherapeutics platform
+,Avenue One,1.0,2023-05-15 00:00:00,United States,New York,Financial Services,Real estate investment platform
+,DataSnipper,1.0,2024-02-01 00:00:00,Netherlands,Amsterdam,Enterprise Tech,Audit automation software
+,Flashbots,1.0,2023-07-21 00:00:00,Cayman Islands,Grand Cayman,Enterprise Tech,MEV infrastructure
+,Typeface,1.0,2023-06-29 00:00:00,United States,Los Altos,Enterprise Tech,AI content generation platform
+,Imbue,1.0,2023-09-07 00:00:00,United States,San Francisco,Enterprise Tech,AI agent development platform
+,Restaurant365,1.0,2023-05-19 00:00:00,United States,Irvine,Consumer & Retail,Restaurant management software
+,Kin,1.0,2023-09-13 00:00:00,United States,Chicago,Insurance,Home insurance platform
+,KoBold Metals,1.0,2023-06-20 00:00:00,United States,Berkeley,Industrials,AI-powered mineral exploration
+,Go,1.0,2023-05-24 00:00:00,Japan,Tokyo,Industrials,Electric vehicle platform
+,Percent,1.0,2018-11-30 00:00:00,China,Beijing,Enterprise Tech,Private credit marketplace
+,1Komma5,1.08,2023-06-23 00:00:00,Germany,Hamburg,Industrials,Clean energy solutions
+,Gradiant,1.0,2023-05-17 00:00:00,United States,Woburn,Industrials,Water treatment technology
+,Palmetto,1.0,2022-02-24 00:00:00,United States,Charleston,Industrials,Solar energy platform
+,Humanity Protocol,1.0,2024-02-28 00:00:00,Hong Kong,,Financial Services,AI data marketplace
+,Prove Identity,1.0,2020-06-18 00:00:00,United States,New York,Enterprise Tech,Digital identity verification
+,Character.AI,1.0,2023-03-03 00:00:00,United States,Menlo Park,Media & Entertainment,AI character chat platform
+,Atmosphere,1.0,2023-02-07 00:00:00,United States,Austin,Media & Entertainment,Streaming TV platform
+,Adept,1.0,2023-03-14 00:00:00,United States,San Francisco,Enterprise Tech,AI assistant platform
+,Beamery,1.0,2022-12-13 00:00:00,United Kingdom,London,Enterprise Tech,Talent lifecycle platform
+,Flow,1.0,2022-08-15 00:00:00,United States,New York,Financial Services,Blockchain infrastructure
+,Xanadu,1.0,2022-11-09 00:00:00,Canada,Toronto,Enterprise Tech,Quantum computing platform
+,LINE MAN Wongnai,1.0,2022-09-26 00:00:00,Thailand,Bangkok,Consumer & Retail,Food delivery platform
+,Celestia,1.0,2022-10-19 00:00:00,Liechtenstein,Vaduz,Enterprise Tech,Blockchain scaling platform
+,Stability AI,1.0,2022-10-05 00:00:00,United Kingdom,London,Enterprise Tech,Open-source AI models
+,Satispay,1.0,2022-09-28 00:00:00,Italy,Milan,Financial Services,Mobile payment platform
+,Paystand,1.0,2022-08-02 00:00:00,United States,Scotts Valley,Financial Services,B2B payments platform
+,Turntide Technologies,1.0,2022-06-15 00:00:00,United States,Sunnyvale,Industrials,Smart motor systems
+,EcoVadis,1.0,2022-06-14 00:00:00,France,Paris,Enterprise Tech,Sustainability ratings platform
+,TransferMate,1.0,2022-05-22 00:00:00,Ireland,Kilkenny,Financial Services,B2B payments platform
+,Lookout,1.0,2013-10-10 00:00:00,United States,San Francisco,Enterprise Tech,Mobile security platform
+,Snapdeal,1.0,2014-05-21 00:00:00,India,New Delhi,Consumer & Retail,E-commerce marketplace
+,TechStyle Fashion Group,1.0,2014-08-29 00:00:00,United States,El Segundo,Consumer & Retail,Fashion retail platform
+,Zebec,1.0,2022-08-29 00:00:00,United States,San Francisco,Financial Services,Crypto payment streams
+,InMobi,1.0,2014-12-02 00:00:00,India,Bengaluru,Enterprise Tech,Mobile advertising platform
+,LinkSure Network,1.0,2015-01-01 00:00:00,China,Shanghai,Industrials,WiFi sharing network
+,Red Ventures,1.0,2015-01-07 00:00:00,United States,Fort Mill,Media & Entertainment,Digital media portfolio
+,BeiBei,1.0,2015-01-22 00:00:00,China,Hangzhou,Consumer & Retail,Mother and baby products
+,Lamabang,1.0,2015-03-06 00:00:00,China,Shenzhen,Consumer & Retail,Parenting community platform
+,Jimu,1.0,2015-04-21 00:00:00,China,Beijing,Financial Services,P2P lending platform
+,ShareCRM,1.0,2015-07-02 00:00:00,China,Beijing,Enterprise Tech,CRM software
+,Mia.com,1.0,2015-09-08 00:00:00,China,Beijing,Consumer & Retail,Mother and baby products
+,58 Daojia,1.0,2015-10-12 00:00:00,China,Beijing,Consumer & Retail,Home services platform
+,Womai,1.0,2015-10-12 00:00:00,China,Beijing,Consumer & Retail,Online grocery platform
+,HuJiang,1.0,2015-10-29 00:00:00,China,Shanghai,Consumer & Retail,Online education platform
+,iTutorGroup,1.0,2015-11-18 00:00:00,China,Shanghai,Consumer & Retail,Online tutoring platform
+,iCarbonX,1.0,2016-04-12 00:00:00,China,Shenzhen,Healthcare & Life Sciences,Digital health platform
+,Kendra Scott,1.0,2016-12-21 00:00:00,United States,Austin,Consumer & Retail,Jewelry brand
+,Zhuan Zhuan,1.0,2017-04-18 00:00:00,China,Beijing,Consumer & Retail,Second-hand goods platform
+,Modernizing Medicine,1.0,2017-05-10 00:00:00,United States,Boca Raton,Healthcare & Life Sciences,Healthcare software
+,DianRong,1.0,2017-08-02 00:00:00,China,Shanghai,Financial Services,P2P lending platform
+,YH Global,1.0,2017-09-21 00:00:00,China,Shenzhen,Industrials,Supply chain solutions
+,Revolution Precrafted,1.0,2017-10-23 00:00:00,Philippines,Manila,Industrials,Prefabricated buildings
+,WeLab,1.0,2017-11-08 00:00:00,Hong Kong,,Financial Services,Digital banking platform
+,Maimai,1.0,2017-11-15 00:00:00,China,Beijing,Media & Entertainment,Professional social network
+,Dxy.cn,1.0,2018-04-10 00:00:00,China,Hangzhou,Healthcare & Life Sciences,Healthcare information platform
+,HMD Global,1.0,2018-05-21 00:00:00,Finland,Espoo,Industrials,Nokia mobile devices
+,Huike Group,1.0,2018-05-24 00:00:00,China,Beijing,Enterprise Tech,Education technology platform
+,ChinaC.com,1.0,2018-06-11 00:00:00,China,Wuxi,Enterprise Tech,Cloud computing services
+,LinkDoc Technology,1.0,2018-07-05 00:00:00,China,Beijing,Healthcare & Life Sciences,Healthcare big data platform
+,Movile,1.0,2018-07-12 00:00:00,Brazil,Sao Paulo,Consumer & Retail,Mobile commerce platform
+,Pat McGrath Labs,1.0,2018-07-16 00:00:00,United States,New York,Consumer & Retail,Luxury cosmetics brand
+,Wacai,1.0,2018-07-18 00:00:00,China,Hangzhou,Financial Services,Personal finance app
+,FlashEx,1.0,2018-08-27 00:00:00,China,Beijing,Industrials,Same-day delivery platform
+,Banma Network Technologies,1.0,2018-09-13 00:00:00,China,Shanghai,Industrials,Connected car platform
+,Tresata,1.0,2018-10-10 00:00:00,United States,Charlotte,Financial Services,Data analytics platform
+,Momenta,1.0,2018-10-17 00:00:00,China,Beijing,Industrials,Autonomous driving technology
+,Hosjoy,1.0,2018-10-18 00:00:00,China,Nanjing,Consumer & Retail,Smart home solutions
+,Omio,1.0,2018-10-23 00:00:00,Germany,Berlin,Consumer & Retail,Travel booking platform
+,BitFury,1.0,2018-11-06 00:00:00,Netherlands,Amsterdam,Enterprise Tech,Blockchain infrastructure
+,REEF Technology,1.0,2018-12-10 00:00:00,United States,Miami,Industrials,Urban logistics hubs
+,Globality,1.0,2019-01-22 00:00:00,United States,Menlo Park,Enterprise Tech,AI procurement platform
+,Ynsect,1.0,2019-02-21 00:00:00,France,Evry,Industrials,Insect farming technology
+,Poizon,1.0,2019-04-29 00:00:00,China,Shanghai,Consumer & Retail,Sneaker trading platform
+,SITECH DEV,1.0,2019-05-16 00:00:00,China,Guiyang,Industrials,Electric vehicle technology
+,KnowBox,1.0,2019-05-30 00:00:00,China,Beijing,Consumer & Retail,Online education platform
+,Meero,1.0,2019-06-18 00:00:00,France,Paris,Media & Entertainment,Photography platform
+,C2FO,1.0,2019-08-07 00:00:00,United States,Leawood,Financial Services,Working capital platform
+,Numbrs,1.0,2019-08-22 00:00:00,Switzerland,Zurich,Financial Services,Personal finance app
+,EBANX,1.0,2019-10-16 00:00:00,Brazil,Curitiba,Financial Services,Payment processing platform
+,KK Group,3.0,2019-10-23 00:00:00,China,Dongguan,Consumer & Retail,Retail chain operator
+,Hotmart,1.0,2020-03-17 00:00:00,Netherlands,Amsterdam,Consumer & Retail,Digital products marketplace
+,Dubizzle Group,1.0,2020-04-28 00:00:00,United Arab Emirates,Dubai,Consumer & Retail,Classifieds platform
+,Quizlet,1.0,2020-05-13 00:00:00,United States,San Francisco,Consumer & Retail,Online learning platform
+,Orca Bio,1.0,2020-06-17 00:00:00,United States,Menlo Park,Healthcare & Life Sciences,Cell therapy platform
+,Infobip,1.0,2020-07-30 00:00:00,Croatia,Vodnjan,Enterprise Tech,Communications platform
+,Zwift,1.0,2020-09-16 00:00:00,United States,Long Beach,Healthcare & Life Sciences,Virtual fitness platform
+,Playco,1.0,2020-09-21 00:00:00,Japan,Tokyo,Media & Entertainment,Instant gaming platform
+,Gousto,1.7,2020-11-03 00:00:00,United Kingdom,London,Consumer & Retail,Meal kit delivery service
+,Alation,1.7,2021-06-03 00:00:00,United States,Redwood City,Enterprise Tech,Data intelligence platform
+,Boom Supersonic,1.0,2020-12-16 00:00:00,United States,Englewood,Industrials,Supersonic aircraft
+,Quantum Metric,1.0,2021-01-07 00:00:00,United States,Colorado Springs,Enterprise Tech,Digital experience platform
+,News Break,1.0,2021-01-07 00:00:00,United States,Mountain View,Media & Entertainment,Local news app
+,MadeiraMadeira,1.0,2021-01-07 00:00:00,Brazil,Parana,Consumer & Retail,Home goods marketplace
+,PPRO,1.0,2021-01-19 00:00:00,United Kingdom,London,Financial Services,Payment infrastructure
+,Splashtop,1.0,2021-01-27 00:00:00,United States,San Jose,Enterprise Tech,Remote access software
+,Flash Express,1.0,2021-02-01 00:00:00,Thailand,Bangkok,Industrials,Logistics platform
+,Axiom Space,1.0,2021-02-16 00:00:00,United States,Houston,Industrials,Space station development
+,Locus Robotics,1.0,2021-02-17 00:00:00,United States,Wilmington,Industrials,Warehouse robotics
+,Standard AI,1.0,2021-02-17 00:00:00,United States,San Francisco,Consumer & Retail,Autonomous retail technology
+,Newsela,1.0,2021-02-25 00:00:00,United States,New York,Consumer & Retail,Educational content platform
+,Aqua Security,1.0,2021-03-10 00:00:00,Israel,Ramat Gan,Enterprise Tech,Cloud security platform
+,PatSnap,1.0,2021-03-16 00:00:00,Singapore,,Enterprise Tech,Innovation intelligence platform
+,Evidation,1.0,2021-03-22 00:00:00,United States,San Mateo,Healthcare & Life Sciences,Health data platform
+,Sidecar Health,1.0,2021-01-26 00:00:00,United States,El Segundo,Healthcare & Life Sciences,Health insurance platform
+,Feedzai,1.0,2021-03-24 00:00:00,United States,San Mateo,Financial Services,Fraud detection platform
+,Cameo,1.0,2021-03-30 00:00:00,United States,Chicago,Media & Entertainment,Celebrity video platform
+,Hyperchain,1.0,2021-04-11 00:00:00,China,Hangzhou,Enterprise Tech,Blockchain platform
+,The Zebra,1.0,2021-04-12 00:00:00,United States,Austin,Insurance,Insurance comparison platform
+,Fiture,1.0,2021-04-14 00:00:00,China,Chengdu,Healthcare & Life Sciences,Smart fitness mirror
+,Injective,1.0,2021-04-20 00:00:00,United States,New York,Financial Services,Decentralized exchange protocol
+,Sift,1.0,2021-04-22 00:00:00,United States,San Francisco,Enterprise Tech,Fraud prevention platform
+,Teya,1.0,2021-04-09 00:00:00,United Kingdom,London,Financial Services,Payment solutions platform
+,Capsule,1.0,2021-04-28 00:00:00,United States,New York,Healthcare & Life Sciences,Digital pharmacy platform
+,MOLOCO,1.5,2021-04-29 00:00:00,United States,Redwood City,Enterprise Tech,Mobile advertising platform
+,Inari,1.65,2021-05-12 00:00:00,United States,Cambridge,Industrials,Seed technology platform
+,Mux,1.0,2021-04-30 00:00:00,United States,San Francisco,Media & Entertainment,Video infrastructure platform
+,XForcePlus,1.0,2021-06-01 00:00:00,China,Shanghai,Enterprise Tech,Supply chain platform
+,Augustinus Bader,1.0,2022-11-09 00:00:00,United Kingdom,London,Consumer & Retail,Luxury skincare brand
+,Shift,1.0,2021-05-06 00:00:00,France,Paris,Insurance,Insurance technology platform
+,Zihaiguo,1.0,2021-05-06 00:00:00,China,Chongqing,Consumer & Retail,Cross-border e-commerce
+,Forte Labs,1.73,2021-05-12 00:00:00,United States,San Francisco,Media & Entertainment,Gaming infrastructure platform
+,Axtria,1.0,2021-05-13 00:00:00,United States,Berkeley Heights,Enterprise Tech,Life sciences analytics
+,Amount,1.0,2021-05-17 00:00:00,United States,Chicago,Financial Services,Banking technology platform
+,Vise,1.0,2021-05-18 00:00:00,United States,New York,Financial Services,Investment management platform
+,Printful,1.0,2021-05-24 00:00:00,United States,Charlotte,Consumer & Retail,Print-on-demand platform
+,Matrixport,1.05,2021-06-01 00:00:00,Singapore,,Financial Services,Crypto financial services
+,Shippo,1.0,2021-06-02 00:00:00,United States,San Francisco,Industrials,Shipping software platform
+,Thirty Madison,1.0,2021-06-02 00:00:00,United States,New York,Healthcare & Life Sciences,Digital health platform
+,LetsGetChecked,1.0,2021-06-07 00:00:00,Ireland,Dublin,Healthcare & Life Sciences,At-home health testing
+,EcoFlow,1.0,2021-06-10 00:00:00,China,Shenzhen,Industrials,Portable power stations
+,Carro,1.0,2021-06-14 00:00:00,Singapore,,Industrials,Used car marketplace
+,Tractable,1.0,2021-06-16 00:00:00,United Kingdom,London,Insurance,AI damage assessment
+,Xiaoe Tech,1.0,2021-06-15 00:00:00,China,Shenzhen,Enterprise Tech,Online education platform
+,Bringg,1.0,2021-06-16 00:00:00,Israel,Tel Aviv,Enterprise Tech,Delivery management platform
+,Simply,1.0,2021-06-21 00:00:00,Israel,Tel Aviv,Media & Entertainment,Mobile gaming platform
+,Worldcoin,1.0,2021-06-29 00:00:00,United States,San Francisco,Financial Services,Digital identity and currency
+,SmartAsset,1.0,2021-06-24 00:00:00,United States,New York,Financial Services,Financial advisory platform
+,Morning Consult,1.0,2021-06-08 00:00:00,United States,Washington DC,Enterprise Tech,Decision intelligence platform
+,Visier,1.0,2021-06-29 00:00:00,Canada,Vancouver,Enterprise Tech,People analytics platform
+,ShipBob,1.0,2021-06-29 00:00:00,United States,Chicago,Consumer & Retail,Fulfillment platform
+,MobileCoin,1.06,2021-07-07 00:00:00,United States,San Francisco,Financial Services,Privacy-focused cryptocurrency
+,Amperity,1.0,2021-07-13 00:00:00,United States,Seattle,Enterprise Tech,Customer data platform
+,Pantheon Systems,1.0,2021-07-13 00:00:00,United States,San Francisco,Enterprise Tech,WebOps platform
+,Xiaoice,1.0,2021-07-12 00:00:00,China,Beijing,Media & Entertainment,AI chatbot platform
+,Caidya,1.0,2021-07-12 00:00:00,China,Shanghai,Healthcare & Life Sciences,Clinical research platform
+,Carson Group,1.0,2021-07-14 00:00:00,United States,Lincoln,Financial Services,Wealth management platform
+,Bluecore,1.0,2021-08-05 00:00:00,United States,New York,Consumer & Retail,Retail marketing platform
+,Freshbooks,1.0,2021-08-10 00:00:00,Canada,Toronto,Enterprise Tech,Accounting software
+,Snorkel AI,1.0,2021-08-09 00:00:00,United States,Palo Alto,Enterprise Tech,Data labeling platform
+,Gelato,1.0,2021-08-16 00:00:00,Norway,Oslo,Consumer & Retail,Print-on-demand network
+,Maven,1.7,2021-08-17 00:00:00,United States,New York,Healthcare & Life Sciences,Women's healthcare platform
+,PicsArt,1.0,2021-08-26 00:00:00,United States,San Francisco,Media & Entertainment,Creative platform
+,1KMXC,1.0,2021-08-30 00:00:00,China,Hangzhou,Industrials,Last-mile delivery platform
+,Cider,1.0,2021-09-02 00:00:00,Hong Kong,,Consumer & Retail,Fashion e-commerce platform
+,Berlin Brands Group,1.0,2021-09-01 00:00:00,Germany,Berlin,Consumer & Retail,E-commerce brand platform
+,Agile Robots,1.0,2021-09-09 00:00:00,Germany,Munich,Industrials,Robotics technology
+,Mammoth Biosciences,1.0,2021-09-09 00:00:00,United States,Brisbane,Healthcare & Life Sciences,CRISPR platform
+,Orchard,1.0,2021-09-09 00:00:00,United States,New York,Financial Services,Home buying platform
+,Xendit,1.0,2021-09-14 00:00:00,Indonesia,Jakarta,Financial Services,Payment gateway
+,TrueLayer,1.0,2021-09-21 00:00:00,United Kingdom,London,Financial Services,Open banking platform
+,Assembly,1.0,2021-09-21 00:00:00,United States,Culver City,Consumer & Retail,E-commerce software
+,PandaDoc,1.0,2021-09-22 00:00:00,United States,San Francisco,Enterprise Tech,Document automation platform
+,Keenon Robotics,1.0,2021-09-15 00:00:00,China,Shanghai,Industrials,Service robots
+,HAYDON,1.0,2021-09-24 00:00:00,China,Shanghai,Consumer & Retail,Fashion brand
+,Ninja Van,1.0,2021-09-27 00:00:00,Singapore,,Consumer & Retail,Logistics platform
+,Vedantu,1.0,2021-09-29 00:00:00,India,Bengaluru,Consumer & Retail,Online tutoring platform
+,Formation Bio,1.0,2021-09-30 00:00:00,United States,New York,Healthcare & Life Sciences,Drug discovery platform
+,Ajaib,1.0,2021-10-04 00:00:00,Indonesia,Jakarta,Financial Services,Investment platform
+,Licious,1.0,2021-10-05 00:00:00,India,Bengaluru,Consumer & Retail,Meat delivery platform
+,Masterworks,1.0,2021-10-05 00:00:00,United States,New York,Financial Services,Art investment platform
+,Chronosphere,1.0,2021-10-07 00:00:00,United States,New York,Enterprise Tech,Cloud monitoring platform
+,Solo.io,1.0,2021-10-07 00:00:00,United States,Cambridge,Enterprise Tech,API infrastructure platform
+,Savage X Fenty,1.0,2021-02-10 00:00:00,United States,El Segundo,Consumer & Retail,Lingerie brand
+,Swile,1.0,2021-10-11 00:00:00,France,Montpellier,Enterprise Tech,Employee benefits platform
+,MobiKwik,1.0,2021-10-13 00:00:00,India,Gurugram,Financial Services,Digital wallet platform
+,Weights & Biases,1.25,2021-10-13 00:00:00,United States,San Francisco,Enterprise Tech,ML development platform
+,Zopa,1.0,2021-10-19 00:00:00,United Kingdom,London,Financial Services,Digital banking platform
+,Dental Monitoring,1.0,2021-10-21 00:00:00,France,Paris,Healthcare & Life Sciences,Dental AI platform
+,CargoX,1.0,2021-10-21 00:00:00,Brazil,Sao Paulo,Industrials,Freight marketplace
+,Fabric,1.0,2021-10-26 00:00:00,United States,New York,Consumer & Retail,E-commerce platform
+,Augury,1.0,2021-10-26 00:00:00,United States,New York,Industrials,Machine health platform
+,Moka,1.0,2021-11-02 00:00:00,China,Beijing,Enterprise Tech,HR management platform
+,Tezign,1.0,2021-11-02 00:00:00,China,Shanghai,Enterprise Tech,Creative workflow platform
+,Vagaro,1.0,2021-11-03 00:00:00,United States,Dublin,Consumer & Retail,Booking management platform
+,IGAWorks,1.0,2021-11-08 00:00:00,South Korea,Seoul,Enterprise Tech,Mobile marketing platform
+,Contrast Security,1.0,2021-11-09 00:00:00,United States,Los Altos,Enterprise Tech,Application security platform
+,Wrapbook,1.0,2021-11-10 00:00:00,United States,New York,Media & Entertainment,Production payroll platform
+,Gaussian Robotics,1.1,2021-11-10 00:00:00,China,Shanghai,Industrials,Cleaning robots
+,Mensa Brands,1.0,2021-11-16 00:00:00,India,Bengaluru,Consumer & Retail,D2C brand aggregator
+,PLACE,1.0,2021-11-17 00:00:00,United States,Bellingham,Financial Services,Real estate platform
+,Stytch,1.0,2021-11-18 00:00:00,United States,San Francisco,Enterprise Tech,Authentication platform
+,Owkin,1.0,2021-11-18 00:00:00,United States,New York,Healthcare & Life Sciences,AI medical research platform
+,Expel,1.0,2021-11-18 00:00:00,United States,Herndon,Enterprise Tech,Security operations platform
+,NoBroker,1.0,2021-11-23 00:00:00,India,Bengaluru,Financial Services,Real estate marketplace
+,Lessen,1.0,2021-11-30 00:00:00,United States,Scottsdale,Financial Services,Property management platform
+,Clara,1.0,2021-12-06 00:00:00,Mexico,Mexico City,Financial Services,Corporate spend platform
+,YipitData,1.0,2021-12-06 00:00:00,United States,New York,Enterprise Tech,Market intelligence platform
+,Anyscale,1.0,2021-12-07 00:00:00,United States,Berkeley,Enterprise Tech,Distributed computing platform
+,Iodine Software,1.0,2021-12-01 00:00:00,United States,Austin,Healthcare & Life Sciences,Clinical documentation platform
+,ReliaQuest,1.0,2021-12-01 00:00:00,United States,Tampa,Enterprise Tech,Security operations platform
+,Pet Circle,1.0,2021-12-06 00:00:00,Australia,Alexandria,Consumer & Retail,Pet supplies platform
+,Nature's Fynd,1.0,2021-07-19 00:00:00,United States,Chicago,Consumer & Retail,Alternative protein products
+,Lydia,1.0,2021-12-08 00:00:00,France,Paris,Financial Services,Mobile payment app
+,SnapLogic,1.0,2021-12-13 00:00:00,United States,San Mateo,Enterprise Tech,Integration platform
+,Cadence,1.0,2021-12-14 00:00:00,United States,New York,Healthcare & Life Sciences,Healthcare workflow platform
+,Rothy's,1.0,2021-12-21 00:00:00,United States,San Francisco,Consumer & Retail,Sustainable footwear brand
+,VOI,1.0,2021-12-21 00:00:00,Sweden,Stockholm,Industrials,E-scooter sharing platform
+,Haomo.AI,1.0,2021-12-22 00:00:00,China,Beijing,Industrials,Autonomous driving technology
+,Kopi Kenangan,1.0,2021-12-27 00:00:00,Indonesia,Jakarta,Consumer & Retail,Coffee chain
+,InFarm,1.0,2021-12-16 00:00:00,Germany,Berlin,Industrials,Vertical farming technology
+,ONE,1.35,2021-12-08 00:00:00,Singapore,,Media & Entertainment,Digital entertainment platform
+,Fractal Analytics,1.0,2022-01-05 00:00:00,India,Mumbai,Enterprise Tech,AI analytics platform
+,Assent,1.0,2022-01-06 00:00:00,Canada,Ottawa,Industrials,Supply chain management platform
+,Pentera,1.0,2022-01-11 00:00:00,Israel,Petah Tikva,Enterprise Tech,Security validation platform
+,Darwinbox,1.0,2022-01-25 00:00:00,India,Hyderabad,Enterprise Tech,HR management platform
+,Minio,1.0,2022-01-26 00:00:00,United States,Palo Alto,Enterprise Tech,Object storage platform
+,Esusu,1.0,2022-01-27 00:00:00,United States,New York,Financial Services,Rent reporting platform
+,Betterfly,1.0,2022-02-01 00:00:00,Chile,Santiago,Enterprise Tech,Benefits management platform
+,Dune Analytics,1.0,2022-02-02 00:00:00,Norway,Oslo,Enterprise Tech,Crypto analytics platform
+,Scandit,1.0,2022-02-09 00:00:00,Switzerland,Zurich,Enterprise Tech,Computer vision platform
+,Payhawk,1.0,2022-02-14 00:00:00,United Kingdom,London,Enterprise Tech,Expense management platform
+,Watershed,1.0,2022-02-08 00:00:00,United States,San Francisco,Enterprise Tech,Carbon management platform
+,Axelar,1.0,2022-02-15 00:00:00,Canada,Waterloo,Enterprise Tech,Blockchain infrastructure
+,CHEQ,1.0,2022-02-22 00:00:00,United States,New York,Enterprise Tech,Ad verification platform
+,Hasura,1.0,2022-02-22 00:00:00,India,Bengaluru,Enterprise Tech,GraphQL platform
+,Timescale,1.0,2022-02-22 00:00:00,United States,New York,Enterprise Tech,Time-series database
+,Scalapay,1.0,2022-02-23 00:00:00,Italy,Milan,Financial Services,Buy now pay later platform
+,Omada Health,1.0,2022-02-23 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Digital health platform
+,BlueVoyant,1.0,2022-02-23 00:00:00,United States,New York,Enterprise Tech,Cybersecurity platform
+,Vendr,1.0,2022-02-24 00:00:00,United States,Boston,Enterprise Tech,SaaS buying platform
+,Gauntlet Networks,1.0,2022-03-07 00:00:00,United States,New York,Financial Services,DeFi risk platform
+,Aptos,1.0,2022-03-15 00:00:00,United States,Palo Alto,Enterprise Tech,Blockchain platform
+,Glia,1.0,2022-03-21 00:00:00,United States,New York,Enterprise Tech,Digital customer service platform
+,CommerceIQ,1.0,2022-03-21 00:00:00,United States,Palo Alto,Consumer & Retail,E-commerce management platform
+,Tarana Wireless,1.0,2022-03-23 00:00:00,United States,Milpitas,Industrials,Wireless broadband technology
+,FLASH,1.0,2022-03-16 00:00:00,United States,Austin,Industrials,Parking management platform
+,Electric,1.0,2022-03-29 00:00:00,United States,New York,Enterprise Tech,IT support platform
+,BostonGene,1.0,2022-04-06 00:00:00,United States,Waltham,Healthcare & Life Sciences,Cancer analytics platform
+,Grover,1.0,2022-04-07 00:00:00,Germany,Berlin,Consumer & Retail,Electronics rental platform
+,Genies,1.0,2022-04-12 00:00:00,United States,Venice,Media & Entertainment,Digital avatar platform
+,NexHealth,1.0,2022-04-21 00:00:00,United States,San Francisco,Healthcare & Life Sciences,Healthcare scheduling platform
+,UPSIDE Foods,1.0,2022-04-21 00:00:00,United States,Berkeley,Consumer & Retail,Cultured meat products
+,Factorial,1.0,2022-10-11 00:00:00,Spain,Barcelona,Enterprise Tech,HR software platform
+,Divergent 3D,1.0,2022-04-25 00:00:00,United States,Torrance,Industrials,3D printed auto manufacturing
+,Taxfix,1.0,2022-04-28 00:00:00,Germany,Berlin,Financial Services,Tax filing app
+,Open,1.0,2022-05-02 00:00:00,India,Bengaluru,Financial Services,Neobanking platform
+,Opn,1.0,2022-05-09 00:00:00,Japan,Tokyo,Financial Services,Payment platform
+,Remarkable,1.0,2022-05-10 00:00:00,Norway,Oslo,Consumer & Retail,Digital paper tablet
+,Habi,1.0,2022-05-11 00:00:00,Colombia,Bogota,Financial Services,Real estate platform
+,CareBridge,1.0,2022-06-08 00:00:00,United States,Nashville,Healthcare & Life Sciences,Home care platform
+,Immuta,1.0,2022-06-08 00:00:00,United States,Boston,Enterprise Tech,Data access platform
+,JupiterOne,1.0,2022-06-02 00:00:00,United States,Morrisville,Enterprise Tech,Cyber asset platform
+,Vayyar,1.0,2022-06-06 00:00:00,Israel,Yehud,Industrials,4D imaging radar technology
+,LeadSquared,1.0,2022-06-21 00:00:00,India,Bengaluru,Enterprise Tech,Sales automation platform
+,FourKites,1.0,2022-06-21 00:00:00,United States,Chicago,Enterprise Tech,Supply chain visibility platform
+,VulcanForms,1.0,2022-07-05 00:00:00,United States,Burlington,Industrials,Digital manufacturing platform
+,SingleStore,1.0,2022-07-12 00:00:00,United States,San Francisco,Enterprise Tech,Database platform
+,Unstoppable Domains,1.0,2022-07-27 00:00:00,United States,Las Vegas,Media & Entertainment,Blockchain domain platform
