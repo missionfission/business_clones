@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unicorn Companies Viewer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .controls {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        select {
+            padding: 8px;
+            font-size: 16px;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: white;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+        }
+        tr:hover {
+            background-color: #f5f5f5;
+        }
+        .data-source {
+            margin-bottom: 10px;
+        }
+        .loading {
+            text-align: center;
+            padding: 20px;
+            font-style: italic;
+            color: #666;
+        }
+        .error {
+            color: #721c24;
+            background-color: #f8d7da;
+            border: 1px solid #f5c6cb;
+            padding: 15px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        td {
+            max-width: 300px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            position: relative;
+        }
+        td:hover {
+            overflow: visible;
+            white-space: normal;
+            background-color: #fff;
+            position: relative;
+            z-index: 1;
+        }
+        td .tooltip {
+            display: none;
+            position: absolute;
+            background: #333;
+            color: #fff;
+            padding: 5px 10px;
+            border-radius: 4px;
+            font-size: 14px;
+            z-index: 2;
+            max-width: 400px;
+            white-space: normal;
+            top: 100%;
+            left: 0;
+        }
+        td:hover .tooltip {
+            display: block;
+        }
+        em {
+            color: #6c757d;
+            font-style: italic;
+        }
+        td em {
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Unicorn Companies Data Viewer</h1>
+        
+        <div class="controls">
+            <div class="data-source">
+                <label for="dataSource">Data Source:</label>
+                <select id="dataSource" onchange="loadData()">
+                    <option value="export">Export Data</option>
+                    <option value="unicorn">Unicorn Club Data</option>
+                    <option value="yc">YC Companies</option>
+                </select>
+            </div>
+            
+            <div>
+                <label for="industryFilter">Filter by Industry:</label>
+                <select id="industryFilter" onchange="filterByIndustry()">
+                    <option value="all">All Industries</option>
+                </select>
+            </div>
+        </div>
+
+        <div id="tableContainer">
+            <div class="loading">Loading data...</div>
+        </div>
+    </div>
+
+    <script>
+        let currentData = [];
+        
+        async function loadData() {
+            const source = document.getElementById('dataSource').value;
+            let filename;
+            
+            switch(source) {
+                case 'export':
+                    filename = 'export.csv';
+                    break;
+                case 'unicorn':
+                    filename = 'CB-Insights_Global-Unicorn-Club_2024_no_investors.csv';
+                    break;
+                case 'yc':
+                    filename = 'yc-companies.csv';
+                    break;
+            }
+            
+            try {
+                const response = await fetch(filename);
+                const text = await response.text();
+                parseCSV(text, source);
+            } catch (error) {
+                console.error('Error loading data:', error);
+                document.getElementById('tableContainer').innerHTML = 
+                    '<div class="error">Error loading data. Please check if the file exists.</div>';
+            }
+        }
+
+        function parseCSV(csv, source) {
+            try {
+                const lines = csv.split('\n')
+                    .filter(line => line.trim())
+                    .map(line => {
+                        if (source === 'export' || source === 'unicorn') {
+                            return line.split(',').map(val => val.replace(/^"|"$/g, '').trim());
+                        } else {
+                            const values = [];
+                            let inQuotes = false;
+                            let currentValue = '';
+                            
+                            for (let i = 0; i < line.length; i++) {
+                                const char = line[i];
+                                
+                                if (char === '"' && line[i-1] !== '\\') {
+                                    inQuotes = !inQuotes;
+                                } else if (char === ',' && !inQuotes) {
+                                    values.push(currentValue.replace(/^"|"$/g, '').trim());
+                                    currentValue = '';
+                                } else {
+                                    currentValue += char;
+                                }
+                            }
+                            values.push(currentValue.replace(/^"|"$/g, '').trim());
+                            return values;
+                        }
+                    });
+                
+                const headers = lines[0];
+                
+                currentData = lines.slice(1)
+                    .map(values => {
+                        const getValue = (val) => val || '';
+                        
+                        if (source === 'export') {
+                            return {
+                                company: getValue(values[4] || values[3]),
+                                industry: getValue(values[15]),
+                                valuation: getValue(values[17]),
+                                location: `${getValue(values[5])}${values[6] ? `, ${values[6]}` : ''}`,
+                                description: getValue(values[19])
+                            };
+                        } else if (source === 'unicorn') {
+                            return {
+                                company: getValue(values[1]),
+                                industry: getValue(values[6]),
+                                valuation: values[2] ? `$${values[2]}B` : '',
+                                location: `${getValue(values[4])}${values[3] ? `, ${values[3]}` : ''}`,
+                                description: getValue(values[7])
+                            };
+                        } else if (source === 'yc') {
+                            // Parse tags string to extract all industries
+                            let tags = '';
+                            try {
+                                // First remove the outer brackets
+                                tags = getValue(values[5])
+                                    .replace(/^\[|\]$/g, '')
+                                    .replace(/'/g, '') // Remove single quotes
+                                    .trim();
+                            } catch (e) {
+                                console.warn('Error parsing tags:', e);
+                            }
+                            
+                            return {
+                                company: getValue(values[1]),
+                                industry: tags,
+                                valuation: getValue(values[3]),
+                                location: `${getValue(values[6])}${values[7] ? `, ${values[7]}` : ''}`,
+                                description: getValue(values[2])
+                            };
+                        }
+                    });
+
+                updateIndustryFilter();
+                displayData(currentData);
+            } catch (error) {
+                console.error('Error parsing CSV:', error);
+                document.getElementById('tableContainer').innerHTML = 
+                    '<div class="error">Error parsing data. Please check the console for details.</div>';
+            }
+        }
+
+        function updateIndustryFilter() {
+            let industries;
+            const source = document.getElementById('dataSource').value;
+            
+            if (source === 'yc') {
+                // For YC data, split the comma-separated tags and create a unique list
+                industries = [...new Set(
+                    currentData
+                        .flatMap(item => item.industry.split(', '))
+                        .filter(tag => tag) // Remove empty tags
+                )].sort();
+            } else {
+                // For other data sources, keep the original behavior
+                industries = [...new Set(
+                    currentData.map(item => item.industry)
+                )].sort();
+            }
+            
+            const select = document.getElementById('industryFilter');
+            select.innerHTML = '<option value="all">All Industries</option>' +
+                industries.map(industry => 
+                    `<option value="${industry}">${industry}</option>`
+                ).join('');
+        }
+
+        function filterByIndustry() {
+            const industry = document.getElementById('industryFilter').value;
+            const source = document.getElementById('dataSource').value;
+            
+            const filteredData = industry === 'all' 
+                ? currentData 
+                : currentData.filter(item => {
+                    if (source === 'yc') {
+                        // For YC data, check if the selected industry exists in the tags
+                        return item.industry.includes(industry);
+                    } else {
+                        // For other data sources, keep the original exact match
+                        return item.industry === industry;
+                    }
+                });
+            
+            displayData(filteredData);
+        }
+
+        function displayData(data) {
+            const html = `
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Company</th>
+                            <th>Industry</th>
+                            <th>Valuation</th>
+                            <th>Location</th>
+                            <th>Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        ${data.map(item => `
+                            <tr>
+                                <td title="${item.company || ''}">${item.company || ''}</td>
+                                <td title="${item.industry || ''}">${item.industry || ''}</td>
+                                <td>${item.valuation || ''}</td>
+                                <td title="${item.location || ''}">${item.location || ''}</td>
+                                <td>
+                                    ${item.description || ''}
+                                    ${item.description?.length > 50 ? 
+                                        `<span class="tooltip">${item.description}</span>` : ''}
+                                </td>
+                            </tr>
+                        `).join('')}
+                    </tbody>
+                </table>
+            `;
+            
+            document.getElementById('tableContainer').innerHTML = html;
+        }
+
+        // Load initial data
+        loadData();
+    </script>
+</body>
+</html> 

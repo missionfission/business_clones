@@ -3,322 +3,440 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Unicorn Companies Viewer</title>
+    <title>AI Business Idea Generator</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 20px;
-            background-color: #f5f5f5;
-        }
-        .container {
-            max-width: 1200px;
+            max-width: 1000px;
             margin: 0 auto;
-        }
-        .controls {
-            margin-bottom: 20px;
-            padding: 15px;
-            background-color: white;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
-        select {
-            padding: 8px;
-            font-size: 16px;
-            border-radius: 4px;
-            border: 1px solid #ddd;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            background-color: white;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-            border-radius: 8px;
-            overflow: hidden;
-        }
-        th, td {
-            padding: 12px;
-            text-align: left;
-            border-bottom: 1px solid #ddd;
-        }
-        th {
-            background-color: #f8f9fa;
-            font-weight: bold;
-        }
-        tr:hover {
+            padding: 20px;
             background-color: #f5f5f5;
         }
-        .data-source {
-            margin-bottom: 10px;
+
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
+
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .input-section {
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        select, input {
+            padding: 12px;
+            font-size: 16px;
+            width: 300px;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            margin-bottom: 15px;
+        }
+
+        button {
+            padding: 12px 25px;
+            font-size: 16px;
+            background-color: #3498db;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 10px;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #2980b9;
+        }
+
+        button:disabled {
+            background-color: #bdc3c7;
+            cursor: not-allowed;
+        }
+
+        .idea-container {
+            margin-top: 30px;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+
+        .metrics {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+
+        .metric {
+            text-align: center;
+        }
+
+        .metric-label {
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 5px;
+        }
+
+        .metric-value {
+            font-size: 18px;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+
         .loading {
             text-align: center;
             padding: 20px;
             font-style: italic;
             color: #666;
         }
+
         .error {
-            color: #721c24;
-            background-color: #f8d7da;
-            border: 1px solid #f5c6cb;
-            padding: 15px;
-            border-radius: 4px;
+            color: #e74c3c;
+            text-align: center;
             margin: 10px 0;
         }
-        td {
-            max-width: 300px;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            white-space: nowrap;
-            position: relative;
+
+        #businessIdea {
+            font-size: 18px;
+            line-height: 1.6;
+            color: #34495e;
         }
-        td:hover {
-            overflow: visible;
-            white-space: normal;
-            background-color: #fff;
-            position: relative;
-            z-index: 1;
-        }
-        td .tooltip {
+
+        .hidden {
             display: none;
-            position: absolute;
-            background: #333;
-            color: #fff;
-            padding: 5px 10px;
-            border-radius: 4px;
-            font-size: 14px;
-            z-index: 2;
-            max-width: 400px;
-            white-space: normal;
-            top: 100%;
-            left: 0;
         }
-        td:hover .tooltip {
-            display: block;
+
+        #apiKeyInput {
+            margin-bottom: 20px;
         }
-        em {
-            color: #6c757d;
-            font-style: italic;
+
+        .formatted-output {
+            font-size: 16px;
+            line-height: 1.8;
+            color: #34495e;
+            background-color: white;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
         }
-        td em {
-            font-size: 0.9em;
+
+        .formatted-output h3 {
+            color: #2c3e50;
+            font-size: 20px;
+            margin-top: 25px;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 8px;
+        }
+
+        .formatted-output p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+
+        .idea-container {
+            margin-top: 30px;
+            padding: 30px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            background-color: #f9f9f9;
+        }
+
+        .idea-container h2 {
+            color: #2c3e50;
+            margin-bottom: 25px;
+            text-align: center;
+            font-size: 24px;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Unicorn Companies Data Viewer</h1>
+        <h1>AI Business Idea Generator</h1>
         
-        <div class="controls">
-            <div class="data-source">
-                <label for="dataSource">Data Source:</label>
-                <select id="dataSource" onchange="loadData()">
-                    <option value="export">Export Data</option>
-                    <option value="unicorn">Unicorn Club Data</option>
-                    <option value="yc">YC Companies</option>
-                </select>
-            </div>
-            
-            <div>
-                <label for="industryFilter">Filter by Industry:</label>
-                <select id="industryFilter" onchange="filterByIndustry()">
-                    <option value="all">All Industries</option>
-                </select>
-            </div>
+        <div class="input-section">
+            <input type="password" id="apiKeyInput" placeholder="Enter your OpenAI API key" />
+            <select id="industrySelect">
+                <option value="">Select an Industry</option>
+            </select>
+            <button onclick="generateIdea()" id="generateButton">Generate Idea</button>
         </div>
 
-        <div id="tableContainer">
-            <div class="loading">Loading data...</div>
+        <div id="loadingIndicator" class="loading hidden">
+            Generating your business idea...
+        </div>
+
+        <div id="errorMessage" class="error hidden"></div>
+
+        <div id="ideaOutput" class="idea-container hidden">
+            <h2>Your Business Idea</h2>
+            <div id="businessIdea" class="formatted-output"></div>
+            <div class="metrics">
+                <div class="metric">
+                    <div class="metric-label">Market Size</div>
+                    <div class="metric-value" id="marketSize"></div>
+                </div>
+                <div class="metric">
+                    <div class="metric-label">Growth Rate</div>
+                    <div class="metric-value" id="growthMetric"></div>
+                </div>
+                <div class="metric">
+                    <div class="metric-label">Success Rate</div>
+                    <div class="metric-value" id="successRate"></div>
+                </div>
+            </div>
         </div>
     </div>
 
     <script>
-        let currentData = [];
-        
+        let companiesData = {
+            unicorns: [],
+            fastGrowing: []
+        };
+
         async function loadData() {
-            const source = document.getElementById('dataSource').value;
-            let filename;
-            
-            switch(source) {
-                case 'export':
-                    filename = 'export.csv';
-                    break;
-                case 'unicorn':
-                    filename = 'CB-Insights_Global-Unicorn-Club_2024_no_investors.csv';
-                    break;
-                case 'yc':
-                    filename = 'yc-companies.csv';
-                    break;
-            }
-            
             try {
-                const response = await fetch(filename);
-                const text = await response.text();
-                parseCSV(text, source);
+                // Load unicorn companies
+                const unicornResponse = await fetch('CB-Insights_Global-Unicorn-Club_2024_no_investors.csv');
+                const unicornData = await unicornResponse.text();
+                companiesData.unicorns = parseCSV(unicornData);
+
+                // Load fast-growing companies
+                const fastGrowingResponse = await fetch('export.csv');
+                const fastGrowingData = await fastGrowingResponse.text();
+                companiesData.fastGrowing = parseCSV(fastGrowingData);
+
+                populateIndustries();
             } catch (error) {
-                console.error('Error loading data:', error);
-                document.getElementById('tableContainer').innerHTML = 
-                    '<div class="error">Error loading data. Please check if the file exists.</div>';
+                showError('Error loading company data');
+                console.error('Error:', error);
             }
         }
 
-        function parseCSV(csv, source) {
-            try {
-                const lines = csv.split('\n')
-                    .filter(line => line.trim())
-                    .map(line => {
-                        if (source === 'export' || source === 'unicorn') {
-                            return line.split(',').map(val => val.replace(/^"|"$/g, '').trim());
-                        } else {
-                            const values = [];
-                            let inQuotes = false;
-                            let currentValue = '';
-                            
-                            for (let i = 0; i < line.length; i++) {
-                                const char = line[i];
-                                
-                                if (char === '"' && line[i-1] !== '\\') {
-                                    inQuotes = !inQuotes;
-                                } else if (char === ',' && !inQuotes) {
-                                    values.push(currentValue.replace(/^"|"$/g, '').trim());
-                                    currentValue = '';
-                                } else {
-                                    currentValue += char;
-                                }
-                            }
-                            values.push(currentValue.replace(/^"|"$/g, '').trim());
-                            return values;
-                        }
-                    });
-                
-                const headers = lines[0];
-                
-                currentData = lines.slice(1)
-                    .map(values => {
-                        const getValue = (val) => val || '';
-                        
-                        if (source === 'export') {
-                            return {
-                                company: getValue(values[4] || values[3]),
-                                industry: getValue(values[15]),
-                                valuation: getValue(values[17]),
-                                location: `${getValue(values[5])}${values[6] ? `, ${values[6]}` : ''}`,
-                                description: getValue(values[19])
-                            };
-                        } else if (source === 'unicorn') {
-                            return {
-                                company: getValue(values[1]),
-                                industry: getValue(values[6]),
-                                valuation: values[2] ? `$${values[2]}B` : '',
-                                location: `${getValue(values[4])}${values[3] ? `, ${values[3]}` : ''}`,
-                                description: getValue(values[7])
-                            };
-                        } else if (source === 'yc') {
-                            // Parse tags string to extract all industries
-                            let tags = '';
-                            try {
-                                // First remove the outer brackets
-                                tags = getValue(values[5])
-                                    .replace(/^\[|\]$/g, '')
-                                    .replace(/'/g, '') // Remove single quotes
-                                    .trim();
-                            } catch (e) {
-                                console.warn('Error parsing tags:', e);
-                            }
-                            
-                            return {
-                                company: getValue(values[1]),
-                                industry: tags,
-                                valuation: getValue(values[3]),
-                                location: `${getValue(values[6])}${values[7] ? `, ${values[7]}` : ''}`,
-                                description: getValue(values[2])
-                            };
-                        }
-                    });
-
-                updateIndustryFilter();
-                displayData(currentData);
-            } catch (error) {
-                console.error('Error parsing CSV:', error);
-                document.getElementById('tableContainer').innerHTML = 
-                    '<div class="error">Error parsing data. Please check the console for details.</div>';
-            }
-        }
-
-        function updateIndustryFilter() {
-            let industries;
-            const source = document.getElementById('dataSource').value;
-            
-            if (source === 'yc') {
-                // For YC data, split the comma-separated tags and create a unique list
-                industries = [...new Set(
-                    currentData
-                        .flatMap(item => item.industry.split(', '))
-                        .filter(tag => tag) // Remove empty tags
-                )].sort();
-            } else {
-                // For other data sources, keep the original behavior
-                industries = [...new Set(
-                    currentData.map(item => item.industry)
-                )].sort();
-            }
-            
-            const select = document.getElementById('industryFilter');
-            select.innerHTML = '<option value="all">All Industries</option>' +
-                industries.map(industry => 
-                    `<option value="${industry}">${industry}</option>`
-                ).join('');
-        }
-
-        function filterByIndustry() {
-            const industry = document.getElementById('industryFilter').value;
-            const source = document.getElementById('dataSource').value;
-            
-            const filteredData = industry === 'all' 
-                ? currentData 
-                : currentData.filter(item => {
-                    if (source === 'yc') {
-                        // For YC data, check if the selected industry exists in the tags
-                        return item.industry.includes(industry);
-                    } else {
-                        // For other data sources, keep the original exact match
-                        return item.industry === industry;
-                    }
+        function parseCSV(csv) {
+            const lines = csv.split('\n');
+            const headers = lines[0].split(',');
+            return lines.slice(1).map(line => {
+                const values = line.split(',');
+                const entry = {};
+                headers.forEach((header, index) => {
+                    entry[header.trim()] = values[index];
                 });
-            
-            displayData(filteredData);
+                return entry;
+            });
         }
 
-        function displayData(data) {
-            const html = `
-                <table>
-                    <thead>
-                        <tr>
-                            <th>Company</th>
-                            <th>Industry</th>
-                            <th>Valuation</th>
-                            <th>Location</th>
-                            <th>Description</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        ${data.map(item => `
-                            <tr>
-                                <td title="${item.company || ''}">${item.company || ''}</td>
-                                <td title="${item.industry || ''}">${item.industry || ''}</td>
-                                <td>${item.valuation || ''}</td>
-                                <td title="${item.location || ''}">${item.location || ''}</td>
-                                <td>
-                                    ${item.description || ''}
-                                    ${item.description?.length > 50 ? 
-                                        `<span class="tooltip">${item.description}</span>` : ''}
-                                </td>
-                            </tr>
-                        `).join('')}
-                    </tbody>
-                </table>
-            `;
+        function populateIndustries() {
+            const industries = new Set();
             
-            document.getElementById('tableContainer').innerHTML = html;
+            companiesData.unicorns.forEach(company => {
+                if (company.Industry) {
+                    industries.add(company.Industry.trim());
+                }
+            });
+
+            companiesData.fastGrowing.forEach(company => {
+                if (company.Industry) {
+                    industries.add(company.Industry.trim());
+                }
+            });
+
+            const select = document.getElementById('industrySelect');
+            [...industries].sort().forEach(industry => {
+                const option = document.createElement('option');
+                option.value = industry;
+                option.textContent = industry;
+                select.appendChild(option);
+            });
+        }
+
+        async function generateIdea() {
+            const apiKey = document.getElementById('apiKeyInput').value;
+            const industry = document.getElementById('industrySelect').value;
+            
+            if (!apiKey) {
+                showError('Please enter your OpenAI API key');
+                return;
+            }
+            
+            if (!industry) {
+                showError('Please select an industry');
+                return;
+            }
+
+            showLoading(true);
+            hideError();
+
+            try {
+                const industryData = getIndustryData(industry);
+                const prompt = generatePrompt(industry, industryData);
+                
+                const response = await fetch('https://api.openai.com/v1/chat/completions', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${apiKey}`
+                    },
+                    body: JSON.stringify({
+                        model: "gpt-4o",
+                        messages: [{
+                            role: "user",
+                            content: prompt
+                        }],
+                        temperature: 0.1
+                    })
+                });
+
+                const data = await response.json();
+                
+                if (data.error) {
+                    throw new Error(data.error.message);
+                }
+
+                const idea = data.choices[0].message.content;
+                displayResults(idea, industryData);
+            } catch (error) {
+                showError('Error generating idea: ' + error.message);
+                console.error('Error:', error);
+            } finally {
+                showLoading(false);
+            }
+        }
+
+        function getIndustryData(industry) {
+            const unicorns = companiesData.unicorns.filter(c => c.Industry === industry);
+            const fastGrowing = companiesData.fastGrowing.filter(c => c.Industry === industry);
+            
+            return {
+                unicorns,
+                fastGrowing,
+                averageValuation: calculateAverageValuation(unicorns),
+                averageGrowth: calculateAverageGrowth(fastGrowing),
+                successRate: calculateSuccessRate(unicorns, fastGrowing)
+            };
+        }
+
+        function generatePrompt(industry, data) {
+            return `Act as a business strategy expert and generate an innovative business idea for the ${industry} industry.
+            
+            Industry Context:
+            - Number of unicorn companies: ${data.unicorns.length}
+            - Number of fast-growing companies: ${data.fastGrowing.length}
+            - Average valuation: $${data.averageValuation}B
+            - Average growth rate: ${data.averageGrowth}%
+
+            Example successful companies in this industry:
+            ${data.unicorns.slice(0, 3).map(c => `- ${c.company}: ${c['Core Product/Service']}`).join('\n')}
+            ${data.fastGrowing.slice(0, 3).map(c => `- ${c.company_name}: ${c['Core Product/Service']}`).join('\n')}
+
+            Please generate a detailed business idea with the following sections clearly labeled:
+
+            BUSINESS CONCEPT:
+            Provide a clear 2-3 sentence overview of the business idea.
+
+            VALUE PROPOSITION:
+            Explain the unique value proposition in detail.
+
+            TARGET MARKET:
+            Describe the primary and secondary target markets.
+
+            KEY DIFFERENTIATORS:
+            List 3-4 key differentiating factors that set this business apart.
+
+            REVENUE STREAMS:
+            Detail multiple potential revenue streams.
+
+            GO-TO-MARKET STRATEGY:
+            Outline the initial launch and marketing strategy.
+
+            Please format each section with clear headings and paragraphs.`;
+        }
+
+        function displayResults(idea, data) {
+            document.getElementById('ideaOutput').classList.remove('hidden');
+            
+            // Format the idea text with proper paragraphs
+            const formattedIdea = idea
+                .split('\n')
+                .map(line => {
+                    line = line.trim();
+                    // Check if line is a heading (contains a colon)
+                    if (line.includes(':') && !line.includes(' ')) {
+                        const headingText = line.replace(':', '');
+                        return `<h3 style="color: #2c3e50; margin-top: 25px; margin-bottom: 15px; font-size: 20px; border-bottom: 2px solid #3498db; padding-bottom: 8px;">${headingText}</h3>`;
+                    }
+                    // Regular paragraph
+                    if (line.length > 0) {
+                        return `<p style="margin-bottom: 15px; line-height: 1.8;">${line}</p>`;
+                    }
+                    return '';
+                })
+                .join('');
+
+            // Add some additional styling to the container
+            const businessIdeaElement = document.getElementById('businessIdea');
+            businessIdeaElement.innerHTML = formattedIdea;
+            businessIdeaElement.style.textAlign = 'left';
+            businessIdeaElement.style.padding = '20px';
+            businessIdeaElement.style.backgroundColor = 'white';
+            businessIdeaElement.style.borderRadius = '8px';
+            businessIdeaElement.style.boxShadow = '0 1px 3px rgba(0,0,0,0.1)';
+
+            document.getElementById('marketSize').textContent = `$${data.averageValuation}B`;
+            document.getElementById('growthMetric').textContent = `${data.averageGrowth}%`;
+            document.getElementById('successRate').textContent = `${data.successRate}%`;
+        }
+
+        function calculateAverageValuation(companies) {
+            const valuations = companies
+                .map(c => parseFloat(c.Valuation))
+                .filter(v => !isNaN(v));
+            return valuations.length ? 
+                (valuations.reduce((a, b) => a + b, 0) / valuations.length).toFixed(2) : 
+                'N/A';
+        }
+
+        function calculateAverageGrowth(companies) {
+            const growthRates = companies
+                .map(c => parseFloat(c.employee_growth))
+                .filter(g => !isNaN(g));
+            return growthRates.length ? 
+                (growthRates.reduce((a, b) => a + b, 0) / growthRates.length).toFixed(2) : 
+                'N/A';
+        }
+
+        function calculateSuccessRate(unicorns, fastGrowing) {
+            const totalCompanies = unicorns.length + fastGrowing.length;
+            return totalCompanies ? 
+                ((unicorns.length / totalCompanies) * 100).toFixed(1) : 
+                'N/A';
+        }
+
+        function showLoading(show) {
+            document.getElementById('loadingIndicator').classList.toggle('hidden', !show);
+            document.getElementById('generateButton').disabled = show;
+        }
+
+        function showError(message) {
+            const errorElement = document.getElementById('errorMessage');
+            errorElement.textContent = message;
+            errorElement.classList.remove('hidden');
+        }
+
+        function hideError() {
+            document.getElementById('errorMessage').classList.add('hidden');
         }
 
         // Load initial data
