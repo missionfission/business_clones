@@ -69,6 +69,31 @@
             overflow: hidden;
             text-overflow: ellipsis;
             white-space: nowrap;
+            position: relative;
+        }
+        td:hover {
+            overflow: visible;
+            white-space: normal;
+            background-color: #fff;
+            position: relative;
+            z-index: 1;
+        }
+        td .tooltip {
+            display: none;
+            position: absolute;
+            background: #333;
+            color: #fff;
+            padding: 5px 10px;
+            border-radius: 4px;
+            font-size: 14px;
+            z-index: 2;
+            max-width: 400px;
+            white-space: normal;
+            top: 100%;
+            left: 0;
+        }
+        td:hover .tooltip {
+            display: block;
         }
         em {
             color: #6c757d;
@@ -89,6 +114,7 @@
                 <select id="dataSource" onchange="loadData()">
                     <option value="export">Export Data</option>
                     <option value="unicorn">Unicorn Club Data</option>
+                    <option value="yc">YC Companies</option>
                 </select>
             </div>
             
@@ -110,7 +136,19 @@
         
         async function loadData() {
             const source = document.getElementById('dataSource').value;
-            const filename = source === 'export' ? 'export.csv' : 'CB-Insights_Global-Unicorn-Club_2024_no_investors.csv';
+            let filename;
+            
+            switch(source) {
+                case 'export':
+                    filename = 'export.csv';
+                    break;
+                case 'unicorn':
+                    filename = 'CB-Insights_Global-Unicorn-Club_2024_no_investors.csv';
+                    break;
+                case 'yc':
+                    filename = 'yc-companies.csv';
+                    break;
+            }
             
             try {
                 const response = await fetch(filename);
@@ -118,7 +156,8 @@
                 parseCSV(text, source);
             } catch (error) {
                 console.error('Error loading data:', error);
-                document.getElementById('tableContainer').innerHTML = 'Error loading data';
+                document.getElementById('tableContainer').innerHTML = 
+                    '<div class="error">Error loading data. Please check if the file exists.</div>';
             }
         }
 
@@ -127,7 +166,28 @@
                 const lines = csv.split('\n')
                     .filter(line => line.trim())
                     .map(line => {
-                        return line.split(',').map(val => val.replace(/^"|"$/g, '').trim());
+                        if (source === 'export' || source === 'unicorn') {
+                            return line.split(',').map(val => val.replace(/^"|"$/g, '').trim());
+                        } else {
+                            const values = [];
+                            let inQuotes = false;
+                            let currentValue = '';
+                            
+                            for (let i = 0; i < line.length; i++) {
+                                const char = line[i];
+                                
+                                if (char === '"' && line[i-1] !== '\\') {
+                                    inQuotes = !inQuotes;
+                                } else if (char === ',' && !inQuotes) {
+                                    values.push(currentValue.replace(/^"|"$/g, '').trim());
+                                    currentValue = '';
+                                } else {
+                                    currentValue += char;
+                                }
+                            }
+                            values.push(currentValue.replace(/^"|"$/g, '').trim());
+                            return values;
+                        }
                     });
                 
                 const headers = lines[0];
@@ -144,13 +204,33 @@
                                 location: `${getValue(values[5])}${values[6] ? `, ${values[6]}` : ''}`,
                                 description: getValue(values[19])
                             };
-                        } else {
+                        } else if (source === 'unicorn') {
                             return {
                                 company: getValue(values[1]),
                                 industry: getValue(values[6]),
                                 valuation: values[2] ? `$${values[2]}B` : '',
                                 location: `${getValue(values[4])}${values[3] ? `, ${values[3]}` : ''}`,
                                 description: getValue(values[7])
+                            };
+                        } else if (source === 'yc') {
+                            // Parse tags string to extract all industries
+                            let tags = '';
+                            try {
+                                // First remove the outer brackets
+                                tags = getValue(values[5])
+                                    .replace(/^\[|\]$/g, '')
+                                    .replace(/'/g, '') // Remove single quotes
+                                    .trim();
+                            } catch (e) {
+                                console.warn('Error parsing tags:', e);
+                            }
+                            
+                            return {
+                                company: getValue(values[1]),
+                                industry: tags,
+                                valuation: getValue(values[3]),
+                                location: `${getValue(values[6])}${values[7] ? `, ${values[7]}` : ''}`,
+                                description: getValue(values[2])
                             };
                         }
                     });
@@ -165,9 +245,24 @@
         }
 
         function updateIndustryFilter() {
-            const industries = [...new Set(currentData.map(item => item.industry))].sort();
-            const select = document.getElementById('industryFilter');
+            let industries;
+            const source = document.getElementById('dataSource').value;
             
+            if (source === 'yc') {
+                // For YC data, split the comma-separated tags and create a unique list
+                industries = [...new Set(
+                    currentData
+                        .flatMap(item => item.industry.split(', '))
+                        .filter(tag => tag) // Remove empty tags
+                )].sort();
+            } else {
+                // For other data sources, keep the original behavior
+                industries = [...new Set(
+                    currentData.map(item => item.industry)
+                )].sort();
+            }
+            
+            const select = document.getElementById('industryFilter');
             select.innerHTML = '<option value="all">All Industries</option>' +
                 industries.map(industry => 
                     `<option value="${industry}">${industry}</option>`
@@ -176,9 +271,19 @@
 
         function filterByIndustry() {
             const industry = document.getElementById('industryFilter').value;
+            const source = document.getElementById('dataSource').value;
+            
             const filteredData = industry === 'all' 
                 ? currentData 
-                : currentData.filter(item => item.industry === industry);
+                : currentData.filter(item => {
+                    if (source === 'yc') {
+                        // For YC data, check if the selected industry exists in the tags
+                        return item.industry.includes(industry);
+                    } else {
+                        // For other data sources, keep the original exact match
+                        return item.industry === industry;
+                    }
+                });
             
             displayData(filteredData);
         }
@@ -198,11 +303,15 @@
                     <tbody>
                         ${data.map(item => `
                             <tr>
-                                <td>${item.company || ''}</td>
-                                <td>${item.industry || ''}</td>
+                                <td title="${item.company || ''}">${item.company || ''}</td>
+                                <td title="${item.industry || ''}">${item.industry || ''}</td>
                                 <td>${item.valuation || ''}</td>
-                                <td>${item.location || ''}</td>
-                                <td>${item.description || ''}</td>
+                                <td title="${item.location || ''}">${item.location || ''}</td>
+                                <td>
+                                    ${item.description || ''}
+                                    ${item.description?.length > 50 ? 
+                                        `<span class="tooltip">${item.description}</span>` : ''}
+                                </td>
                             </tr>
                         `).join('')}
                     </tbody>
