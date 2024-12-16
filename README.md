@@ -5,11 +5,9 @@ AI-Enabled Framework to clone any business
 5. People search/team build
 6. Build Pitch Deck/Contact Investors
 
-Analyze why these companies became successful, was it new tech/product that didn’t exist or improvement over competitors or automation
-New tech possible by which change?, or change application in a niche domain, if improvement over competitors/cheaper replacement does it work??
+Data of Fastest Growing, Yc startups and Global Unicorn Companies : 
+1. Analyze why these companies became successful, was it new tech/product that didn’t exist or improvement over competitors or automation
+2. New tech possible by which change?, or change application in a niche domain, if improvement over competitors/cheaper replacement does it work??
 
-Yc startups success analysis
-
-Global Unicorn sucess analysis
-
-Using this knowledge generate business ideas
+Using this knowledge generate business ideas : Business Idea Generator in index.html
+Run : python -m http.server 8000, application will be on localhost:8000
