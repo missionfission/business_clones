@@ -10,10 +10,10 @@ Data of Fastest Growing, Yc startups and Global Unicorn Companies :
 2. New tech possible by which change?, or change application in a niche domain, if improvement over competitors/cheaper replacement does it work??
 
 Using this knowledge generate business ideas : 
-1. Easy Clones of Existing Businesses (Analyzes Geography and Competition)
-2. Crazy new ideas
-3. Identifying Unsolved problems/Market Need in existing businesses
-
+1. Easy Clones/Extensions of Existing Businesses (Analyzes Geography and Competition)
+2. Crazy new ideas/Automation
+3. Identifying Unsolved problems/Market Needs
+   
 Business Idea Generator in index.html
 
 Run : python -m http.server 8000, application will be on localhost:8000
