@@ -214,12 +214,12 @@
         async function loadData() {
             try {
                 // Load unicorn companies
-                const unicornResponse = await fetch('./CB-Insights_Global-Unicorn-Club_2024_no_investors.csv');
+                const unicornResponse = await fetch('/CB-Insights_Global-Unicorn-Club_2024_no_investors.csv');
                 const unicornData = await unicornResponse.text();
                 companiesData.unicorns = parseCSV(unicornData);
 
                 // Load fast-growing companies
-                const fastGrowingResponse = await fetch('./export.csv');
+                const fastGrowingResponse = await fetch('/export.csv');
                 const fastGrowingData = await fastGrowingResponse.text();
                 companiesData.fastGrowing = parseCSV(fastGrowingData);
 

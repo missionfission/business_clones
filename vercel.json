@@ -4,9 +4,21 @@
     {
       "src": "*.html",
       "use": "@vercel/static"
+    },
+    {
+      "src": "public/**/*",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
+    {
+      "src": "/(.+\\.csv)",
+      "dest": "/public/$1",
+      "headers": {
+        "Content-Type": "text/csv",
+        "Access-Control-Allow-Origin": "*"
+      }
+    },
     {
       "src": "/(.*)",
       "dest": "/$1",
