@@ -9,6 +9,11 @@ Data of Fastest Growing, Yc startups and Global Unicorn Companies :
 1. Analyze why these companies became successful, was it new tech/product that didn’t exist or improvement over competitors or automation
 2. New tech possible by which change?, or change application in a niche domain, if improvement over competitors/cheaper replacement does it work??
 
-Using this knowledge generate business ideas : Business Idea Generator in index.html
+Using this knowledge generate business ideas : 
+1. Easy Clones of Existing Businesses (Analyzes Geography and Competition)
+2. Crazy new ideas
+3. Identifying Unsolved problems/Market Need in existing businesses
+
+Business Idea Generator in index.html
 
 Run : python -m http.server 8000, application will be on localhost:8000
